@@ -43,6 +43,12 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Christian Rhodes (under the same license).
 
 Files:
+ images/ship/pointedstick_vanguard*
+Copyright: Maximilian Korber
+License: CC-BY-SA-4.0
+Comment: Derived from works by Nate Graham (under the same license).
+
+Files:
  images/effect/railspark*
  images/projectile/tinyflare*
  images/outfit/*engines?hai*
@@ -101,10 +107,19 @@ License: CC-BY-SA-3.0
 Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com> and
  David Monniaux (commons.wikimedia.org/wiki/User:David.Monniaux)
 
+Files: images/outfit/pug*
+Copyright: Frederick Goy IV (https://github.com/comnom)
+License: CC-BY-SA-4.0
+
+Files: images/outfit/*storage*
+Copyright: Jonathan Steck
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser and Maximilian Korber (under the same license).
+
 Files:
  images/outfit/harvested*
 Copyright: Michael Zahniser (mzahniser@gmail.com)
-License: CC-BY-SA 4.0
+License: CC-BY-SA-4.0
 Comment: Unless otherwise noted below, mineral photos are by Rob Lavinsky, under
  the CC-BY-SA-3.0 license.
 
@@ -114,13 +129,13 @@ Files:
  images/outfit/harvested?platinum*
  images/outfit/harvested?silver*
 Copyright: Michael Zahniser (mzahniser@gmail.com)
-License: CC-BY-SA 4.0
+License: CC-BY-SA-4.0
 Comment: Incorporating photos by James St. John, under the CC-BY-2.0 license.
 
 Files:
  images/outfit/harvested?gold*
 Copyright: Michael Zahniser (mzahniser@gmail.com)
-License: CC-BY-SA 4.0
+License: CC-BY-SA-4.0
 Comment: Incorporating a photo by Aram Dulyan, under the CC-BY-2.0 license.
 
 Files:
@@ -217,14 +232,6 @@ License: CC-BY-SA-4.0
 
 Files: images/land/*-harro*
 Copyright: @harro.eu (copyright@harro.eu)
-License: CC-BY-SA-4.0
-
-Files: images/land/*-iridium*
-Copyright: @Iridium Ore (blueajp@gmail.com)
-License: CC-BY-SA-4.0
-
-Files: images/land/*-spfld*
-Copyright: @spfldsatellite
 License: CC-BY-SA-4.0
 
 Files:
@@ -333,12 +340,12 @@ License: public-domain
 Files: sounds/heavy rocket hit.wav
 Copyright: Copyright Mike Koenig
 License: CC-BY-SA-3.0
- Taken from http://soundbible.com/1467-Grenade-Explosion.html
+Comment: Taken from http://soundbible.com/1467-Grenade-Explosion.html
 
 Files: sounds/explosion huge.wav
 Copyright: Copyright Mike Koenig
 License: CC-BY-SA-3.0
- Taken from http://soundbible.com/1151-Grenade.html
+Comment: Taken from http://soundbible.com/1151-Grenade.html
 
 Files: images/ship/vanguard*
 Copyright: Copyright Nate Graham <pointedstick@zoho.com>
