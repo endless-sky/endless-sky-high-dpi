@@ -85,7 +85,9 @@ Files:
 Copyright: Matthew Smestad
 License: CC-BY-SA-4.0
 
-Files: images/ship/vanguard*
+Files:
+ images/ship/vanguard*
+ images/outfit/brig*
 Copyright: Nate Graham <pointedstick@zoho.com>
 License: CC-BY-SA-4.0
 
