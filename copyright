@@ -253,6 +253,18 @@ Comment: Screenshots of environments created with assets purchased by Tymoteusz
  Zahniser to make the images look less artificial.
 
 Files:
+ images/ship/mining*
+ sounds/plasmab*
+Copyright: Zachary Siple
+License: CC-BY-SA-4.0
+
+Files:
+ images/outfit/plasma?drill*
+ images/projectile/plasmab*
+Copyright: Zachary Siple
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
  images/land/badlands0*
  images/land/badlands1*
  images/land/badlands2*
@@ -389,6 +401,12 @@ Comment: Taken from http://soundbible.com/1151-Grenade.html
 Files: images/ship/mosprey*
 Copyright: Copyright tehhowch (https://github.com/tehhowch)
 License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/projectile/sunflare*
+ images/outfit/sunflare*
+Copyright: tehhowch (github.com/tehhowch)
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 License: GPL-3+
