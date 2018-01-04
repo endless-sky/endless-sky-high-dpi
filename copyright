@@ -391,6 +391,11 @@ Copyright: Copyright tehhowch (https://github.com/tehhowch)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
+Files: images/stations/*
+Copyright: Tymoteusz Kapuściński (Sivael)
+License: CC-BY-SA-4.0
+Comment: Licensed to Tymoteusz Kapuściński by Asset Store Purchase.
+
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
