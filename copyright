@@ -408,6 +408,22 @@ Files: images/effect/explosion/pug/*
 Copyright: Vilhelm (https://github.com/Vilhelm16)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+ 
+ Files:
+ images/outfit/quarg?skylance*
+ images/hardpoint/quarg?skylance*
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived and completed from works by Maximilian Korber (Wrzlprnft), Fernando S. Sáez (Azure Nyoki), and originally drawn up by Tommy Thach (Bladewood) (all from under the same license)
+  Files:
+ images/outfit/quarg*
+ images/hardpoint/quarg*
+ images/outfit/small?quarg*
+ images/outfit/medium?quarg*
+ images/outfit/large?quarg*
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+
 
 
 License: GPL-3+
