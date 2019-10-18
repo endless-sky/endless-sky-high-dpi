@@ -435,6 +435,7 @@ Files:
  images/outfit/small?quarg*
  images/outfit/medium?quarg*
  images/outfit/large?quarg*
+ images/outfit/enforcer?riot?staff*
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 
@@ -493,6 +494,10 @@ Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Frederick Goy IV (under the same license).
 
+Files:
+ images/outfit/enforcer?confrontation?gear*
+Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-4.0
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
