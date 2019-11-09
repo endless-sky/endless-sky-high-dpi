@@ -435,6 +435,8 @@ Files:
  images/outfit/small?quarg*
  images/outfit/medium?quarg*
  images/outfit/large?quarg*
+ images/outfit/enforcer?riot?staff*
+ images/outfit/laser?rifle*
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 
@@ -450,18 +452,33 @@ Files:
  images/ship/hai?grasshopper*
  images/ship/gull*
  images/ship/pelican*
+ images/ship/riptide*
  images/thumbnail/hai?centipede*
  images/thumbnail/hai?geocoris*
  images/thumbnail/hai?grasshopper*
  images/thumbnail/gull*
  images/thumbnail/pelican*
+ images/thumbnail/riptide*
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/outfit/remnant?capital?license*
+ images/ship/penguin/penguin*
+ images/thumbnail/penguin*
+ images/scene/penguinscene*
  images/outfit/salvage?scanner*
+ images/outfit/tiny?remnant?engine*
+ images/outfit/overcharged?shield?module*
+ images/outfit/overclocked?repair?module*
+ images/outfit/void?rifle*
+ images/ship/ibis*
+ images/ship/petrel*
+ images/ship/tern*
+ images/thumbnail/ibis*
+ images/thumbnail/petrel*
+ images/thumbnail/tern*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
@@ -486,6 +503,17 @@ images/planet/station0*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/outfit/pug staff*
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Frederick Goy IV (under the same license).
+
+Files:
+ images/outfit/enforcer?confrontation?gear*
+Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-4.0
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
