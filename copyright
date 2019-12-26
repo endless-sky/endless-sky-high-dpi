@@ -18,9 +18,7 @@ Files:
  images/ship/marrow*
  images/ship/mbounder*
  images/ship/mfalcon*
- images/ship/mfirebird*
  images/ship/mfury*
- images/ship/mleviathan*
  images/ship/mmanta*
  images/ship/mquicksilver*
  images/ship/mraven*
@@ -56,9 +54,6 @@ Files:
  images/outfit/*thruster?hai*
  images/outfit/tiny?ion?engines*
  images/ship/finch*
- images/ship/nest*
- images/ship/roost*
- images/ship/skein*
 Copyright: Iaz Poolar
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
@@ -73,7 +68,6 @@ Comment: Derived from works by Jonathan Steck derived from works by Michael Zahn
 Files:
  images/ship/hai?pond?strider*
  images/ship/barb*
- images/ship/boxwing*
 Copyright: Iaz Poolar
 License: CC-BY-SA-4.0
 
@@ -86,11 +80,11 @@ Copyright: Matthew Smestad
 License: CC-BY-SA-4.0
 
 Files:
- images/hardpoint/proton turret*
- images/outfit/brig*
+ images/ship/vanguard*
  images/outfit/luxury accommodations*
  images/outfit/proton turret*
- images/ship/vanguard*
+ images/hardpoint/proton turret*
+ images/outfit/brig*
 Copyright: Nate Graham <pointedstick@zoho.com>
 License: CC-BY-SA-4.0
 
@@ -121,7 +115,9 @@ License: CC-BY-SA-3.0
 Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com> and
  David Monniaux (commons.wikimedia.org/wiki/User:David.Monniaux)
 
-Files: images/outfit/pug*
+Files:
+ images/outfit/pug*
+ images/planet/*-b*
 Copyright: Frederick Goy IV (https://github.com/comnom)
 License: CC-BY-SA-4.0
 
@@ -164,7 +160,6 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- images/ui/galaxy*
  images/planet/callisto*
  images/planet/earth*
  images/planet/europa*
@@ -273,6 +268,89 @@ License: CC-BY-SA-4.0
 Comment: Screenshots of environments created with assets purchased by Tymoteusz
  Kapuściński from the Unity Asset Store. Post-processing applied by Michael
  Zahniser to make the images look less artificial.
+ 
+Files: images/outfit/scan?module*
+Copyright: Zachary Siple
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (from under the same license).
+ 
+Files: images/outfit/tactical?scanner*
+Copyright: Zachary Siple
+License: CC-BY-SA-4.0
+
+Files:
+ images/outfit/korath?rifle*
+ images/outfit/hai?rifle*
+ images/outfit/scram?drive*
+ images/outfit/korath?fuel?processor*
+ images/outfit/remnant?rifle*
+ images/ship/hai?centipede*
+ images/ship/hai?geocoris*
+ images/ship/hai?grasshopper*
+ images/ship/gull*
+ images/ship/pelican*
+ images/ship/riptide*
+ images/thumbnail/hai?centipede*
+ images/thumbnail/hai?geocoris*
+ images/thumbnail/hai?grasshopper*
+ images/thumbnail/gull*
+ images/thumbnail/pelican*
+ images/thumbnail/riptide*
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files: images/portrait/*
+Copyright: Various
+License: public-domain
+ Taken from unsplash.com, a collection of photographs that have been donated and
+ placed in the public domain.
+ 
+Files:
+ images/outfit/quarg?skylance*
+ images/hardpoint/quarg?skylance*
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived and completed from works by Maximilian Korber (Wrzlprnft), Fernando S. Sáez (Azure Nyoki), and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
+
+Files:
+ images/outfit/quarg*
+ images/hardpoint/quarg*
+ images/outfit/small?quarg*
+ images/outfit/medium?quarg*
+ images/outfit/large?quarg*
+ images/outfit/enforcer?riot?staff*
+ images/outfit/laser?rifle*
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+
+Files:
+ images/hardpoint/annihilator?turret*
+ images/hardpoint/ravager?turret*
+ images/outfit/overcharged?shield?module*
+ images/outfit/overclocked?repair?module*
+ images/outfit/remnant?capital?license*
+ images/outfit/salvage?scanner*
+ images/outfit/tiny?remnant?engine*
+ images/outfit/void?rifle*
+ images/scene/penguinscene*
+ images/ship/ibis*
+ images/ship/penguin/penguin*
+ images/ship/petrel*
+ images/ship/tern*
+ images/thumbnail/ibis*
+ images/thumbnail/penguin*
+ images/thumbnail/petrel*
+ images/thumbnail/tern*
+ images/planet/station0*
+ images/planet/station1c*
+ images/planet/station2c*
+ images/planet/station3c*
+ images/ship/archon?b*
+ images/ship/archon?c*
+Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/land/badlands0*
@@ -391,102 +469,18 @@ Copyright: Damien Jemison
 License: CC-BY-SA-3.0
 Comment: Taken from https://commons.wikimedia.org/wiki/File:Preamplifier_at_the_National_Ignition_Facility.jpg
 
-
 Files:
  images/land/lava5*
 Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
 
-Files: sounds/*
-Copyright: Various
-License: public-domain
- Based on public domain sounds taken from freesound.org.
-
-Files: sounds/heavy rocket hit.wav
-Copyright: Copyright Mike Koenig
-License: CC-BY-SA-3.0
-Comment: Taken from http://soundbible.com/1467-Grenade-Explosion.html
-
-Files: sounds/explosion huge.wav
-Copyright: Copyright Mike Koenig
-License: CC-BY-SA-3.0
-Comment: Taken from http://soundbible.com/1151-Grenade.html
-
 Files: images/ship/mosprey*
-Copyright: Copyright tehhowch (https://github.com/tehhowch)
+Copyright: tehhowch (https://github.com/tehhowch)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files: images/effect/explosion/pug/*
 Copyright: Vilhelm (https://github.com/Vilhelm16)
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
- 
-Files:
- images/outfit/quarg?skylance*
- images/hardpoint/quarg?skylance*
-Copyright: Evan Fluharty (Evanfluharty@gmail.com)
-License: CC-BY-SA-4.0
-Comment: Derived and completed from works by Maximilian Korber (Wrzlprnft), Fernando S. Sáez (Azure Nyoki), and originally drawn up by Tommy Thach (Bladewood) (all from under the same license)
-
-Files:
- images/outfit/quarg*
- images/hardpoint/quarg*
- images/outfit/small?quarg*
- images/outfit/medium?quarg*
- images/outfit/large?quarg*
- images/outfit/enforcer?riot?staff*
- images/outfit/laser?rifle*
-Copyright: Evan Fluharty (Evanfluharty@gmail.com)
-License: CC-BY-SA-4.0
-
-
-Files:
- images/outfit/korath?rifle*
- images/outfit/hai?rifle*
- images/outfit/scram?drive*
- images/outfit/korath?fuel?processor*
- images/outfit/remnant?rifle*
- images/ship/hai?centipede*
- images/ship/hai?geocoris*
- images/ship/hai?grasshopper*
- images/ship/gull*
- images/ship/pelican*
- images/ship/riptide*
- images/thumbnail/hai?centipede*
- images/thumbnail/hai?geocoris*
- images/thumbnail/hai?grasshopper*
- images/thumbnail/gull*
- images/thumbnail/pelican*
- images/thumbnail/riptide*
-Copyright: Evan Fluharty (Evanfluharty@gmail.com)
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
-
-Files:
- images/outfit/remnant?capital?license*
- images/ship/penguin/penguin*
- images/thumbnail/penguin*
- images/scene/penguinscene*
- images/outfit/salvage?scanner*
- images/outfit/tiny?remnant?engine*
- images/outfit/overcharged?shield?module*
- images/outfit/overclocked?repair?module*
- images/outfit/void?rifle*
- images/ship/ibis*
- images/ship/petrel*
- images/ship/tern*
- images/thumbnail/ibis*
- images/thumbnail/petrel*
- images/thumbnail/tern*
-Copyright: Becca Tommaso (tommasobecca03@gmail.com)
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
-
-Files:
- images/outfit/scan?module*
- images/outfit/tactical?scanner*
-Copyright: Zachary Siple
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
@@ -499,21 +493,86 @@ Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Frederick Goy IV (under the same license).
 
-images/planet/station0*
+Files: images/outfit/security?station*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
+Comment: Derived from works by Michael Zahniser and Evan Fluharty (under the same license).
 
 Files:
- images/outfit/pug staff*
+ images/ship/nest*
+ images/ship/roost*
+ images/ship/skein*
+Copyright: Iaz Poolar
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Becca Tommaso (tommasobecca03@gmail.com).
+
+Files: images/ship/boxwing*
+Copyright: Iaz Poolar
+License: CC-BY-SA-4.0
+Comment: Detailed by Becca Tommaso (tommasobecca03@gmail.com).
+
+Files:
+ images/ship/argosy*
+ images/ship/clipper*
+ images/ship/dreadnought*
+ images/ship/fury*
+ images/ship/hauler?i*
+ images/ship/hauler?ii*
+ images/ship/hauler?iii*
+ images/ship/modified argosy*
+ images/ship/bastion*
+ images/ship/behemoth*
+ images/ship/heavy?shuttle*
+ images/ship/firebird*
+ images/ship/leviathan*
+ images/ship/shuttle*
+ images/ship/star?queen*
+ images/ship/localworldship*
+Copyright: Michael Zahniser <mzahniser@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Detailed by Becca Tommaso (tommasobecca03@gmail.com).
+
+Files:
+ images/ship/mfirebird*
+ images/ship/mleviathan*
+Copyright: Maximilian Korber
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Becca Tommaso (tommasobecca03@gmail.com).
+
+Files:
+ images/outfit/pug?staff*
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Frederick Goy IV (under the same license).
 
 Files:
+ images/planet/station1*
+ images/planet/station2*
+ images/planet/station3*
+ images/planet/station4*
+ images/ship/maeri'het*
+ images/ship/telis'het*
+ images/effect/ravager?impact*
+ images/outfit/ka'het?annihilator?turret*
+ images/outfit/ka'het?annihilator*
+ images/outfit/ka'het?emp?deployer*
+ images/outfit/ka'het?primary?cooling*
+ images/outfit/ka'het?ravager?turret*
+ images/outfit/ka'het?ravager?beam*
+ images/outfit/ka'het?shield?restorer*
+ images/outfit/ka'het?support?cooling*
+ images/planet/station1b*
+ images/planet/station2b*
+ images/projectile/annihilator*
+ images/projectile/ravager?beam*
+Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-4.0
+
+Files:
  images/outfit/enforcer?confrontation?gear*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
+Comment: Derived from works by Evan Fluharty (under the same license).
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
