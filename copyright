@@ -1,4 +1,4 @@
-﻿Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: endless-sky-high-dpi
 Upstream-Contact: Michael Zahniser <mzahniser@gmail.com>
 Source: https://github.com/endless-sky/endless-sky-high-dpi
@@ -314,6 +314,20 @@ License: CC-BY-SA-4.0
 Comment: Derived and completed from works by Maximilian Korber (Wrzlprnft), Fernando S. Sáez (Azure Nyoki), and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
 
 Files:
+ images/outfit/quarg*
+ images/hardpoint/quarg*
+ images/outfit/small?quarg*
+ images/outfit/medium?quarg*
+ images/outfit/large?quarg*
+ images/outfit/enforcer?riot?staff*
+ images/outfit/laser?rifle*
+ images/outfit/hai?pebble?core*
+ images/outfit/hai?boulder*
+ images/outfit/hai?geode*
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+
+Files:
  images/outfit/overcharged?shield?module*
  images/outfit/overclocked?repair?module*
  images/outfit/remnant?capital?license*
@@ -472,19 +486,6 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- images/outfit/quarg*
- images/hardpoint/quarg*
- images/outfit/small?quarg*
- images/outfit/medium?quarg*
- images/outfit/large?quarg*
- images/outfit/enforcer?riot?staff*
- images/outfit/laser?rifle*
- images/outfit/hai?pebble?core*
- images/outfit/hai?boulder*
- images/outfit/hai?geode*
-Copyright: Evan Fluharty (Evanfluharty@gmail.com)
-License: CC-BY-SA-4.0
-
  images/outfit/T3?anti?missile*
  images/outfit/pug?gridfire?turret*
  images/hardpoint/T3?anti?missile*
