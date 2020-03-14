@@ -355,6 +355,18 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/outfit/harvested?yottrite*
+Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-3.0
+Comment: Derived from works by Michael Zahniser and Rob Lavinsky (under the same license).
+
+Files:
+ images/effect/flotsam?yottrite*
+Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-3.0
+Comment: Derived from works by Rob Lavinsky (under the same license).
+
+Files:
  images/land/badlands0*
  images/land/badlands1*
  images/land/badlands2*
@@ -566,10 +578,12 @@ Files:
  images/ship/telis'het*
  images/ship/faes'mar*
  images/ship/selii'mar*
+ images/ship/subsidurial*
  images/thumbnail/maeri'het*
  images/thumbnail/telis'het*
  images/thumbnail/faes'mar*
  images/thumbnail/selii'mar*
+ images/thumbnail/subsidurial*
  images/effect/ravager?impact*
  images/outfit/ka'het?annihilator?turret*
  images/outfit/ka'het?annihilator*
@@ -603,6 +617,13 @@ Files:
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Made in cooperation with Becca Tommaso (tommasobecca03@gmail.com) and derived from works by Michael Zahniser (under the same license) and Maximilian Korber (under the same license)
+
+Files
+ images/effect/remnant leak*
+ images/effect/remnant leak sparkle*
+Copyright: Benjamin Jackson (gods.benyamin@outlook.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license)
 
 
 License: GPL-3+
