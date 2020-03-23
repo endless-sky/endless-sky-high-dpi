@@ -367,6 +367,18 @@ License: CC-BY-SA-3.0
 Comment: Derived from works by Rob Lavinsky (under the same license).
 
 Files:
+ images/*/pincer*
+Copyright: None; CC0 (Public Domain)
+License: None; CC0 (Public Domain)
+Comment: Textures by https://texture.ninja, other art by NomadicVolcano (nomadicvolcano@gmail.com).
+
+Files:
+ images/planet/rogue-radiating@2x.png
+Copyright: None; CC0 (Public Domain)
+License: None; CC0 (Public Domain)
+Comment: Created by NomadicVolcano (nomadicvolcano@gmail.com)
+
+Files:
  images/land/badlands0*
  images/land/badlands1*
  images/land/badlands2*
