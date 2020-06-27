@@ -290,12 +290,17 @@ Files:
  images/ship/gull*
  images/ship/pelican*
  images/ship/riptide*
+ images/ship/auxiliary*
+ images/ship/dropship*
  images/thumbnail/hai?centipede*
  images/thumbnail/hai?geocoris*
  images/thumbnail/hai?grasshopper*
  images/thumbnail/gull*
  images/thumbnail/pelican*
  images/thumbnail/riptide*
+ images/thumbnail/auxiliary*
+ images/thumbnail/dropship*
+ images/outfit/auxiliary?license*
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
@@ -493,33 +498,6 @@ Files:
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Frederick Goy IV (under the same license).
-
-Files:
- images/outfit/korath?rifle*
- images/outfit/hai?rifle*
- images/outfit/scram?drive*
- images/outfit/korath?fuel?processor*
- images/outfit/remnant?rifle*
- images/ship/hai?centipede*
- images/ship/hai?geocoris*
- images/ship/hai?grasshopper*
- images/ship/gull*
- images/ship/pelican*
- images/ship/riptide*
- images/ship/auxiliary*
- images/ship/dropship*
- images/thumbnail/hai?centipede*
- images/thumbnail/hai?geocoris*
- images/thumbnail/hai?grasshopper*
- images/thumbnail/gull*
- images/thumbnail/pelican*
- images/thumbnail/riptide*
- images/thumbnail/auxiliary*
- images/thumbnail/dropship*
- images/outfit/auxiliary?license*
-Copyright: Evan Fluharty (Evanfluharty@gmail.com)
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser(under the same license).
 
 Files: images/outfit/security?station*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
