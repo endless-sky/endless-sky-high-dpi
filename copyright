@@ -289,6 +289,7 @@ Files:
  images/ship/hai?grasshopper*
  images/ship/gull*
  images/ship/pelican*
+ images/ship/peregrine*
  images/ship/riptide*
  images/ship/auxiliary*
  images/ship/dropship*
@@ -297,6 +298,7 @@ Files:
  images/thumbnail/hai?grasshopper*
  images/thumbnail/gull*
  images/thumbnail/pelican*
+ images/thumbnail/peregrine*
  images/thumbnail/riptide*
  images/thumbnail/auxiliary*
  images/thumbnail/dropship*
@@ -350,12 +352,10 @@ Files:
  images/scene/penguinscene*
  images/ship/ibis*
  images/ship/penguin/penguin*
- images/ship/peregrine*
  images/ship/petrel*
  images/ship/tern*
  images/thumbnail/ibis*
  images/thumbnail/penguin*
- images/thumbnail/peregrine*
  images/thumbnail/petrel*
  images/thumbnail/tern*
  images/planet/station1c*
