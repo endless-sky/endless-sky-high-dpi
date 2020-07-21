@@ -289,7 +289,6 @@ Files:
  images/ship/hai?grasshopper*
  images/ship/gull*
  images/ship/pelican*
- images/ship/peregrine*
  images/ship/riptide*
  images/ship/auxiliary*
  images/ship/dropship*
@@ -520,7 +519,9 @@ Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Frederick Goy IV (under the same license).
 
-Files: images/outfit/security?station*
+Files: 
+ images/outfit/security?station*
+ images/ship/peregrine/peregrine*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser and Evan Fluharty (under the same license).
