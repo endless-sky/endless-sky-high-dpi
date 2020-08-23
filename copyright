@@ -1,4 +1,4 @@
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+﻿Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: endless-sky-high-dpi
 Upstream-Contact: Michael Zahniser <mzahniser@gmail.com>
 Source: https://github.com/endless-sky/endless-sky-high-dpi
@@ -290,12 +290,18 @@ Files:
  images/ship/gull*
  images/ship/pelican*
  images/ship/riptide*
+ images/ship/auxiliary*
+ images/ship/dropship*
  images/thumbnail/hai?centipede*
  images/thumbnail/hai?geocoris*
  images/thumbnail/hai?grasshopper*
  images/thumbnail/gull*
  images/thumbnail/pelican*
+ images/thumbnail/peregrine*
  images/thumbnail/riptide*
+ images/thumbnail/auxiliary*
+ images/thumbnail/dropship*
+ images/outfit/auxiliary?license*
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
@@ -425,6 +431,7 @@ Files:
  images/land/lava1*
  images/land/lava2*
  images/land/lava6*
+ images/land/loc3*
  images/land/mountain0*
  images/land/mountain1*
  images/land/mountain3*
@@ -515,7 +522,9 @@ Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Frederick Goy IV (under the same license).
 
-Files: images/outfit/security?station*
+Files: 
+ images/outfit/security?station*
+ images/ship/peregrine/peregrine*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser and Evan Fluharty (under the same license).
@@ -601,6 +610,9 @@ Files:
  images/outfit/ka'het?ravager?beam*
  images/outfit/ka'het?shield?restorer*
  images/outfit/ka'het?support?cooling*
+ images/outfit/ka'het?mhd?generator*
+ images/outfit/ka'het?reserve?accumulator*
+ images/outfit/mouthparts*
  images/planet/dyson1*
  images/planet/dyson2*
  images/planet/dyson3*
@@ -609,8 +621,11 @@ Files:
  images/planet/station2b*
  images/planet/station3b*
  images/planet/station3bd*
+ images/planet/station4b*
+ images/planet/station4bd*
  images/projectile/annihilator*
  images/projectile/ravager?beam*
+ images/scene/ringworld?debris*
  images/scene/remnant?station*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
@@ -627,13 +642,57 @@ Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Made in cooperation with Becca Tommaso (tommasobecca03@gmail.com) and derived from works by Michael Zahniser (under the same license) and Maximilian Korber (under the same license)
 
-Files
- images/effect/remnant leak*
- images/effect/remnant leak sparkle*
+Files:
+ images/effect/remnant?leak*
+ images/effect/remnant?leak?sparkle*
 Copyright: Benjamin Jackson (gods.benyamin@outlook.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license)
 
+Files:
+ images/outfit/finisher?storage*
+Copyright: Arachi-Lover
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/effect/dragonflame*
+ images/effect/fdrive*
+ images/effect/pwave?impact*
+ images/effect/pwave?shot*
+ images/effect/sheragiam*
+ images/effect/pwavehp*
+ images/outfit/dragonflame*
+ images/outfit/pwave?turret*
+ images/outfit/embattery*
+ images/outfit/sheragicooling*
+ images/outfit/fusiondrive*
+ images/projectile/pwavecannon*
+ images/scene/emeraldswordderelict*
+ images/ship/emeraldsword*
+ images/thumbnail/emeraldsword*
+Copyright: Fernando S. Sáez (crim@live.no)
+License: CC-BY-SA-4.0
+
+Files: sounds/dragonflame*
+Copyright: TheHadnot
+License: public-domain
+Comment: Taken from https://freesound.org/people/TheHadnot/sounds/160880/
+
+Files: sounds/pwave*
+Copyright: aust_paul
+License: public-domain
+Comment: Taken from https://freesound.org/people/aust_paul/sounds/30935/
+
+Files: images/outfit/emp?rack*
+Copyright: Anarchist2
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files: images/planet/*-hot*
+Copyright: Tommaso Becca
+License: CC-BY-SA-4.0
+Comment: Derived from works by ESA/Hubble & NASA (under the same license)
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
