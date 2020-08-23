@@ -350,9 +350,11 @@ Files:
  images/outfit/void?rifle*
  images/scene/penguinscene*
  images/ship/ibis*
+ images/ship/ember?waste?node/ember?waste?node*
  images/ship/penguin/penguin*
  images/ship/petrel*
  images/ship/tern*
+ images/thumbnail/ember?waste?node*
  images/thumbnail/ibis*
  images/thumbnail/penguin*
  images/thumbnail/petrel*
@@ -624,6 +626,7 @@ Files:
  images/projectile/annihilator*
  images/projectile/ravager?beam*
  images/scene/ringworld?debris*
+ images/scene/remnant?station*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 
