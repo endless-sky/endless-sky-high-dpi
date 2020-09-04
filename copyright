@@ -695,6 +695,21 @@ Copyright: Tommaso Becca
 License: CC-BY-SA-4.0
 Comment: Derived from works by ESA/Hubble & NASA (under the same license)
 
+Files:
+ images/ship/defense_drone*
+ images/ship/nock*
+ images/thumbnail/defense_drone*
+ images/thumbnail/nock*
+Copyright: Loyse
+License: CC-BY-SA-4.0
+
+Files:
+ images/ship/mfreighter*
+ images/thumbnail/mfreighter*
+Copyright: Loyse
+License: CC-BY-SA-4.0
+Derived from works by Michael Zahniser (under the same license)
+
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
