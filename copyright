@@ -339,6 +339,7 @@ Files:
  images/hardpoint/inhibitor?turret*
  images/hardpoint/ion?hail?turret*
  images/hardpoint/ravager?turret*
+ images/hardpoint/shooting?star?flare/ss-rays?
  images/outfit/inhibitor?turret*
  images/outfit/ion?hail?turret*
  images/outfit/overcharged?shield?module*
@@ -355,6 +356,7 @@ Files:
  images/ship/penguin/penguin*
  images/ship/petrel*
  images/ship/tern*
+ images/ship/shooting?star/shootingstar*
  images/thumbnail/ember?waste?node*
  images/thumbnail/ibis*
  images/thumbnail/penguin*
