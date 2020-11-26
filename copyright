@@ -29,8 +29,9 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 Files:
  images/outfit/gat*
  images/outfit/bullet*
+ images/scene/sagittarius?a*
  images/ship/hai?solifuge*
-Copyright: Maximilian Korber
+Copyright: Maximilian Korber (https://github.com/wrzlprnft)
 License: CC-BY-SA-4.0
 
 Files:
@@ -346,6 +347,7 @@ Files:
  images/outfit/ramscoop*
  images/outfit/remnant?afterburner*
  images/outfit/remnant?capital?license*
+ images/outfit/research?laboratory*
  images/outfit/salvage?scanner*
  images/outfit/tiny?remnant?engine*
  images/outfit/void?rifle*
@@ -689,33 +691,43 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/effect/dragonflame*
- images/effect/fdrive*
- images/effect/pwave?impact*
+ images/effect/fusionflare*
  images/effect/pwave?shot*
  images/effect/sheragiam*
  images/effect/pwavehp*
  images/effect/ka'het?flare/*
+ images/effect/fissionflare*
+ images/icon/dragonflame*
+ images/icon/shard*
  images/outfit/dragonflame*
  images/outfit/pwave?turret*
  images/outfit/embattery*
  images/outfit/sheragicooling*
  images/outfit/fusiondrive*
+ images/outfit/fissiondrive*
+ images/outfit/hion*
+ images/outfit/shard*
+ images/outfit/sheragi?ews*
+ images/outfit/small?embattery*
+ images/outfit/small?sheragi?cooling*
  images/projectile/pwavecannon*
+ images/projectile/hion*
+ images/projectile/hionfrag*
+ images/projectile/shardactive*
+ images/projectile/shardinactive*
  images/scene/emeraldswordderelict*
  images/ship/emeraldsword*
+ images/ship/blackdiamond*
  images/thumbnail/emeraldsword*
+ images/thumbnail/blackdiamond*
 Copyright: Fernando S. Sáez (crim@live.no)
 License: CC-BY-SA-4.0
 
-Files: sounds/dragonflame*
-Copyright: TheHadnot
-License: public-domain
-Comment: Taken from https://freesound.org/people/TheHadnot/sounds/160880/
-
-Files: sounds/pwave*
-Copyright: aust_paul
-License: public-domain
-Comment: Taken from https://freesound.org/people/aust_paul/sounds/30935/
+Files:
+ images/effect/pwave?impact*
+Copyright: Fernando S. Sáez (crim@live.no)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files: images/outfit/emp?rack*
 Copyright: Anarchist2
@@ -726,6 +738,11 @@ Files: images/planet/*-hot*
 Copyright: Tommaso Becca
 License: CC-BY-SA-4.0
 Comment: Derived from works by ESA/Hubble & NASA (under the same license)
+
+Files:
+ images/land/clouds*
+Copyright: Benjamin Jackson (gods.benyamin@outlook.com)
+License: CC-BY-SA-4.0
 
 Files:
  images/outfit/ka'het?maeri?engine*
