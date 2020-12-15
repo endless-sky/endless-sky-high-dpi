@@ -29,8 +29,9 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 Files:
  images/outfit/gat*
  images/outfit/bullet*
+ images/scene/sagittarius?a*
  images/ship/hai?solifuge*
-Copyright: Maximilian Korber
+Copyright: Maximilian Korber (https://github.com/wrzlprnft)
 License: CC-BY-SA-4.0
 
 Files:
@@ -346,6 +347,7 @@ Files:
  images/outfit/ramscoop*
  images/outfit/remnant?afterburner*
  images/outfit/remnant?capital?license*
+ images/outfit/research?laboratory*
  images/outfit/salvage?scanner*
  images/outfit/tiny?remnant?engine*
  images/outfit/void?rifle*
@@ -531,11 +533,18 @@ Files:
  images/ship/nest*
  images/ship/roost*
  images/ship/skein*
+ images/thumbnail/nest*
+ images/thumbnail/roost*
+ images/thumbnail/skein*
 Copyright: Iaz Poolar
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Becca Tommaso (tommasobecca03@gmail.com).
 
-Files: images/ship/boxwing*
+Files:
+ images/ship/barb*
+ images/ship/boxwing*
+ images/thumbnail/barb*
+ images/thumbnail/boxwing*
 Copyright: Iaz Poolar
 License: CC-BY-SA-4.0
 Comment: Detailed by Becca Tommaso (tommasobecca03@gmail.com).
@@ -557,6 +566,33 @@ Files:
  images/ship/shuttle*
  images/ship/star?queen*
  images/ship/localworldship*
+ images/ship/arrow*
+ images/ship/bulk?freighter*
+ images/ship/freighter*
+ images/ship/protector*
+ images/ship/star?barge*
+ images/ship/wasp*
+ images/thumbnail/argosy*
+ images/thumbnail/clipper*
+ images/thumbnail/dreadnought*
+ images/thumbnail/fury*
+ images/thumbnail/hauler?i*
+ images/thumbnail/hauler?ii*
+ images/thumbnail/hauler?iii*
+ images/thumbnail/modified argosy*
+ images/thumbnail/bastion*
+ images/thumbnail/behemoth*
+ images/thumbnail/heavy?shuttle*
+ images/thumbnail/firebird*
+ images/thumbnail/leviathan*
+ images/thumbnail/shuttle*
+ images/thumbnail/star?queen*
+ images/thumbnail/arrow*
+ images/thumbnail/bulk?freighter*
+ images/thumbnail/freighter*
+ images/thumbnail/protector*
+ images/thumbnail/star?barge*
+ images/thumbnail/wasp*
 Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Detailed by Becca Tommaso (tommasobecca03@gmail.com).
@@ -564,9 +600,26 @@ Comment: Detailed by Becca Tommaso (tommasobecca03@gmail.com).
 Files:
  images/ship/mfirebird*
  images/ship/mleviathan*
+ images/ship/marrow*
+ images/thumbnail/mfirebird*
+ images/thumbnail/mleviathan*
+ images/thumbnail/marrow*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Becca Tommaso (tommasobecca03@gmail.com).
+
+Files:
+ images/ship/pointedstick vanguard*
+Copyright: Maximilian Korber
+License: CC-BY-SA-4.0
+Comment: Derived from works by Nate Graham (under the same license) and detailed by Becca Tommaso (tommasobecca03@gmail.com).
+
+Files:
+ images/ship/vanguard*
+ images/thumbnail/vanguard*
+Copyright: Nate Graham <pointedstick@zoho.com>
+License: CC-BY-SA-4.0
+Comment: Detailed by Becca Tommaso (tommasobecca03@gmail.com).
 
 Files:
  images/ship/blackbird*
@@ -689,6 +742,18 @@ License: CC-BY-SA-4.0
 Comment: Derived from work by Michael Zahniser (under the same licence) and Red-57 (under the same licence).
 
 Files:
+ images/ship/heliarch?breacher*
+ images/ship/heliarch?hunter*
+ images/ship/heliarch?judicator*
+ images/ship/heliarch?pursuer*
+ images/ship/heliarch?rover*
+ images/ship/heliarch?stalker*
+ images/thumbnail/heliarch?breacher*
+ images/thumbnail/heliarch?hunter*
+ images/thumbnail/heliarch?judicator*
+ images/thumbnail/heliarch?pursuer*
+ images/thumbnail/heliarch?rover*
+ images/thumbnail/heliarch?stalker*
  images/outfit/finisher?storage*
 Copyright: Arachi-Lover
 License: CC-BY-SA-4.0
@@ -696,32 +761,43 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/effect/dragonflame*
- images/effect/fdrive*
- images/effect/pwave?impact*
+ images/effect/fusionflare*
  images/effect/pwave?shot*
  images/effect/sheragiam*
  images/effect/pwavehp*
+ images/effect/ka'het?flare/*
+ images/effect/fissionflare*
+ images/icon/dragonflame*
+ images/icon/shard*
  images/outfit/dragonflame*
  images/outfit/pwave?turret*
  images/outfit/embattery*
  images/outfit/sheragicooling*
  images/outfit/fusiondrive*
+ images/outfit/fissiondrive*
+ images/outfit/hion*
+ images/outfit/shard*
+ images/outfit/sheragi?ews*
+ images/outfit/small?embattery*
+ images/outfit/small?sheragi?cooling*
  images/projectile/pwavecannon*
+ images/projectile/hion*
+ images/projectile/hionfrag*
+ images/projectile/shardactive*
+ images/projectile/shardinactive*
  images/scene/emeraldswordderelict*
  images/ship/emeraldsword*
+ images/ship/blackdiamond*
  images/thumbnail/emeraldsword*
+ images/thumbnail/blackdiamond*
 Copyright: Fernando S. Sáez (crim@live.no)
 License: CC-BY-SA-4.0
 
-Files: sounds/dragonflame*
-Copyright: TheHadnot
-License: public-domain
-Comment: Taken from https://freesound.org/people/TheHadnot/sounds/160880/
-
-Files: sounds/pwave*
-Copyright: aust_paul
-License: public-domain
-Comment: Taken from https://freesound.org/people/aust_paul/sounds/30935/
+Files:
+ images/effect/pwave?impact*
+Copyright: Fernando S. Sáez (crim@live.no)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files: images/outfit/emp?rack*
 Copyright: Anarchist2
@@ -732,6 +808,23 @@ Files: images/planet/*-hot*
 Copyright: Tommaso Becca
 License: CC-BY-SA-4.0
 Comment: Derived from works by ESA/Hubble & NASA (under the same license)
+
+Files:
+ images/land/clouds*
+Copyright: Benjamin Jackson (gods.benyamin@outlook.com)
+License: CC-BY-SA-4.0
+
+Files:
+ images/outfit/ka'het?maeri?engine*
+ images/outfit/ka'het?telis?engine*
+ images/outfit/ka'het?sustainer?engine*
+Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Original work by Griffin Schutte (theronepic@gmail.com), finished by Tommaso Becca.
+
+Files: images/outfit/ka'het?compact?engine*
+Copyright: Griffin Schutte (theronepic@gmail.com)
+License: CC-BY-SA-4.0
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
