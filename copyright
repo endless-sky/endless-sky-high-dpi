@@ -362,7 +362,7 @@ Files:
  images/ship/ibis*
  images/ship/ember?waste?node/ember?waste?node*
  images/ship/mbactriane*
- images/ship/penguin/penguin*
+ images/ship/penguin/*
  images/ship/petrel*
  images/ship/tern*
  images/ship/shooting?star/shooting?star*
@@ -536,7 +536,7 @@ Comment: Derived from works by Frederick Goy IV (under the same license).
 
 Files: 
  images/outfit/security?station*
- images/ship/peregrine/peregrine*
+ images/ship/peregrine/*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser and Evan Fluharty (under the same license).
@@ -694,9 +694,8 @@ Files:
  images/ship/faes'mar*
  images/ship/selii'mar*
  images/ship/vareti'het*
- images/ship/void?sprite?adult*
- images/ship/void?sprite?infant*
- images/ship/ember?waste?node/ember?waste?node*
+ images/ship/void?sprite/*
+ images/ship/ember?waste?node/*
  images/thumbnail/maeri'het*
  images/thumbnail/telis'het*
  images/thumbnail/faes'mar*
