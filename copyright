@@ -462,6 +462,11 @@ License: CC-BY-SA-3.0
 Comment: Derived from works by Rob Lavinsky (under the same license).
 
 Files:
+ images/ui/firingmode_*
+Copyright: Peter van der Meer (peter.vd.meer@gmail.com)
+License: CC-BY-SA-4.0
+
+Files:
  images/land/badlands0*
  images/land/badlands1*
  images/land/badlands2*
