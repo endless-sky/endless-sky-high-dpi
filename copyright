@@ -308,6 +308,13 @@ Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
+Files:
+ images/ship/modified?boxwing*
+ images/thumbnail/modified?boxwing*
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Iaz Poolar (under the same license).
+
 Files: images/portrait/*
 Copyright: Various
 License: public-domain
@@ -781,6 +788,7 @@ Files:
  images/outfit/ka'het?support?cooling*
  images/outfit/ka'het?mhd?generator*
  images/outfit/ka'het?reserve?accumulator*
+ images/outfit/ka'het?mhd?deployer*
  images/outfit/ka'het?nullifier*
  images/outfit/mouthparts*
  images/outfit/fuel?pod*
@@ -869,6 +877,25 @@ License: CC-BY-SA-4.0
 Comment: Derived from work by Michael Zahniser (under the same licence) and Becca Tommaso (under the same licence).
 
 Files:
+ images/_menu/haze-blackbody+*
+ images/_menu/haze-full+*
+ images/_menu/haze-yellow+*
+ images/planet/browndwarf-l-rouge*
+ images/planet/browndwarf-l*
+ images/planet/browndwarf-y-rouge*
+ images/planet/browndwarf-y*
+Copyright: Lia Gerty (https://github.com/ravenshining)
+License: CC-BY-SA-4.0
+
+Files:
+ images/planet/browndwarf-t-rouge*
+ images/planet/browndwarf-t*
+ images/planet/saturn*
+Copyright: Lia Gerty (https://github.com/ravenshining)
+License: CC-BY-SA-4.0
+Comment: Derived from works by NASA (public domain)
+
+Files:
  images/ship/heliarch?breacher*
  images/ship/heliarch?hunter*
  images/ship/heliarch?judicator*
@@ -882,6 +909,9 @@ Files:
  images/thumbnail/heliarch?rover*
  images/thumbnail/heliarch?stalker*
  images/outfit/finisher?storage*
+ images/outfit/fuel?module*
+ images/outfit/large?cogeneration?module*
+ images/outfit/small?cogeneration?module*
 Copyright: Arachi-Lover
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
