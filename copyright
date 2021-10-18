@@ -1097,6 +1097,7 @@ License: CC-BY-SA-3.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/ship/auxiliary*
  images/ship/carrier*
  images/ship/combat?drone*
  images/ship/cruiser*
@@ -1104,6 +1105,7 @@ Files:
  images/ship/gunboat*
  images/ship/lance*
  images/ship/rainmaker*
+ images/thumbnail/auxiliary*
  images/thumbnail/carrier*
  images/thumbnail/combat?drone*
  images/thumbnail/cruiser*
