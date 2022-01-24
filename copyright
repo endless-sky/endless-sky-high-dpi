@@ -940,6 +940,7 @@ Files:
  images/effect/ka'het?flare/*
  images/effect/fissionflare*
  images/effect/pwtflare*
+ images/effect/nuke*
  images/icon/dragonflame*
  images/icon/shard*
  images/outfit/dragonflame*
@@ -964,7 +965,7 @@ Files:
  images/ship/blackdiamond*
  images/thumbnail/emeraldsword*
  images/thumbnail/blackdiamond*
-Copyright: Fernando S. Sáez (crim@live.no)
+Copyright: @Karirawri (crim@live.no)
 License: CC-BY-SA-4.0
 
 Files:
