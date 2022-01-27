@@ -20,7 +20,6 @@ Files:
  images/ship/mfury*
  images/ship/mmanta*
  images/ship/mquicksilver*
- images/ship/mraven*
  images/ship/msplinter*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
@@ -940,6 +939,7 @@ Files:
  images/effect/ka'het?flare/*
  images/effect/fissionflare*
  images/effect/pwtflare*
+ images/effect/nuke*
  images/icon/dragonflame*
  images/icon/shard*
  images/outfit/dragonflame*
@@ -964,7 +964,7 @@ Files:
  images/ship/blackdiamond*
  images/thumbnail/emeraldsword*
  images/thumbnail/blackdiamond*
-Copyright: Fernando S. Sáez (crim@live.no)
+Copyright: @Karirawri (crim@live.no)
 License: CC-BY-SA-4.0
 
 Files:
@@ -1087,6 +1087,14 @@ License: CC-BY-SA-4.0
 
 Files:
  images/star/neutron*
+ images/outfit/nuke*
+ images/projectile/missile-0*
+ images/projectile/missile-1*
+ images/hardpoint/nuke*
+ images/ship/raven*
+ images/thumbnail/raven*
+ images/ship/mraven*
+ images/thumbnail/mraven*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
 
@@ -1095,6 +1103,15 @@ Files:
  images/planet/stationh-ancient1*
  images/planet/stationh-ancient2*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-3.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/effect/ember?tear/ember?tear?fire*
+ images/effect/ember?tear/ember?tear?impact*
+ images/outfit/ember?tear*
+ images/projectile/ember?tear/ember?tear*
+Copyright: X-27 (youtube.com/x-27yt)
 License: CC-BY-SA-3.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
