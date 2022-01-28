@@ -259,6 +259,17 @@ Files: images/land/*-iridium*
 Copyright: @Iridium Ore (blueajp@gmail.com)
 License: CC-BY-SA-4.0
 
+Files: images/land/lava11*
+Copyright: National Archives and Records Administration
+License: public-domain
+Comment: Taken from Wikimedia Commons. Cropped and edited.
+
+Files:
+ images/land/station12*
+Copyright: Office of War Information
+License: public-domain
+Comment: Taken from Wikimedia Commons. Cropped and edited.
+
 Files: images/land/*-spfld*
 Copyright: Eric Denni (spfldsatellite@gmail.com)
 License: CC-BY-SA-4.0
@@ -643,22 +654,12 @@ License: public-domain
  Taken from unsplash.com, a collection of photographs that have been donated and
  placed in the public domain.
 
- Files:
- images/land/station12*
-Copyright: Office of War Information
-License: public-domain
-Comment: Taken from Wikimedia commons. Cropped and edited.
-
 Files:
  images/land/lava0*
 Copyright: USGS
 License: public-domain
  From the USGS, and therefore in the public domain because they were created by
  government employees while doing work for the government.
- 
- Files: images/land/lava11*
-Copyright: National Archives and Records Administration
-License: public-domain
 
 Files:
  images/land/desert0*
@@ -668,7 +669,6 @@ Files:
  images/land/station1*
  images/land/station2*
  images/land/station3*
- images/land/station4*
 Copyright: NASA
 License: public-domain
  From NASA, and therefore in the public domain because they were created by
