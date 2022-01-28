@@ -643,12 +643,22 @@ License: public-domain
  Taken from unsplash.com, a collection of photographs that have been donated and
  placed in the public domain.
 
+ Files:
+ images/land/station12*
+Copyright: Office of War Information
+License: public-domain
+Comment: Taken from Wikimedia commons. Cropped and edited.
+
 Files:
  images/land/lava0*
 Copyright: USGS
 License: public-domain
  From the USGS, and therefore in the public domain because they were created by
  government employees while doing work for the government.
+ 
+ Files: images/land/lava11*
+Copyright: National Archives and Records Administration
+License: public-domain
 
 Files:
  images/land/desert0*
