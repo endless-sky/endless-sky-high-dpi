@@ -725,8 +725,10 @@ License: CC-BY-SA-4.0
 Comment: Detailed by Anarchist2.
 
 Files:
- images/ship/bactrian
- images/thumbnail/bactrian
+ images/ship/bactrian*
+ images/ship/mule*
+ images/thumbnail/bactrian*
+ images/thumbnail/mule*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 
