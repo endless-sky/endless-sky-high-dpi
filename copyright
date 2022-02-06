@@ -725,15 +725,6 @@ License: CC-BY-SA-4.0
 Comment: Detailed by Anarchist2.
 
 Files:
- images/ship/bactrian*
- images/ship/mule*
- images/thumbnail/bactrian*
- images/thumbnail/mule*
-Copyright: Saugia <https://github.com/Saugia>
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
-
-Files:
  images/ship/mfalcon*
  images/thumbnail/mfalcon*
 Copyright: Maximilian Korber
@@ -1130,6 +1121,15 @@ Files:
  images/thumbnail/lance*
  images/thumbnail/rainmaker*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/ship/bactrian*
+ images/ship/mule*
+ images/thumbnail/bactrian*
+ images/thumbnail/mule*
+Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
