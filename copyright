@@ -21,7 +21,6 @@ Files:
  images/ship/mmanta*
  images/ship/mquicksilver*
  images/ship/mraven*
- images/ship/msplinter*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
@@ -1092,6 +1091,10 @@ Files:
  images/projectile/missile-0*
  images/projectile/missile-1*
  images/hardpoint/nuke*
+ images/ship/msplinter*
+ images/ship/splinter*
+ images/thumbnail/msplinter*
+ images/thumbnail/splinter*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
 
