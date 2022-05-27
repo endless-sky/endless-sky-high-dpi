@@ -1085,6 +1085,39 @@ Copyright: @Karirawri (crim@live.no)
 License: CC-BY-SA-4.0
 
 Files:
+ images/effect/firestorm*
+ images/effect/heaver*
+ images/effect/*digger*
+ images/effect/shunt*
+ images/hardpoint/expeller*
+ images/hardpoint/firestorm*
+ images/hardpoint/korath heaver*
+ images/hardpoint/korath inferno*
+ images/icon/firestorm torpedo*
+ images/icon/korath heaver*
+ images/outfit/expeller*
+ images/outfit/firestorm*
+ images/outfit/korath heaver*
+ images/outfit/korath inferno*
+ images/outfit/shunt-strike*
+ images/projectile/expeller*
+ images/projectile/firestorm*
+ images/projectile/heaver*
+ images/projectile/korath digger*
+ images/projectile/korath inferno*
+ images/projectile/shunt-strike*
+Copyright: None (CC0 Public Domain)
+License: N/A (CC0 Public Domain)
+Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja
+
+Files:
+ images/hardpoint/digger turret*
+ images/outfit/korath digger turret*
+Copyright: Nomadic Volcano (NomadicVolcano@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Becca Tommaso and Michael Zahniser (under the same license).
+
+Files:
  images/effect/pwave?impact*
  images/effect/ionball?ring*
  images/effect/ion?explosion*
