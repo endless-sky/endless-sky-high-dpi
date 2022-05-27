@@ -1331,6 +1331,14 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/icon/firelight*
+ images/outfit/firelight*
+ images/outfit/firelight?bank*
+ images/outfit/firelight?rack*
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+
+Files:
  images/ship/kestrel*
  images/ship/kestrele*
  images/ship/kestrels*
