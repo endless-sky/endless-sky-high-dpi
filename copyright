@@ -1099,6 +1099,7 @@ Files:
  images/outfit/firestorm*
  images/outfit/korath heaver*
  images/outfit/korath inferno*
+ images/outfit/korath reverser*
  images/outfit/shunt-strike*
  images/projectile/expeller*
  images/projectile/firestorm*
@@ -1333,8 +1334,8 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 Files:
  images/icon/firelight*
  images/outfit/firelight*
- images/outfit/firelight?bank*
- images/outfit/firelight?rack*
+ images/outfit/firelight bank*
+ images/outfit/firelight rack*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 
