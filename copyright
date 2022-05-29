@@ -1101,6 +1101,7 @@ Files:
  images/outfit/korath inferno*
  images/outfit/korath reverser*
  images/outfit/shunt-strike*
+ 
  images/projectile/expeller*
  images/projectile/firestorm*
  images/projectile/heaver*
@@ -1110,6 +1111,15 @@ Files:
 Copyright: None (CC0 Public Domain)
 License: N/A (CC0 Public Domain)
 Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja
+
+ images/outfit/tiny korath afterburner*
+ images/outfit/small korath afterburner*
+ images/outfit/medium korath afterburner*
+ images/outfit/large korath afterburner*
+ images/outfit/huge korath afterburner*
+Copyright: None (CC0 Public Domain)
+License: N/A (CC0 Public Domain)
+Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja, with texture edits done by Gefüllte Taubenbrust <jeaminer23@gmail.com>
 
 Files:
  images/hardpoint/digger turret*
@@ -1256,11 +1266,6 @@ Files:
  images/outfit/caldera?afterburner*
  images/outfit/dark?storm*
  images/outfit/dual?sunbeam?turret*
- images/outfit/tiny korath afterburner*
- images/outfit/small korath afterburner*
- images/outfit/medium korath afterburner*
- images/outfit/large korath afterburner*
- images/outfit/huge korath afterburner*
  images/outfit/nuke*
  images/outfit/red?sun*
  images/outfit/sunbeam*
