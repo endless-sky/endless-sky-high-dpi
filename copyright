@@ -1256,7 +1256,11 @@ Files:
  images/outfit/caldera?afterburner*
  images/outfit/dark?storm*
  images/outfit/dual?sunbeam?turret*
- images/outfit/korath afterburner*
+ images/outfit/tiny korath afterburner*
+ images/outfit/small korath afterburner*
+ images/outfit/medium korath afterburner*
+ images/outfit/large korath afterburner*
+ images/outfit/huge korath afterburner*
  images/outfit/nuke*
  images/outfit/red?sun*
  images/outfit/sunbeam*
@@ -1284,8 +1288,8 @@ Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
 
 Files:
- images/outfit/korath meteor engine*
-Copyright: EjoThims <https://github.com/EjoThims>
+ images/outfit/tiny korath engine*
+Copyright: Ejo Thims <https://github.com/EjoThims>
 License: CC-BY-SA-4.0
 
 Files:
