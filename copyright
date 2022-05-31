@@ -1087,14 +1087,15 @@ License: CC-BY-SA-4.0
 Files:
  images/effect/firestorm*
  images/effect/heaver*
- images/effect/*digger*
+ images/effect/digger*
  images/effect/shunt*
- images/hardpoint/expeller*
+ images/effect/nutrigel*
  images/hardpoint/firestorm*
  images/hardpoint/korath heaver*
  images/hardpoint/korath inferno*
  images/icon/firestorm torpedo*
  images/icon/korath heaver*
+ images/icon/nutrigel*
  images/outfit/expeller*
  images/outfit/firestorm*
  images/outfit/korath heaver*
@@ -1110,6 +1111,7 @@ Files:
  images/projectile/heaver*
  images/projectile/korath digger*
  images/projectile/korath inferno*
+ images/projectile/nutrigel*
  images/projectile/shunt-strike*
 Copyright: None (CC0 Public Domain)
 License: N/A (CC0 Public Domain)
@@ -1352,6 +1354,15 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/outfit/fuel stack*
+ images/outfit/korath gel gun*
+ images/outfit/korath gel turret*
+ images/outfit/liquid sodium*
+Copyright: None (CC0 Public Domain)
+License: N/A (CC0 Public Domain)
+Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja, edits done by Saugia. 
 
 Files:
  images/icon/firelight*
