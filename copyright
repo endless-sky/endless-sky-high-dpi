@@ -1095,7 +1095,6 @@ Files:
  images/icon/nutrigel*
  images/outfit/expeller*
  images/outfit/korath heaver*
- images/outfit/korath inferno*
  images/outfit/tiny korath reverser*
  images/outfit/small korath reverser*
  images/outfit/medium korath reverser*
@@ -1123,7 +1122,9 @@ Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures fr
 
 Files:
  images/hardpoint/digger turret*
+ images/outfit/korath digger*
  images/outfit/korath digger turret*
+ images/outfit/korath inferno*
 Copyright: Nomadic Volcano (NomadicVolcano@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Becca Tommaso and Michael Zahniser (under the same license).
