@@ -1090,7 +1090,6 @@ Files:
  images/effect/shunt*
  images/effect/nutrigel*
  images/hardpoint/korath heaver*
- images/hardpoint/korath inferno*
  images/icon/korath heaver*
  images/icon/nutrigel*
  images/outfit/expeller*
@@ -1124,7 +1123,6 @@ Files:
  images/hardpoint/digger turret*
  images/outfit/korath digger*
  images/outfit/korath digger turret*
- images/outfit/korath inferno*
 Copyright: Nomadic Volcano (NomadicVolcano@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Becca Tommaso and Michael Zahniser (under the same license).
@@ -1352,13 +1350,11 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- images/outfit/fuel stack*
- images/outfit/korath gel gun*
- images/outfit/korath gel turret*
- images/outfit/liquid sodium*
-Copyright: None (CC0 Public Domain)
-License: N/A (CC0 Public Domain)
-Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja, edits done by Saugia. 
+ images/outfit/blaze-pike
+ images/outfit/korath inferno
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Becca Tommaso and Michael Zahniser (under the same license).
 
 Files:
  images/outfit/nanobot defense station*
@@ -1388,6 +1384,15 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Anarchist2.
+
+Files:
+ images/outfit/fuel stack*
+ images/outfit/korath gel gun*
+ images/outfit/korath gel turret*
+ images/outfit/liquid sodium*
+Copyright: Saugia <https://github.com/Saugia>
+License: N/A (CC0 Public Domain)
+Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja, edits done by Saugia. 
  
 Files:
  images/scene/ssil?vida?alert?hologram*
