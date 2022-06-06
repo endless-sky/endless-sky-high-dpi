@@ -1103,7 +1103,6 @@ Files:
  images/projectile/expeller*
  images/projectile/heaver*
  images/projectile/korath digger*
- images/projectile/korath inferno*
  images/projectile/nutrigel*
  images/projectile/shunt-strike*
 Copyright: None (CC0 Public Domain)
@@ -1293,6 +1292,18 @@ Files:
  images/thumbnail/splinter*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
+
+Files:
+ images/projectile/fire-lance*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/projectile/korath inferno*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Nomadic Volcano (under the same license).
 
 Files:
  images/outfit/tiny korath engine*
