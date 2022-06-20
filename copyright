@@ -1314,6 +1314,24 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/icon/firelight*
+ images/outfit/firelight*
+ images/outfit/firelight?bank*
+ images/outfit/firelight?rack*
+ images/projectile/firelight*
+ images/projectile/firelight?active*
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and Becca Tommaso (under the same licence).
+
+Files:
+ images/ship/raiderxlii*
+ images/thumbnail/raiderxlii*
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same licence).
+
+Files:
  images/ship/kestrel*
  images/ship/kestrele*
  images/ship/kestrels*
