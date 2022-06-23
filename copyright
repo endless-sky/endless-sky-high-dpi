@@ -1428,15 +1428,6 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 Comment: Derived from works by NomadicVolcano (public domain).
 License: CC-BY-SA-4.0
-
-Files:
- images/outfit/fuel?stack*
- images/outfit/korath?gel?gun*
- images/outfit/korath?gel?turret*
- images/outfit/liquid?sodium*
-Copyright: Saugia <https://github.com/Saugia>
-Comment: Derived from works by NomadicVolcano (public domain).
-License: CC-BY-SA-4.0
  
 Files:
  images/scene/ssil?vida?alert?hologram*
