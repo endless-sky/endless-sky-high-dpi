@@ -983,12 +983,13 @@ Copyright: NomadicVolcano (NomadicVolcano@gmail.com).
 License: CC0 (Creative Commons Zero)/Public-Domain
 
 Files:
+ images/hardpoint/grab-strike*
+ images/outfit/expeller*
+ images/outfit/grab-strike*
  images/ship/bulk?freighter*
  images/ship/dredger*
  images/thumbnail/bulk?freighter*
  images/thumbnail/dredger*
- images/outfit/grab-strike*
- images/hardpoint/grab-strike*
 Copyright: Lia Gerty (https://github.com/ravenshining)
 License: CC-BY-SA-4.0
 Comment: Derived from work by Michael Zahniser (under the same licence) and Becca Tomaso (under the same licence).
@@ -1107,7 +1108,6 @@ Files:
  images/hardpoint/firestorm*
  images/hardpoint/korath?heaver*
  images/icon/korath?heaver*
- images/outfit/expeller*
  images/outfit/korath?heaver*
  images/outfit/*korath?reverser*
  images/projectile/expeller*
