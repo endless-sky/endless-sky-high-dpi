@@ -448,8 +448,6 @@ Files:
  images/ship/ibis*
  images/ship/ember?waste?node/ember?waste?node*
  images/ship/hai?sea?scorpion*
- images/ship/hai?shield?beetle?prototype*
- images/ship/hai?marauder?shield?beetle*
  images/ship/mbactriane*
  images/ship/penguin/*
  images/ship/petrel*
@@ -1353,11 +1351,6 @@ Files: images/land/asteroid0
 Copyright: Becca Tommaso
 License: CC0 (Creative Commons Zero)/Public-Domain
 Comment: Derived from works by ESA/Rosetta spacecraft (under the same license).
-
-Files:
- images/outfit/gold bars*
-Copyright: Red-57 (github.com/Red-57)
-License: CC-BY-SA-4.0
 
 Files:
  images/outfit/tripulse?shredder*
