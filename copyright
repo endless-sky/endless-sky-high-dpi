@@ -984,6 +984,7 @@ Comment: Derived from works by Michael Zahniser (under the same license)
 
 Files:
  images/effect/firestorm?ring*
+ imagse/hardpoint/firestorm?torpedo*
  images/icon/firestorm?torpedo*
  images/outfit/firestorm?torpedo*
  images/outfit/firestorm?torpedo?rack*
@@ -1009,7 +1010,19 @@ Comment: Derived from work by Michael Zahniser (under the same licence) and Red-
 
 Files:
  images/ship/chaser*
+ images/ship/world-ship?a*
+ images/ship/world-ship?b*
+ images/ship/world-ship?c*
+ images/ship/world-ship?d*
+ images/ship/world-ship?e*
+ images/ship/world-ship?f*
  images/thumbnail/chaser*
+ images/thumbnail/world-ship?a*
+ images/thumbnail/world-ship?b*
+ images/thumbnail/world-ship?c*
+ images/thumbnail/world-ship?d*
+ images/thumbnail/world-ship?e*
+ images/thumbnail/world-ship?f*
 Copyright: Lia Gerty (https://github.com/ravenshining)
 License: CC-BY-SA-4.0
 Comment: Derived from work by Michael Zahniser (under the same licence).
@@ -1277,6 +1290,19 @@ Files:
  images/thumbnail/splinter*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
+
+Files:
+ images/outfit/large?efreti?thruster*
+ images/outfit/medium?efreti?thruster*
+ images/outfit/small?efreti?thruster*
+ images/outfit/tiny?efreti?thruster*
+ images/outfit/large?efreti?steering*
+ images/outfit/medium?efreti?steering*
+ images/outfit/small?efreti?steering*
+ images/outfit/tiny?efreti?steering*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by NomadicVolcano.
 
 Files:
  images/planet/stationh-ancient0*
