@@ -1010,19 +1010,9 @@ Comment: Derived from work by Michael Zahniser (under the same licence) and Red-
 
 Files:
  images/ship/chaser*
- images/ship/world-ship?a*
- images/ship/world-ship?b*
- images/ship/world-ship?c*
- images/ship/world-ship?d*
- images/ship/world-ship?e*
- images/ship/world-ship?f*
+ images/ship/world-ship*
  images/thumbnail/chaser*
- images/thumbnail/world-ship?a*
- images/thumbnail/world-ship?b*
- images/thumbnail/world-ship?c*
- images/thumbnail/world-ship?d*
- images/thumbnail/world-ship?e*
- images/thumbnail/world-ship?f*
+ images/thumbnail/world-ship*
 Copyright: Lia Gerty (https://github.com/ravenshining)
 License: CC-BY-SA-4.0
 Comment: Derived from work by Michael Zahniser (under the same licence).
@@ -1386,17 +1376,18 @@ Files:
  images/ship/korath?haven*
  images/ship/korath?haven*
  images/thumbnail/korath?haven*
-Liense: CC-BY-SA-4.0
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license), Becca Tommaso (under the same licence), and NomadicVolcano.
 
 Files:
  images/ship/efreti?ws*
  images/ship/efreti?freighter*
- images/ship/efreti?transport
+ images/ship/efreti?transport*
  images/ship/raider?xlii*
  images/thumbnail/efreti?ws*
  images/thumbnail/efreti?freighter*
- images/thumbnail/efreti?transport
+ images/thumbnail/efreti?transport*
  images/thumbnail/raider?xlii*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
