@@ -1003,7 +1003,7 @@ Files:
  images/thumbnail/dredger*
 Copyright: Lia Gerty (https://github.com/ravenshining)
 License: CC-BY-SA-4.0
-Comment: Derived from work by Michael Zahniser (under the same licence) and Becca Tomaso (under the same licence).
+Comment: Derived from work by Michael Zahniser (under the same license) and Becca Tomaso (under the same license).
 
 Files:
  images/effect/korath?digger?hit*
@@ -1017,23 +1017,25 @@ Files:
  images/thumbnail/raider*
 Copyright: Lia Gerty (https://github.com/ravenshining)
 License: CC-BY-SA-4.0
-Comment: Derived from work by Michael Zahniser (under the same licence) and Red-57 (under the same licence).
+Comment: Derived from work by Michael Zahniser (under the same license) and Red-57 (under the same license).
 
 Files:
+ images/effect/korath?afterburner*
  images/ship/chaser*
  images/ship/world-ship*
  images/thumbnail/chaser*
+ images/effect/korath?afterburner*
  images/thumbnail/world-ship*
 Copyright: Lia Gerty (https://github.com/ravenshining)
 License: CC-BY-SA-4.0
-Comment: Derived from work by Michael Zahniser (under the same licence).
+Comment: Derived from work by Michael Zahniser (under the same license).
 
 Files:
  images/outfit/torpedopod*
  images/outfit/typhoonpod*
 Copyright: Lia Gerty (https://github.com/ravenshining)
 License: CC-BY-SA-4.0
-Comment: Derived from work by Becca Tomaso (under the same licence).
+Comment: Derived from work by Becca Tomaso (under the same license).
 
 Files:
  images/_menu/haze-blackbody+*
@@ -1282,6 +1284,7 @@ Files:
  images/effect/burning?spark/*
  images/effect/coalition?flare/*
  images/effect/corrosion?spark/*
+ images/effect/efreti?flare/*
  images/effect/explosion/pug/*
  images/effect/korath?flare/*
  images/effect/plasma?flare/*
@@ -1301,6 +1304,8 @@ Files:
  images/outfit/dual?sunbeam?turret*
  images/outfit/double?plasma?core*
  images/outfit/finisher?maegrolain*
+ images/outfit/*grav-steering*
+ images/outfit/*grav-thruster*
  images/outfit/nuke*
  images/outfit/plasma?core*
  images/outfit/red?sun*
@@ -1452,13 +1457,13 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license), Becca Tommaso (under the same license), and NomadicVolcano.
 
 Files:
- images/ship/akumikid*
- images/ship/cesmiptlad*
- images/ship/iberinos*
+ images/ship/haspebrafa*
+ images/ship/ikrikopespeb*
+ images/ship/nacasairot*
  images/ship/raider?xlii*
- images/thumbnail/akumikid*
- images/thumbnail/cesmiptlad*
- images/thumbnail/iberinos*
+ images/thumbnail/haspebrafa*
+ images/thumbnail/ikrikopespeb*
+ images/thumbnail/nacasairot*
  images/thumbnail/raider?xlii*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
@@ -1478,13 +1483,6 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Anarchist2.
-
-Files:
- images/ship/raiderxlii*
- images/thumbnail/raiderxlii*
-Copyright: Saugia <https://github.com/Saugia>
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same licence).
 
 Files:
  images/outfit/microbot?defense?station*
