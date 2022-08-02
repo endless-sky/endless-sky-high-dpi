@@ -986,6 +986,7 @@ Files:
  images/hardpoint/grab-strike*
  images/outfit/expeller*
  images/outfit/grab-strike*
+ images/outfit/liquid?sodium*
  images/ship/bulk?freighter*
  images/ship/dredger*
  images/thumbnail/bulk?freighter*
@@ -993,6 +994,13 @@ Files:
 Copyright: Lia Gerty (https://github.com/ravenshining)
 License: CC-BY-SA-4.0
 Comment: Derived from work by Michael Zahniser (under the same licence) and Becca Tomaso (under the same licence).
+
+Files:
+ images/effect/korath?digger?hit*
+ images/projectile/korath?digger*
+Copyright: Lia Gerty (https://github.com/ravenshining)
+License: CC-BY-SA-4.0
+Comment: Derived from work by NomadicVolcano (public domain).
 
 Files:
  images/ship/raider*
@@ -1102,7 +1110,6 @@ License: CC-BY-SA-4.0
 
 Files:
  images/effect/heaver*
- images/effect/korath?digger?hit*
  images/effect/shunt*
  images/hardpoint/expeller*
  images/hardpoint/korath?heaver*
@@ -1111,7 +1118,6 @@ Files:
  images/outfit/*korath?reverser*
  images/projectile/expeller*
  images/projectile/heaver*
- images/projectile/korath?digger*
  images/projectile/shunt-strike*
 Copyright: None (CC0 Public Domain)
 License: N/A (CC0 Public Domain)
