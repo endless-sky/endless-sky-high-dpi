@@ -1310,6 +1310,9 @@ Files:
  images/outfit/wanderer?heat?sink*
  images/outfit/white?sun*
  images/outfit/yellow?sun*
+ images/planet/ringworld*
+ images/planet/ringworld?left*
+ images/planet/ringworld?right*
  images/projectile/missile-0*
  images/projectile/missile-1*
  images/ship/corvette*
