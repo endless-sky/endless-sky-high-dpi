@@ -51,4 +51,4 @@ fi
 (
   cd "${hidpi_assets}"
   find images -type f | sed 's/@2x//' | tr '\n' '\0'
-) | xargs -0 -I{} -n1 -P$(nproc) -- /bin/bash -ec 'test -f "'"${es_repo}"'/{}" || ( echo "Missing endless-sky/{}"; false )'
+) | xargs -0 -I{} -n1 -P"$(nproc)" -- /bin/bash -ec 'test -f "'"${es_repo}"'/{}" || ( echo "Missing endless-sky/{}"; false )'
