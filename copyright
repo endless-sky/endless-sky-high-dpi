@@ -1024,7 +1024,6 @@ Files:
  images/ship/chaser*
  images/ship/world-ship*
  images/thumbnail/chaser*
- images/effect/korath?afterburner*
  images/thumbnail/world-ship*
 Copyright: Lia Gerty (https://github.com/ravenshining)
 License: CC-BY-SA-4.0
@@ -1307,9 +1306,9 @@ Files:
  images/outfit/dark?storm*
  images/outfit/dual?sunbeam?turret*
  images/outfit/double?plasma?core*
+ images/outfit/*efreti?steering*
+ images/outfit/*efreti?thruster*
  images/outfit/finisher?maegrolain*
- images/outfit/*grav-steering*
- images/outfit/*grav-thruster*
  images/outfit/moonbeam*
  images/outfit/moonbeam?turret*
  images/outfit/nuke*
@@ -1344,19 +1343,6 @@ Files:
  images/thumbnail/splinter*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
-
-Files:
- images/outfit/large?efreti?thruster*
- images/outfit/medium?efreti?thruster*
- images/outfit/small?efreti?thruster*
- images/outfit/tiny?efreti?thruster*
- images/outfit/large?efreti?steering*
- images/outfit/medium?efreti?steering*
- images/outfit/small?efreti?steering*
- images/outfit/tiny?efreti?steering*
-Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
-License: CC-BY-SA-4.0
-Comment: Derived from works by NomadicVolcano.
 
 Files:
  images/projectile/fire-lance*
@@ -1420,8 +1406,11 @@ Files:
  images/outfit/emp?torpedo?ii?bay*
  images/outfit/emp?torpedo?ii?pod*
  images/planet/gas3-c*
- images/ship/aerie*
+ images/ship/aerie* 
+ images/ship/arch-carrack*
  images/ship/bactrian*
+ images/ship/charm-shallop*
+ images/ship/echo-galleon*
  images/ship/hailstone*
  images/ship/heavy?gust*
  images/ship/mining?drone*
@@ -1429,7 +1418,10 @@ Files:
  images/ship/squall*
  images/ship/sunder*
  images/thumbnail/aerie*
+ images/thumbnail/arch-carrack*
  images/thumbnail/bactrian*
+ images/thumbnail/charm-shallop*
+ images/ship/echo-galleon*
  images/thumbnail/hailstone*
  images/thumbnail/heavy?gust*
  images/thumbnail/mining?drone*
@@ -1462,20 +1454,13 @@ Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Becca Tommaso (under the same license).
 
-Files"
- images/ship/korath?haven*
- images/thumbnail/korath?haven*
-Copyright: Saugia <https://github.com/Saugia>
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license), Becca Tommaso (under the same license), and NomadicVolcano.
-
 Files:
- images/ship/haspebrafa*
- images/ship/ikrikopespeb*
- images/ship/nacasairot*
- images/thumbnail/haspebrafa*
- images/thumbnail/ikrikopespeb*
- images/thumbnail/nacasairot*
+ images/ship/arch-carrack*
+ images/ship/charm-shallop*
+ images/ship/echo-galleon*
+ images/thumbnail/arch-carrack*
+ images/thumbnail/charm-shallop*
+ images/thumbnail/echo-galleon*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same license).
@@ -1504,7 +1489,9 @@ Comment: Derived from works by Michael Zahniser (under the same license) and Lia
 
 Files:
  images/ship/-nra-ret*
+ images/ship/korsmanath?a-awoj*
  images/thumbnail/-nra-ret*
+ images/thumbnail/korsmanath?a-awoj*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by NomadicVolcano (public domain).
