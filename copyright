@@ -1324,6 +1324,7 @@ Files:
  images/projectile/missile-0*
  images/projectile/missile-1*
  images/ship/corvette*
+ images/ship/dagger*
  images/ship/flivver*
  images/ship/mraven*
  images/ship/msplinter*
@@ -1331,6 +1332,7 @@ Files:
  images/ship/splinter*
  images/star/neutron*
  images/thumbnail/corvette*
+ images/thumbnail/dagger*
  images/thumbnail/flivver*
  images/thumbnail/mraven*
  images/thumbnail/msplinter*
