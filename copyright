@@ -105,12 +105,6 @@ Copyright: Amazinite
 License: CC-BY-SA-4.0
 Comment: Derived from works by Matthew Smestad (under the same license).
 
-Files: images/outfit/*photovoltaic*
-Copyright: Nick Barry (github.com/itsnickbarry)
-License: CC-BY-SA-3.0
-Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com> and
- David Monniaux (commons.wikimedia.org/wiki/User:David.Monniaux)
-
 Files:
  images/outfit/pug*
  images/planet/*-b*
@@ -452,6 +446,10 @@ Files:
  images/ship/penguin/*
  images/ship/petrel*
  images/ship/tern*
+ images/ship/pug?zibruka*
+ images/ship/pug?enfolta*
+ images/ship/pug?maboro*
+ images/ship/pug?arfecta*
  images/ship/shooting?star/shooting?star*
  images/thumbnail/ember?waste?node*
  images/thumbnail/ibis*
@@ -1339,13 +1337,20 @@ Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
 
 Files:
+ images/outfit/small?photovoltaic*
+ images/outfit/tiny?photovoltaic*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com>, David Monniaux (commons.wikimedia.org/wiki/User:David.Monniaux) and Nick Barry (github.com/itsnickbarry)
+
+Files:
  images/ship/manta*
  images/ship/mmanta*
  images/thumbnail/manta*
  images/thumbnail/mmanta*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser and Maximilian Korber(under the same license).
+Comment: Derived from works by Michael Zahniser and Maximilian Korber (under the same license).
 
 Files:
  images/projectile/fire-lance*
@@ -1411,6 +1416,7 @@ Files:
  images/outfit/firestorm?rack*
  images/outfit/firestorm?torpedo*
  images/projectile/firestorm?torpedo*
+ images/outfit/mcs?exctractor*
  images/ship/modified?dromedary*
  images/ship/modified?dromedary?wreck*
  images/thumbnail/modified?dromedary*
