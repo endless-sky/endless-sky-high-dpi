@@ -18,7 +18,6 @@ Files:
  images/ship/marrow*
  images/ship/mbounder*
  images/ship/mfury*
- images/ship/mmanta*
  images/ship/mquicksilver*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
@@ -1349,6 +1348,15 @@ Files:
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com>, David Monniaux (commons.wikimedia.org/wiki/User:David.Monniaux) and Nick Barry (github.com/itsnickbarry)
+
+Files:
+ images/ship/manta*
+ images/ship/mmanta*
+ images/thumbnail/manta*
+ images/thumbnail/mmanta*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser and Maximilian Korber (under the same license).
 
 Files:
  images/projectile/fire-lance*
