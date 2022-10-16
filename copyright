@@ -1295,16 +1295,19 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/ship/hai?antlion*
  images/ship/kestrel*
  images/ship/kestrele*
  images/ship/kestrels*
  images/ship/kestrelw*
  images/ship/osprey*
+ images/thumbnail/hai?antlion*
  images/thumbnail/kestrel*
  images/thumbnail/kestrele*
  images/thumbnail/kestrels*
  images/thumbnail/kestrelw*
  images/thumbnail/osprey*
+ images/projectiles/ionic?blast*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Anarchist2.
