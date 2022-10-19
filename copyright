@@ -1447,6 +1447,7 @@ Files:
  images/ship/mule*
  images/ship/squall*
  images/ship/sunder*
+ images/ship/swan*
  images/thumbnail/aerie*
  images/thumbnail/arch-carrack*
  images/thumbnail/bactrian*
@@ -1458,6 +1459,7 @@ Files:
  images/thumbnail/mule*
  images/thumbnail/squall*
  images/thumbnail/sunder*
+ images/thumbnail/swan*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
