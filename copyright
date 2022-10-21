@@ -18,7 +18,6 @@ Files:
  images/ship/marrow*
  images/ship/mbounder*
  images/ship/mfury*
- images/ship/mmanta*
  images/ship/mquicksilver*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
@@ -105,12 +104,6 @@ Files:
 Copyright: Amazinite
 License: CC-BY-SA-4.0
 Comment: Derived from works by Matthew Smestad (under the same license).
-
-Files: images/outfit/*photovoltaic*
-Copyright: Nick Barry (github.com/itsnickbarry)
-License: CC-BY-SA-3.0
-Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com> and
- David Monniaux (commons.wikimedia.org/wiki/User:David.Monniaux)
 
 Files:
  images/outfit/pug*
@@ -453,6 +446,10 @@ Files:
  images/ship/penguin/*
  images/ship/petrel*
  images/ship/tern*
+ images/ship/pug?zibruka*
+ images/ship/pug?enfolta*
+ images/ship/pug?maboro*
+ images/ship/pug?arfecta*
  images/ship/shooting?star/shooting?star*
  images/thumbnail/ember?waste?node*
  images/thumbnail/ibis*
@@ -1269,18 +1266,20 @@ Files:
  images/star/o3*
  images/star/o5*
  images/star/o8*
- images/star/wr1*
+ images/star/wr*
 Copyright: Matteo "Lead" M.
 License: CC-BY-SA-4.0
 
 Files:
  images/asteroid/livecrystal/livecrystal*
+ images/effect/atomic?flare/*
  images/effect/burning?spark*
  images/effect/coalition?flare/*
- images/effect/corrosion?spark/*
+ images/effect/corrosion?spark*
  images/effect/efreti?flare/*
  images/effect/explosion/pug/*
  images/effect/finisher?impact*
+ images/effect/ion?flare/*
  images/effect/korath?flare/*
  images/effect/plasma?flare/*
  images/effect/pug?flare/*
@@ -1319,11 +1318,16 @@ Files:
  images/outfit/white?sun*
  images/outfit/yellow?sun*
  images/planet/ringworld*
+ images/planet/ringworld?broken?debris*
+ images/planet/ringworld?broken?debris?small*
+ images/planet/ringworld?broken?left*
+ images/planet/ringworld?broken?right*
  images/planet/ringworld?left*
  images/planet/ringworld?right*
  images/projectile/missile-0*
  images/projectile/missile-1*
  images/ship/corvette*
+ images/ship/dagger*
  images/ship/flivver*
  images/ship/mraven*
  images/ship/msplinter*
@@ -1331,6 +1335,7 @@ Files:
  images/ship/splinter*
  images/star/neutron*
  images/thumbnail/corvette*
+ images/thumbnail/dagger*
  images/thumbnail/flivver*
  images/thumbnail/mraven*
  images/thumbnail/msplinter*
@@ -1338,6 +1343,22 @@ Files:
  images/thumbnail/splinter*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
+
+Files:
+ images/outfit/small?photovoltaic*
+ images/outfit/tiny?photovoltaic*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com>, David Monniaux (commons.wikimedia.org/wiki/User:David.Monniaux) and Nick Barry (github.com/itsnickbarry)
+
+Files:
+ images/ship/manta*
+ images/ship/mmanta*
+ images/thumbnail/manta*
+ images/thumbnail/mmanta*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser and Maximilian Korber (under the same license).
 
 Files:
  images/projectile/fire-lance*
@@ -1403,6 +1424,7 @@ Files:
  images/outfit/firestorm?rack*
  images/outfit/firestorm?torpedo*
  images/projectile/firestorm?torpedo*
+ images/outfit/mcs?exctractor*
  images/ship/modified?dromedary*
  images/ship/modified?dromedary?wreck*
  images/thumbnail/modified?dromedary*
@@ -1425,6 +1447,7 @@ Files:
  images/ship/mule*
  images/ship/squall*
  images/ship/sunder*
+ images/ship/swan*
  images/thumbnail/aerie*
  images/thumbnail/arch-carrack*
  images/thumbnail/bactrian*
@@ -1436,6 +1459,7 @@ Files:
  images/thumbnail/mule*
  images/thumbnail/squall*
  images/thumbnail/sunder*
+ images/thumbnail/swan*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
@@ -1589,6 +1613,33 @@ Files:
 Copyright: Saugia (https://github.com/Saugia)
 License: CC-BY-SA-4.0
 Comment: Transparent materials by scrinarii1337.
+
+Files:
+ images/outfit/twin?blaster*
+ images/outfit/twin?mod?blaster*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Becca Tommaso and Michael Zahniser (under the same license).
+
+Files
+ images/ship/hai?ladybug*
+ images/thumbnail/hai?ladybug*
+ images/planet/station?hai?eight?geocoris*
+Copyright: None (CC0: Public Domain)
+License: CC0: Public Domain
+Comment: Made by Nomadic Volcano with textures from texture.ninja.
+
+Files
+ images/planet/wormhole-syndicate-ad*
+Copyright: NomadicVolcano (NomadicVolcano@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license)
+
+Files
+ images/planet/station?hai?geocoris*
+Copyright: Nomadic Volcano (NomadicVolcano@gmail.com)
+License: CC-BY-SA-4.0
+Comment: rotate, flip, scale the "images/thumbnail/hai geocoris@2x.png" by Michael Zahniser (under the same license)
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
