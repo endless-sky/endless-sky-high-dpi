@@ -1281,7 +1281,10 @@ Files:
  images/effect/finisher?impact*
  images/effect/ion?flare/*
  images/effect/korath?flare/*
+ images/effect/plasma?cloud*
  images/effect/plasma?flare/*
+ images/effect/plasma?fire*
+ images/effect/plasma?impact*
  images/effect/pug?flare/*
  images/effect/tracker?cloud*
  images/effect/wanderer?flare/*
@@ -1291,18 +1294,19 @@ Files:
  images/hardpoint/nuke*
  images/hardpoint/sunbeam?turret*
  images/hardpoint/wanderer?anti-missile*
- images/outfit/korath?afterburner*
+ images/outfit/*?korath?afterburner*
  images/outfit/afterburner*
  images/outfit/asteroid?scanner*
  images/outfit/blue?sun*
  images/outfit/bright?cloud*
  images/outfit/caldera?afterburner*
  images/outfit/dark?storm*
- images/outfit/dual?sunbeam?turret*
  images/outfit/double?plasma?core*
+ images/outfit/dual?sunbeam?turret*
  images/outfit/*efreti?steering*
  images/outfit/*efreti?thruster*
  images/outfit/finisher?maegrolain*
+ images/outfit/fusion?cannon*
  images/outfit/moonbeam*
  images/outfit/moonbeam?turret*
  images/outfit/nuke*
@@ -1324,8 +1328,13 @@ Files:
  images/planet/ringworld?broken?right*
  images/planet/ringworld?left*
  images/planet/ringworld?right*
+ images/projectile/fire-lance*
+ images/projectile/fusion?gun?bolt*
+ images/projectile/blaze-pike*
+ images/projectile/korath?inferno*
  images/projectile/missile-0*
  images/projectile/missile-1*
+ images/ship/battleship*
  images/ship/corvette*
  images/ship/dagger*
  images/ship/flivver*
@@ -1334,6 +1343,7 @@ Files:
  images/ship/raven*
  images/ship/splinter*
  images/star/neutron*
+ images/thumbnail/battleship*
  images/thumbnail/corvette*
  images/thumbnail/dagger*
  images/thumbnail/flivver*
