@@ -1545,8 +1545,13 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same licence).
 
 Files:
+ images/hardpoint/microbot?factory*
  images/ship/-nra-ret*
+ images/ship/ikatila-ej*
+ images/ship/rai-alorej*
  images/ship/korsmanath?a-awoj*
+ images/thumbnail/ikatila-ej*
+ images/thumbnail/rai-alorej*
  images/thumbnail/-nra-ret*
  images/thumbnail/korsmanath?a-awoj*
 Copyright: Saugia <https://github.com/Saugia>
