@@ -1684,6 +1684,15 @@ Copyright: Nomadic Volcano (NomadicVolcano@gmail.com)
 License: CC-BY-SA-4.0
 Comment: rotate, flip, scale the "images/thumbnail/hai geocoris@2x.png" by Michael Zahniser (under the same license)
 
+Files:
+ images/land/city19*
+ images/land/city20*
+ images/land/city21*
+ images/land/city22*
+Copyright: Various
+License: CC0
+Comment: Taken from unsplash.com and cropped.
+
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
