@@ -355,6 +355,7 @@ Files:
  images/hardpoint/annihilator?turret*
  images/hardpoint/inhibitor?turret*
  images/hardpoint/ion?hail?turret*
+ images/hardpoint/ionic?turret*
  images/hardpoint/ravager?turret*
  images/hardpoint/shooting?star?flare/ss-rays*
  images/outfit/inhibitor?turret*
@@ -384,6 +385,8 @@ Files:
  images/outfit/flamethrower*
  images/outfit/fuel?pod*
  images/outfit/gat*
+ images/outfit/hai?ionic?turret*
+ images/outfit/hai?ionic?blaster*
  images/outfit/heavy?anti-missile*
  images/outfit/heavy?laser?turret*
  images/outfit/heavy?laser*
@@ -442,6 +445,7 @@ Files:
  images/scene/penguinscene*
  images/ship/ibis*
  images/ship/ember?waste?node/ember?waste?node*
+ images/ship/hai?sea?scorpion*
  images/ship/mbactriane*
  images/ship/penguin/*
  images/ship/petrel*
@@ -453,6 +457,7 @@ Files:
  images/ship/shooting?star/shooting?star*
  images/thumbnail/ember?waste?node*
  images/thumbnail/ibis*
+ images/thumbnail/hai?sea?scorpion*
  images/thumbnail/penguin*
  images/thumbnail/petrel*
  images/thumbnail/tern*
@@ -909,6 +914,8 @@ Files:
  images/thumbnail/tanto*
  images/thumbnail/tekkan*
  images/effect/ravager?impact*
+ images/hardpoint/buzzer?am*
+ images/hardpoint/locust?turret*
  images/outfit/ka'het?annihilator?turret*
  images/outfit/ka'het?annihilator*
  images/outfit/ka'het?emp?deployer*
@@ -1165,6 +1172,8 @@ Files:
  images/projectile/expeller*
  images/projectile/heaver*
  images/projectile/shunt-strike*
+ images/ship/kas-ik?tek?7*
+ images/thumbnail/kas-ik?tek?7*
 Copyright: None (CC0 Public Domain)
 License: N/A (CC0 Public Domain)
 Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja
@@ -1322,7 +1331,10 @@ Files:
  images/effect/finisher?impact*
  images/effect/ion?flare/*
  images/effect/korath?flare/*
+ images/effect/plasma?cloud*
  images/effect/plasma?flare/*
+ images/effect/plasma?fire*
+ images/effect/plasma?impact*
  images/effect/pug?flare/*
  images/effect/tracker?cloud*
  images/effect/wanderer?flare/*
@@ -1332,18 +1344,19 @@ Files:
  images/hardpoint/nuke*
  images/hardpoint/sunbeam?turret*
  images/hardpoint/wanderer?anti-missile*
- images/outfit/korath?afterburner*
+ images/outfit/*?korath?afterburner*
  images/outfit/afterburner*
  images/outfit/asteroid?scanner*
  images/outfit/blue?sun*
  images/outfit/bright?cloud*
  images/outfit/caldera?afterburner*
  images/outfit/dark?storm*
- images/outfit/dual?sunbeam?turret*
  images/outfit/double?plasma?core*
+ images/outfit/dual?sunbeam?turret*
  images/outfit/*efreti?steering*
  images/outfit/*efreti?thruster*
  images/outfit/finisher?maegrolain*
+ images/outfit/fusion?cannon*
  images/outfit/moonbeam*
  images/outfit/moonbeam?turret*
  images/outfit/nuke*
@@ -1365,8 +1378,13 @@ Files:
  images/planet/ringworld?broken?right*
  images/planet/ringworld?left*
  images/planet/ringworld?right*
+ images/projectile/fire-lance*
+ images/projectile/fusion?gun?bolt*
+ images/projectile/blaze-pike*
+ images/projectile/korath?inferno*
  images/projectile/missile-0*
  images/projectile/missile-1*
+ images/ship/battleship*
  images/ship/corvette*
  images/ship/dagger*
  images/ship/flivver*
@@ -1375,6 +1393,7 @@ Files:
  images/ship/raven*
  images/ship/splinter*
  images/star/neutron*
+ images/thumbnail/battleship*
  images/thumbnail/corvette*
  images/thumbnail/dagger*
  images/thumbnail/flivver*
@@ -1460,12 +1479,18 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/effect/bunrodea?flare*
+ images/effect/buzzer?am*
+ images/effect/yellow?spark*
  images/hardpoint/firestorm battery*
  images/outfit/firestorm?battery*
  images/outfit/firestorm?rack*
  images/outfit/firestorm?torpedo*
- images/projectile/firestorm?torpedo*
  images/outfit/mcs?exctractor*
+ images/projectile/firestorm?torpedo*
+ images/projectile/locust?blaster*
+ images/projectile/mandible?cannon*
+ images/projectile/thorax?cannon*
  images/ship/modified?dromedary*
  images/ship/modified?dromedary?wreck*
  images/thumbnail/modified?dromedary*
@@ -1506,6 +1531,15 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/ship/hai?cicada*
+ images/ship/hai?scarab*
+ images/thumbnail/hai?cicada*
+ images/thumbnail/hai?scarab*
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and Evan Fluharty (under the same license).
+
+Files:
  images/hardpoint/blaze-pike*
  images/hardpoint/korath?inferno*
  images/hardpoint/shunt-strike*
@@ -1523,6 +1557,7 @@ Files:
  images/planet/station7cb*
  images/projectile/firelight*
  images/projectile/firelight?active*
+ images/projectiles/ionic?blast*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Becca Tommaso (under the same license).
@@ -1561,8 +1596,14 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same licence).
 
 Files:
+ images/hardpoint/microbot?factory*
  images/ship/-nra-ret*
+ images/ship/ikatila-ej*
+ images/ship/modified?ladybug*
+ images/ship/rai-alorej*
  images/ship/korsmanath?a-awoj*
+ images/thumbnail/ikatila-ej*
+ images/thumbnail/rai-alorej*
  images/thumbnail/-nra-ret*
  images/thumbnail/korsmanath?a-awoj*
 Copyright: Saugia <https://github.com/Saugia>
@@ -1631,6 +1672,13 @@ License: CC0 (Creative Commons Zero)/Public-Domain
 Comment: Derived from works by ESA/Rosetta spacecraft (under the same license).
 
 Files:
+ images/outfit/tripulse?shredder*
+ images/outfit/value?detector*
+Copyright: Ejo Thims
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
  images/outfit/android*
  images/outfit/skadetear*
 Copyright: Anarchist2
@@ -1685,6 +1733,15 @@ Files
 Copyright: Nomadic Volcano (NomadicVolcano@gmail.com)
 License: CC-BY-SA-4.0
 Comment: rotate, flip, scale the "images/thumbnail/hai geocoris@2x.png" by Michael Zahniser (under the same license)
+
+Files:
+ images/land/city19*
+ images/land/city20*
+ images/land/city21*
+ images/land/city22*
+Copyright: Various
+License: CC0
+Comment: Taken from unsplash.com and cropped.
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
