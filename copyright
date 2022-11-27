@@ -38,7 +38,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Christian Rhodes (under the same license).
 
 Files:
- images/ship/pointedstick_vanguard*
+ images/ship/pointedstick?vanguard*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Nate Graham (under the same license).
@@ -56,7 +56,7 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/projectile/bullet*
- images/outfit/bullet?impact*
+ images/effect/bullet?impact*
 Copyright: Iaz Poolar
 License: CC-BY-SA-4.0
 Comment: Derived from works by Amazinite derived from works by Michael Zahniser (under the same license).
@@ -531,7 +531,7 @@ Files:
  images/land/desert2*
  images/land/desert11*
  images/land/desert12*
- images/land/deser13*
+ images/land/desert13*
  images/land/dune1*
  images/land/fields1*
  images/land/fields2*
@@ -709,7 +709,7 @@ License: CC0
 Comment: Taken from https://pxhere.com/en/photo/119196 and cropped.
 
 Files:
- images/land/station5.jpg
+ images/land/station5*
 Copyright: Damien Jemison
 License: CC-BY-SA-3.0
 Comment: Taken from https://commons.wikimedia.org/wiki/File:Preamplifier_at_the_National_Ignition_Facility.jpg
@@ -720,9 +720,9 @@ Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
 
 Files:
- images/outfit/T3?anti?missile*
+ images/outfit/t3?anti?missile*
  images/outfit/pug?gridfire?turret*
- images/hardpoint/T3?anti?missile*
+ images/hardpoint/t3?anti?missile*
  images/hardpoint/pug?gridfire?turret*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
@@ -1450,7 +1450,7 @@ Files:
  images/outfit/firestorm?rack*
  images/outfit/firestorm?torpedo*
  images/projectile/firestorm?torpedo*
- images/outfit/mcs?exctractor*
+ images/outfit/mcs?extractor*
  images/ship/modified?dromedary*
  images/ship/modified?dromedary?wreck*
  images/thumbnail/modified?dromedary*
@@ -1478,7 +1478,7 @@ Files:
  images/thumbnail/arch-carrack*
  images/thumbnail/bactrian*
  images/thumbnail/charm-shallop*
- images/ship/echo-galleon*
+ images/thumbnail/echo-galleon*
  images/thumbnail/hailstone*
  images/thumbnail/heavy?gust*
  images/thumbnail/mining?drone*
@@ -1517,7 +1517,7 @@ Files:
  images/planet/station7cb*
  images/projectile/firelight*
  images/projectile/firelight?active*
- images/projectiles/ionic?blast*
+ images/projectile/ionic?blast*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Becca Tommaso (under the same license).
@@ -1556,7 +1556,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same license).
 
 Files:
- images/hardpoint/microbot?factory*
+ images/hardpoint/factory/microbot?factory*
  images/ship/-nra-ret*
  images/ship/ikatila-ej*
  images/ship/modified?ladybug*
@@ -1626,7 +1626,7 @@ Files:
 Copyright: Scrinarii1337#0001
 License: CC-BY-SA-4.0
 
-Files: images/land/asteroid0
+Files: images/land/asteroid0*
 Copyright: Becca Tommaso
 License: CC0 (Creative Commons Zero)/Public-Domain
 Comment: Derived from works by ESA/Rosetta spacecraft (under the same license).
@@ -1645,8 +1645,8 @@ Copyright: Anarchist2
 License: CC-BY-SA-4.0
 
 Files:
- images/thumbnail/smew
- images/ship/smew
+ images/thumbnail/smew*
+ images/ship/smew*
 Copyright: Dschiltt
 License: CC0 (Creative Commons Zero)/Public-Domain
 Comment: Derived from works by MZ (under the same license), and contributions by Zoura, Kitteh, Ejo Thims, and Saugia
@@ -1661,7 +1661,7 @@ License: CC-BY-SA-4.0
 
 Files:
  images/ship/modified?dromedary?ghost*
- images/ship/modified?dromedary?spectre*
+ images/ship/modified?dromedary?specter*
 Copyright: Saugia (https://github.com/Saugia)
 License: CC-BY-SA-4.0
 Comment: Transparent materials by scrinarii1337.
