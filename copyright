@@ -91,7 +91,7 @@ Files:
  images/land/canyon9*
 Copyright: Emily Mell <hasmidas@gmail.com>
 License: public-domain
-Based on public domain images taken from unsplash.com
+Comment: Based on public domain images taken from unsplash.com
 
 Files:
  images/icon/gat*
@@ -176,12 +176,14 @@ Files:
  images/planet/venus*
 Copyright: NASA
 License: public-domain
+Comment:
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
 Files: images/scene/*
 Copyright: Various
 License: public-domain
+Comment:
  Taken from morguefile.com, a collection of photographs that have been donated
  and placed in the public domain. (Exceptions noted below.)
 
@@ -198,6 +200,7 @@ License: public-domain
 Files: images/scene/army*
 Copyright: US Army
 License: public-domain
+Comment:
  From the US Army. Public domain because they are photographs taken by a
  government employee as part of their job.
 
@@ -210,12 +213,14 @@ Files:
  images/scene/engine2*
 Copyright: NASA
 License: public-domain
+Comment:
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
 Files: images/land/*
 Copyright: Various
 License: public-domain
+Comment:
  Taken from morgue-file.com, a collection of photographs that have been donated
  and placed in the public domain. (Exceptions noted below.)
 
@@ -325,6 +330,7 @@ Comment: Derived from works by Iaz Poolar (under the same license).
 Files: images/portrait/*
 Copyright: Various
 License: public-domain
+Comment:
  Taken from unsplash.com, a collection of photographs that have been donated and
  placed in the public domain.
 
@@ -652,6 +658,7 @@ Files:
  images/land/water13*
 Copyright: Various
 License: public-domain
+Comment:
  Taken from unsplash.com, a collection of photographs that have been donated and
  placed in the public domain.
 
@@ -659,6 +666,7 @@ Files:
  images/land/lava0*
 Copyright: USGS
 License: public-domain
+Comment:
  From the USGS, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
@@ -672,6 +680,7 @@ Files:
  images/land/station3*
 Copyright: NASA
 License: public-domain
+Comment:
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
