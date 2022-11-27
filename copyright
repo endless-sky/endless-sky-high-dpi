@@ -678,13 +678,13 @@ License: public-domain
 Files:
  images/land/station8*
 Copyright: MTA of the State of New York
-Licence: CC BY 2.0
+License: CC BY 2.0
 Comment: Taken from https://www.flickr.com/photos/61135621@N03/5836687124 and cropped.
 
 Files:
  images/land/station27*
 Copyright: Sebastian Sinisterra
-Licence: CC BY 2.0
+License: CC BY 2.0
 Comment: Taken from https://www.flickr.com/photos/61135621@N03/17755765778 and cropped.
 
 Files:
@@ -1544,7 +1544,7 @@ Files:
  images/thumbnail/tubfalet*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same licence).
+Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same license).
 
 Files:
  images/hardpoint/microbot?factory*
@@ -1564,7 +1564,7 @@ Comment: Derived from works by NomadicVolcano (public domain).
 Files:
  images/outfit/microbot?defense?station*
 Copyright: Saugia <https://github.com/Saugia>
-Comment: Derived from work by Griffin Schutte (theronepic@gmail.com) (under same licence).
+Comment: Derived from work by Griffin Schutte (theronepic@gmail.com) (under same license).
 License: CC-BY-SA-4.0
 
 Files:
