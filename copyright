@@ -10,7 +10,7 @@ License: CC-BY-SA-4.0
 Files:
  images/outfit/*battery?hai*
  images/outfit/anti-missile?hai*
- images/outfit/cooling ducts?hai*
+ images/outfit/cooling?ducts?hai*
  images/outfit/dwarf?core?hai*
  images/outfit/fission?hai*
  images/outfit/fusion?hai*
@@ -77,7 +77,7 @@ License: CC-BY-SA-4.0
 
 Files:
  images/ship/vanguard*
- images/outfit/luxury accommodations*
+ images/outfit/luxury?accommodations*
  images/outfit/proton?turret*
  images/hardpoint/proton?turret*
  images/outfit/brig*
@@ -763,7 +763,7 @@ Files:
  images/ship/hauler?i*
  images/ship/hauler?ii*
  images/ship/hauler?iii*
- images/ship/modified argosy*
+ images/ship/modified?argosy*
  images/ship/bastion*
  images/ship/behemoth*
  images/ship/heavy?shuttle*
@@ -785,7 +785,7 @@ Files:
  images/thumbnail/hauler?i*
  images/thumbnail/hauler?ii*
  images/thumbnail/hauler?iii*
- images/thumbnail/modified argosy*
+ images/thumbnail/modified?argosy*
  images/thumbnail/bastion*
  images/thumbnail/behemoth*
  images/thumbnail/heavy?shuttle*
@@ -815,7 +815,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Becca Tommaso (tommasobecca03@gmail.com).
 
 Files:
- images/ship/pointedstick vanguard*
+ images/ship/pointedstick?vanguard*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Nate Graham (under the same license) and detailed by Becca Tommaso (tommasobecca03@gmail.com).
@@ -1393,7 +1393,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- images/projectile/korath inferno*
+ images/projectile/korath?inferno*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Nomadic Volcano (under the same license).
@@ -1445,7 +1445,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- images/hardpoint/firestorm battery*
+ images/hardpoint/firestorm?battery*
  images/outfit/firestorm?battery*
  images/outfit/firestorm?rack*
  images/outfit/firestorm?torpedo*
