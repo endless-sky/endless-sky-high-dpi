@@ -1434,13 +1434,17 @@ Files:
  images/outfit/irate?cannon*
  images/outfit/irate?turret*
  images/outfit/mcs?exctractor*
+ images/projectile/ballistic*
+ images/projectile/chloeric*
  images/projectile/firestorm?torpedo*
  images/projectile/guile?pulse?laser*
+ images/projectile/irate*
  images/ship/augen*
  images/ship/*ayym*
  images/ship/gegno?coesite*
  images/ship/gegno?conglomerate*
  images/ship/gegno?dolomite*
+ images/ship/gegno?dunite*
  images/ship/gegno?eclogite*
  images/ship/gegno?feldspar*
  images/ship/gegno?felsic*
@@ -1461,6 +1465,7 @@ Files:
  images/thumbnail/augen*
  images/thumbnail/gegno?coesite*
  images/thumbnail/gegno?conglomerate*
+ images/thumbnail/gegno?dunite*
  images/thumbnail/gegno?dolomite*
  images/thumbnail/gegno?eclogite*
  images/thumbnail/gegno?feldspar*
