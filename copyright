@@ -1421,11 +1421,20 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/effect/blink*
+ images/hardpoint/acuit*
+ images/hardpoint/astuit*
+ images/hardpoint/ballistic*
+ images/hardpoint/chloeric*
  images/hardpoint/firestorm?battery*
+ images/hardpoint/irate*
  images/outfit/acuit*
+ images/outfit/ameliorate?cell*
  images/outfit/astuit*
  images/outfit/ballistic?cannon*
  images/outfit/ballistic?turret*
+ images/outfit/brawl?cell*
+ images/outfit/warzone?core*
+ images/outfit/campaign?core*
  images/outfit/chloeric?cannon*
  images/outfit/chloeric?turret*
  images/outfit/firestorm?battery*
@@ -1433,7 +1442,8 @@ Files:
  images/outfit/firestorm?torpedo*
  images/outfit/irate?cannon*
  images/outfit/irate?turret*
- images/outfit/mcs?exctractor*
+ images/outfit/mcs?extractor*
+ images/outfit/scrap?cell*
  images/planet/tschyss*
  images/planet/vesvi*
  images/projectile/ballistic*
