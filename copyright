@@ -1424,7 +1424,7 @@ Files:
  images/hardpoint/acuit*
  images/hardpoint/astuit*
  images/hardpoint/ballistic*
- images/hardpoint/chloeric*
+ images/hardpoint/choleric*
  images/hardpoint/firestorm?battery*
  images/hardpoint/irate*
  images/outfit/acuit*
@@ -1435,8 +1435,8 @@ Files:
  images/outfit/battlezone?battery*
  images/outfit/brawl?cell*
  images/outfit/campaign?core*
- images/outfit/chloeric?cannon*
- images/outfit/chloeric?turret*
+ images/outfit/choleric?cannon*
+ images/outfit/choleric?turret*
  images/outfit/crusade?battery*
  images/outfit/firestorm?battery*
  images/outfit/firestorm?rack*
@@ -1445,8 +1445,13 @@ Files:
  images/outfit/irate?cannon*
  images/outfit/irate?turret*
  images/outfit/mcs?extractor*
+ images/effect/*plasma thruster scin*
+ images/effect/*plasma steering scin*
+ images/effect/*plasma engines scin*
  images/outfit/scrap?cell*
  images/outfit/skirmish?battery*
+ images/effect/*torch thruster vi*
+ images/effect/*torch thruster vi*
  images/outfit/warforge?battery*
  images/outfit/warzone?core*
  images/planet/tschyss*
