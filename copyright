@@ -1603,8 +1603,13 @@ License: CC0 (Creative Commons Zero)/Public-Domain
 Comment: Derived from works by ESA/Rosetta spacecraft (under the same license).
 
 Files:
- images/outfit/gold bars*
+ images/outfit/gold?bars*
 Copyright: Red-57 (github.com/Red-57)
+License: CC-BY-SA-4.0
+
+Files:
+ images/scene/chootk?firelode*
+Copyright: RisingLeaf (https://github.com/RisingLeaf)
 License: CC-BY-SA-4.0
 
 Files:
