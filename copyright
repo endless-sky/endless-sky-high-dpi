@@ -10,7 +10,7 @@ License: CC-BY-SA-4.0
 Files:
  images/outfit/*battery?hai*
  images/outfit/anti-missile?hai*
- images/outfit/cooling ducts?hai*
+ images/outfit/cooling?ducts?hai*
  images/outfit/dwarf?core?hai*
  images/outfit/fission?hai*
  images/outfit/fusion?hai*
@@ -38,7 +38,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Christian Rhodes (under the same license).
 
 Files:
- images/ship/pointedstick_vanguard*
+ images/ship/pointedstick?vanguard*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Nate Graham (under the same license).
@@ -56,7 +56,7 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/projectile/bullet*
- images/outfit/bullet?impact*
+ images/effect/bullet?impact*
 Copyright: Iaz Poolar
 License: CC-BY-SA-4.0
 Comment: Derived from works by Amazinite derived from works by Michael Zahniser (under the same license).
@@ -68,18 +68,23 @@ Copyright: Iaz Poolar
 License: CC-BY-SA-4.0
 
 Files:
- images/outfit/railgun*
- images/outfit/railslug*
- images/projectile/rail?slug*
  images/ship/hai?flea*
 Copyright: Matthew Smestad
 License: CC-BY-SA-4.0
 
 Files:
+ images/outfit/railgun*
+ images/outfit/railslug*
+ images/projectile/rail?slug*
+Copyright: 1010todd
+Comment: Derived from works by Matthew Smestad (under the same license).
+License: CC-BY-SA-4.0
+
+Files:
  images/ship/vanguard*
- images/outfit/luxury accommodations*
- images/outfit/proton turret*
- images/hardpoint/proton turret*
+ images/outfit/luxury?accommodations*
+ images/outfit/proton?turret*
+ images/hardpoint/proton?turret*
  images/outfit/brig*
 Copyright: Nate Graham <pointedstick@zoho.com>
 License: CC-BY-SA-4.0
@@ -90,8 +95,8 @@ Files:
  images/land/beach4*
  images/land/canyon9*
 Copyright: Emily Mell <hasmidas@gmail.com>
-License: public domain
-Based on public domain images taken from unsplash.com
+License: public-domain
+Comment: Based on public domain images taken from unsplash.com
 
 Files:
  images/icon/gat*
@@ -176,12 +181,14 @@ Files:
  images/planet/venus*
 Copyright: NASA
 License: public-domain
+Comment:
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
 Files: images/scene/*
 Copyright: Various
 License: public-domain
+Comment:
  Taken from morguefile.com, a collection of photographs that have been donated
  and placed in the public domain. (Exceptions noted below.)
 
@@ -198,6 +205,7 @@ License: public-domain
 Files: images/scene/army*
 Copyright: US Army
 License: public-domain
+Comment:
  From the US Army. Public domain because they are photographs taken by a
  government employee as part of their job.
 
@@ -210,12 +218,14 @@ Files:
  images/scene/engine2*
 Copyright: NASA
 License: public-domain
+Comment:
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
 Files: images/land/*
 Copyright: Various
 License: public-domain
+Comment:
  Taken from morgue-file.com, a collection of photographs that have been donated
  and placed in the public domain. (Exceptions noted below.)
 
@@ -325,6 +335,7 @@ Comment: Derived from works by Iaz Poolar (under the same license).
 Files: images/portrait/*
 Copyright: Various
 License: public-domain
+Comment:
  Taken from unsplash.com, a collection of photographs that have been donated and
  placed in the public domain.
 
@@ -355,6 +366,7 @@ Files:
  images/hardpoint/annihilator?turret*
  images/hardpoint/inhibitor?turret*
  images/hardpoint/ion?hail?turret*
+ images/hardpoint/ionic?turret*
  images/hardpoint/ravager?turret*
  images/hardpoint/shooting?star?flare/ss-rays*
  images/outfit/inhibitor?turret*
@@ -384,6 +396,8 @@ Files:
  images/outfit/flamethrower*
  images/outfit/fuel?pod*
  images/outfit/gat*
+ images/outfit/hai?ionic?turret*
+ images/outfit/hai?ionic?blaster*
  images/outfit/heavy?anti-missile*
  images/outfit/heavy?laser?turret*
  images/outfit/heavy?laser*
@@ -442,6 +456,7 @@ Files:
  images/scene/penguinscene*
  images/ship/ibis*
  images/ship/ember?waste?node/ember?waste?node*
+ images/ship/hai?sea?scorpion*
  images/ship/mbactriane*
  images/ship/penguin/*
  images/ship/petrel*
@@ -453,6 +468,7 @@ Files:
  images/ship/shooting?star/shooting?star*
  images/thumbnail/ember?waste?node*
  images/thumbnail/ibis*
+ images/thumbnail/hai?sea?scorpion*
  images/thumbnail/penguin*
  images/thumbnail/petrel*
  images/thumbnail/tern*
@@ -520,7 +536,7 @@ Files:
  images/land/desert2*
  images/land/desert11*
  images/land/desert12*
- images/land/deser13*
+ images/land/desert13*
  images/land/dune1*
  images/land/fields1*
  images/land/fields2*
@@ -647,6 +663,7 @@ Files:
  images/land/water13*
 Copyright: Various
 License: public-domain
+Comment:
  Taken from unsplash.com, a collection of photographs that have been donated and
  placed in the public domain.
 
@@ -654,6 +671,7 @@ Files:
  images/land/lava0*
 Copyright: USGS
 License: public-domain
+Comment:
  From the USGS, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
@@ -667,19 +685,20 @@ Files:
  images/land/station3*
 Copyright: NASA
 License: public-domain
+Comment:
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
 Files:
  images/land/station8*
 Copyright: MTA of the State of New York
-Licence: CC BY 2.0
+License: CC-BY-2.0
 Comment: Taken from https://www.flickr.com/photos/61135621@N03/5836687124 and cropped.
 
 Files:
  images/land/station27*
 Copyright: Sebastian Sinisterra
-Licence: CC BY 2.0
+License: CC-BY-2.0
 Comment: Taken from https://www.flickr.com/photos/61135621@N03/17755765778 and cropped.
 
 Files:
@@ -695,7 +714,7 @@ License: CC0
 Comment: Taken from https://pxhere.com/en/photo/119196 and cropped.
 
 Files:
- images/land/station5.jpg
+ images/land/station5*
 Copyright: Damien Jemison
 License: CC-BY-SA-3.0
 Comment: Taken from https://commons.wikimedia.org/wiki/File:Preamplifier_at_the_National_Ignition_Facility.jpg
@@ -706,9 +725,9 @@ Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
 
 Files:
- images/outfit/T3?anti?missile*
+ images/outfit/t3?anti?missile*
  images/outfit/pug?gridfire?turret*
- images/hardpoint/T3?anti?missile*
+ images/hardpoint/t3?anti?missile*
  images/hardpoint/pug?gridfire?turret*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
@@ -749,7 +768,7 @@ Files:
  images/ship/hauler?i*
  images/ship/hauler?ii*
  images/ship/hauler?iii*
- images/ship/modified argosy*
+ images/ship/modified?argosy*
  images/ship/bastion*
  images/ship/behemoth*
  images/ship/heavy?shuttle*
@@ -771,7 +790,7 @@ Files:
  images/thumbnail/hauler?i*
  images/thumbnail/hauler?ii*
  images/thumbnail/hauler?iii*
- images/thumbnail/modified argosy*
+ images/thumbnail/modified?argosy*
  images/thumbnail/bastion*
  images/thumbnail/behemoth*
  images/thumbnail/heavy?shuttle*
@@ -801,7 +820,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Becca Tommaso (tommasobecca03@gmail.com).
 
 Files:
- images/ship/pointedstick vanguard*
+ images/ship/pointedstick?vanguard*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Nate Graham (under the same license) and detailed by Becca Tommaso (tommasobecca03@gmail.com).
@@ -945,7 +964,6 @@ Files:
  images/planet/dyson1*
  images/planet/dyson2*
  images/planet/dyson3*
- images/planet/sheragi_postverta*
  images/planet/station0*
  images/planet/station1b*
  images/planet/station2b*
@@ -1125,6 +1143,8 @@ Files:
  images/projectile/expeller*
  images/projectile/heaver*
  images/projectile/shunt-strike*
+ images/ship/kas-ik?tek?7*
+ images/thumbnail/kas-ik?tek?7*
 Copyright: None (CC0 Public Domain)
 License: N/A (CC0 Public Domain)
 Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja
@@ -1282,7 +1302,10 @@ Files:
  images/effect/finisher?impact*
  images/effect/ion?flare/*
  images/effect/korath?flare/*
+ images/effect/plasma?cloud*
  images/effect/plasma?flare/*
+ images/effect/plasma?fire*
+ images/effect/plasma?impact*
  images/effect/pug?flare/*
  images/effect/tracker?cloud*
  images/effect/wanderer?flare/*
@@ -1292,18 +1315,19 @@ Files:
  images/hardpoint/nuke*
  images/hardpoint/sunbeam?turret*
  images/hardpoint/wanderer?anti-missile*
- images/outfit/korath?afterburner*
+ images/outfit/*?korath?afterburner*
  images/outfit/afterburner*
  images/outfit/asteroid?scanner*
  images/outfit/blue?sun*
  images/outfit/bright?cloud*
  images/outfit/caldera?afterburner*
  images/outfit/dark?storm*
- images/outfit/dual?sunbeam?turret*
  images/outfit/double?plasma?core*
+ images/outfit/dual?sunbeam?turret*
  images/outfit/*efreti?steering*
  images/outfit/*efreti?thruster*
  images/outfit/finisher?maegrolain*
+ images/outfit/fusion?cannon*
  images/outfit/moonbeam*
  images/outfit/moonbeam?turret*
  images/outfit/nuke*
@@ -1325,8 +1349,13 @@ Files:
  images/planet/ringworld?broken?right*
  images/planet/ringworld?left*
  images/planet/ringworld?right*
+ images/projectile/fire-lance*
+ images/projectile/fusion?gun?bolt*
+ images/projectile/blaze-pike*
+ images/projectile/korath?inferno*
  images/projectile/missile-0*
  images/projectile/missile-1*
+ images/ship/battleship*
  images/ship/corvette*
  images/ship/dagger*
  images/ship/flivver*
@@ -1336,6 +1365,7 @@ Files:
  images/ship/splinter*
  images/star/coal-black-hole*
  images/star/neutron*
+ images/thumbnail/battleship*
  images/thumbnail/corvette*
  images/thumbnail/dagger*
  images/thumbnail/flivver*
@@ -1369,7 +1399,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- images/projectile/korath inferno*
+ images/projectile/korath?inferno*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Nomadic Volcano (under the same license).
@@ -1513,7 +1543,7 @@ Files:
  images/outfit/emp?torpedo?ii?bay*
  images/outfit/emp?torpedo?ii?pod*
  images/planet/gas3-c*
- images/ship/aerie* 
+ images/ship/aerie*
  images/ship/arch-carrack*
  images/ship/bactrian*
  images/ship/charm-shallop*
@@ -1529,7 +1559,7 @@ Files:
  images/thumbnail/arch-carrack*
  images/thumbnail/bactrian*
  images/thumbnail/charm-shallop*
- images/ship/echo-galleon*
+ images/thumbnail/echo-galleon*
  images/thumbnail/hailstone*
  images/thumbnail/heavy?gust*
  images/thumbnail/mining?drone*
@@ -1540,6 +1570,15 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/ship/hai?cicada*
+ images/ship/hai?scarab*
+ images/thumbnail/hai?cicada*
+ images/thumbnail/hai?scarab*
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and Evan Fluharty (under the same license).
 
 Files:
  images/hardpoint/blaze-pike*
@@ -1559,6 +1598,7 @@ Files:
  images/planet/station7cb*
  images/projectile/firelight*
  images/projectile/firelight?active*
+ images/projectile/ionic?blast*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Becca Tommaso (under the same license).
@@ -1594,11 +1634,17 @@ Files:
  images/thumbnail/tubfalet*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same licence).
+Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same license).
 
 Files:
+ images/hardpoint/factory/microbot?factory*
  images/ship/-nra-ret*
+ images/ship/ikatila-ej*
+ images/ship/modified?ladybug*
+ images/ship/rai-alorej*
  images/ship/korsmanath?a-awoj*
+ images/thumbnail/ikatila-ej*
+ images/thumbnail/rai-alorej*
  images/thumbnail/-nra-ret*
  images/thumbnail/korsmanath?a-awoj*
 Copyright: Saugia <https://github.com/Saugia>
@@ -1608,7 +1654,7 @@ Comment: Derived from works by NomadicVolcano (public domain).
 Files:
  images/outfit/microbot?defense?station*
 Copyright: Saugia <https://github.com/Saugia>
-Comment: Derived from work by Griffin Schutte (theronepic@gmail.com) (under same licence).
+Comment: Derived from work by Griffin Schutte (theronepic@gmail.com) (under same license).
 License: CC-BY-SA-4.0
 
 Files:
@@ -1616,7 +1662,7 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 Comment: Derived from works by NomadicVolcano (public domain).
 License: CC-BY-SA-4.0
- 
+
 Files:
  images/scene/ssil?vida?alert?hologram*
  images/scene/remnant?remote?spaceport*
@@ -1661,17 +1707,27 @@ Files:
 Copyright: Scrinarii1337#0001
 License: CC-BY-SA-4.0
 
-Files: images/land/asteroid0
+Files: images/land/asteroid0*
 Copyright: Becca Tommaso
 License: CC0 (Creative Commons Zero)/Public-Domain
 Comment: Derived from works by ESA/Rosetta spacecraft (under the same license).
 
-Files images/outfits/skadetear
+Files:
+ images/outfit/tripulse?shredder*
+ images/outfit/value?detector*
+Copyright: Ejo Thims
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/outfit/android*
+ images/outfit/skadetear*
 Copyright: Anarchist2
 License: CC-BY-SA-4.0
 
-Files: images/thumbnail/smew
-Files: images/ship/smew
+Files:
+ images/thumbnail/smew*
+ images/ship/smew*
 Copyright: Dschiltt
 License: CC0 (Creative Commons Zero)/Public-Domain
 Comment: Derived from works by MZ (under the same license), and contributions by Zoura, Kitteh, Ejo Thims, and Saugia
@@ -1686,7 +1742,7 @@ License: CC-BY-SA-4.0
 
 Files:
  images/ship/modified?dromedary?ghost*
- images/ship/modified?dromedary?spectre*
+ images/ship/modified?dromedary?specter*
 Copyright: Saugia (https://github.com/Saugia)
 License: CC-BY-SA-4.0
 Comment: Transparent materials by scrinarii1337.
@@ -1694,11 +1750,13 @@ Comment: Transparent materials by scrinarii1337.
 Files:
  images/outfit/twin?blaster*
  images/outfit/twin?mod?blaster*
+ images/outfit/repeater*
+ images/outfit/repeater?turret*
 Copyright: Daeridanii (https://github.com/Daeridanii1)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Becca Tommaso and Michael Zahniser (under the same license).
 
-Files
+Files:
  images/ship/hai?ladybug*
  images/thumbnail/hai?ladybug*
  images/planet/station?hai?eight?geocoris*
@@ -1706,17 +1764,26 @@ Copyright: None (CC0: Public Domain)
 License: CC0: Public Domain
 Comment: Made by Nomadic Volcano with textures from texture.ninja.
 
-Files
+Files:
  images/planet/wormhole-syndicate-ad*
 Copyright: NomadicVolcano (NomadicVolcano@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license)
 
-Files
+Files:
  images/planet/station?hai?geocoris*
 Copyright: Nomadic Volcano (NomadicVolcano@gmail.com)
 License: CC-BY-SA-4.0
 Comment: rotate, flip, scale the "images/thumbnail/hai geocoris@2x.png" by Michael Zahniser (under the same license)
+
+Files:
+ images/land/city19*
+ images/land/city20*
+ images/land/city21*
+ images/land/city22*
+Copyright: Various
+License: CC0
+Comment: Taken from unsplash.com and cropped.
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
