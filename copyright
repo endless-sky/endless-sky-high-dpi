@@ -1786,8 +1786,13 @@ License: CC0
 Comment: Taken from unsplash.com and cropped.
 
 Files:
+<<<<<<< Updated upstream
  images/ui/red?alert*
 Copyright: Zitchas (zitchas.jma@gmail.com)
+=======
+ images/star/proto-planetary-disk*
+Copyright: RisingLeaf (https://github.com/RisingLeaf)
+>>>>>>> Stashed changes
 License: CC-BY-SA-4.0
 
 License: GPL-3+
