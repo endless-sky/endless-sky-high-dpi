@@ -1549,6 +1549,8 @@ Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 
 Files:
+ images/effect/void?sprite?parts*
+ images/outfit/void?sprite?parts*
  images/outfit/emp?torpedo?ii?bay*
  images/outfit/emp?torpedo?ii?pod*
  images/planet/gas3-c*
