@@ -1579,6 +1579,7 @@ Files:
  images/ship/heavy?gust*
  images/ship/mining?drone*
  images/ship/mule*
+ images/ship/pirate?valkyrie*
  images/ship/squall*
  images/ship/sunder*
  images/ship/swan*
@@ -1591,6 +1592,7 @@ Files:
  images/thumbnail/heavy?gust*
  images/thumbnail/mining?drone*
  images/thumbnail/mule*
+ images/thumbnail/pirate?valkyrie*
  images/thumbnail/squall*
  images/thumbnail/sunder*
  images/thumbnail/swan*
