@@ -824,7 +824,11 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser and Becca Tommaso under the same license. Incorporating texture made with JSPlacement by WindMillArt <https://windmillart.net/>.
 
 Files:
+ images/ship/pirate?bulwark*
+ images/ship/pirate?cutthroat*
  images/ship/pirate?nighthawk*
+ images/thumbnail/pirate?bulwark*
+ images/thumbnail/pirate?cutthroat*
  images/thumbnail/pirate?nighthawk*
 Copyright: 1010todd
 License: CC-BY-SA-4.0
@@ -1597,6 +1601,13 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/ship/pirate?valkyrie*
+ images/thumbnail/pirate?valkyrie*
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and 1010todd (under the same license). Incorporating texture made with JSPlacement by WindMillArt <https://windmillart.net/>.
 
 Files:
  images/ship/hai?cicada*
