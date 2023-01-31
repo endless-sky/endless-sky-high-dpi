@@ -1479,6 +1479,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/asteroid/*bioroid*
  images/effect/blink*
  images/hardpoint/acuit*
  images/hardpoint/astuit*
@@ -1521,6 +1522,7 @@ Files:
  images/projectile/guile?pulse?laser*
  images/projectile/irate*
  images/scene/rulei?flash*
+ images/ship/*astral*
  images/ship/*ayym*
  images/ship/embersylph*
  images/ship/gegno?augen*
@@ -1544,6 +1546,7 @@ Files:
  images/ship/*jje*
  images/ship/modified?dromedary*
  images/ship/modified?dromedary?wreck*
+ images/ship/*vyrmeid*
  images/ship/*vyuira*
  images/thumbnail/gegno?augen*
  images/thumbnail/gegno?coesite*
