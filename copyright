@@ -1533,6 +1533,7 @@ Files:
  images/hardpoint/ballistic*
  images/hardpoint/choleric*
  images/hardpoint/firestorm?battery*
+ images/hardpoint/ion?torch*
  images/hardpoint/irate*
  images/outfit/acuit*
  images/outfit/ameliorate?cell*
@@ -1549,6 +1550,7 @@ Files:
  images/outfit/firestorm?rack*
  images/outfit/firestorm?torpedo*
  images/outfit/guile?pulse?laser*
+ images/outfit/ion?torch*
  images/outfit/irate?cannon*
  images/outfit/irate?turret*
  images/outfit/mcs?extractor*
@@ -1582,6 +1584,7 @@ Files:
  images/ship/gegno?augen*
  images/ship/gegno?coesite*
  images/ship/gegno?conglomerate*
+ images/ship/gegno?corundum*
  images/ship/gegno?dolomite*
  images/ship/gegno?dunite*
  images/ship/gegno?eclogite*
@@ -1589,10 +1592,12 @@ Files:
  images/ship/gegno?feldspar*
  images/ship/gegno?felsic*
  images/ship/gegno?gneiss*
+ images/ship/gegno?granofel*
  images/ship/gegno?granulite*
  images/ship/gegno?gypsum*
  images/ship/gegno?halite*
  images/ship/gegno?mica*
+ images/ship/gegno?protolith*
  images/ship/gegno?schist*
  images/ship/gegno?shale*
  images/ship/gegno?slate*
