@@ -461,6 +461,7 @@ Files:
  images/scene/penguinscene*
  images/ship/ibis*
  images/ship/ember?waste?node/ember?waste?node*
+ images/ship/hai?anomalocaris*
  images/ship/hai?sea?scorpion*
  images/ship/mbactriane*
  images/ship/penguin/*
@@ -473,6 +474,7 @@ Files:
  images/ship/shooting?star/shooting?star*
  images/thumbnail/ember?waste?node*
  images/thumbnail/ibis*
+ images/thumbnail/hai?anomalocaris*
  images/thumbnail/hai?sea?scorpion*
  images/thumbnail/penguin*
  images/thumbnail/petrel*
@@ -1928,8 +1930,6 @@ License: CC-BY-SA-4.0
 
 Files:
  images/scene/emerging?ladybug*
- images/ship/hai?ancient?ladybug*
- images/thumbnail/hai?ancient?ladybug*
 Copyright: RisingLeaf (https://github.com/RisingLeaf)
 License: CC-BY-SA-4.0
 Comment: Derived from public domain works previously submitted to Endless Sky
