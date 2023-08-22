@@ -480,8 +480,6 @@ Files:
  images/planet/station1c*
  images/planet/station2c*
  images/planet/station3c*
- images/ship/archon?b*
- images/ship/archon?c*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
@@ -1246,11 +1244,6 @@ Copyright: @Karirawri (crim@live.no)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
-Files: images/effect/archon?teleport/*
-Copyright: @Karirawri (crim@live.no)
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser and Becca Tommaso (under the same license).
-
 Files: images/outfit/emp?rack*
 Copyright: Anarchist2
 License: CC-BY-SA-4.0
@@ -1430,6 +1423,7 @@ Files:
  images/projectile/korath?inferno*
  images/projectile/missile-0*
  images/projectile/missile-1*
+ images/ship/archon*
  images/ship/battleship*
  images/ship/corvette*
  images/ship/dagger*
@@ -1440,6 +1434,7 @@ Files:
  images/ship/splinter*
  images/star/coal-black-hole*
  images/star/neutron*
+ images/thumbnail/archon*
  images/thumbnail/battleship*
  images/thumbnail/corvette*
  images/thumbnail/dagger*
@@ -1450,6 +1445,15 @@ Files:
  images/thumbnail/splinter*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
+
+Files:
+ images/effect/archonteleport/*
+ images/effect/archonbteleport/*
+ images/effect/archoncteleport/*
+ images/effect/archondteleport/*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by @Karirawri (under the same license).
 
 Files:
  images/outfit/small?photovoltaic*
