@@ -1017,6 +1017,7 @@ Files:
  images/outfit/quark?reactor*
  images/outfit/hai?jammer*
  images/outfit/hai?jammer?overclocked*
+ images/outfit/heliarch?license*
  images/outfit/hydra?pod*
  images/outfit/hydra*
  images/outfit/*nanite?fabricator*
@@ -1302,12 +1303,6 @@ Files:
 Copyright: Becca Tommaso
 License: CC-BY-SA-4.0
 Comment: Derived from works by Nate Graham (under the same license).
-
-Files:
- images/outfit/refuelling?module*
-Copyright: Becca Tommaso
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/star/a-dwarf*
