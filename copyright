@@ -1012,10 +1012,12 @@ Files:
  images/outfit/control?transceiver*
  images/outfit/buzzer*
  images/outfit/dark?reactor*
+ images/outfit/decoy?plating*
  images/outfit/electroweak?reactor*
  images/outfit/quark?reactor*
  images/outfit/hai?jammer*
  images/outfit/hai?jammer?overclocked*
+ images/outfit/heliarch?license*
  images/outfit/hydra?pod*
  images/outfit/hydra*
  images/outfit/*nanite?fabricator*
@@ -1303,11 +1305,6 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Nate Graham (under the same license).
 
 Files:
- images/outfit/heliarch?license*
-Copyright: Becca Tommaso
-License: CC-BY-SA-4.0
-
-Files:
  images/star/a-dwarf*
  images/star/a-giant*
  images/star/a-supergiant*
@@ -1515,6 +1512,7 @@ License: CC-BY-SA-3.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/outfit/shield?refactor?module*
  images/ship/auxiliary*
  images/ship/carrier*
  images/ship/combat?drone*
@@ -1840,6 +1838,17 @@ Files:
 Copyright: Ejo Thims
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/outfit/small?recovery?module*
+Copyright: 1010todd
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/outfit/anti-materiel?gun*
+Copyright: 1010todd
+License: CC-BY-SA-4.0
 
 Files:
  images/outfit/android*
