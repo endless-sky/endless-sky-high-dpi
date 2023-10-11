@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+      - releases/v[0-9]+.[0-9]+.[0-9]+
+  pull_request:
+    types: [opened, synchronize]
+
+concurrency:
+  group: ${{ github.ref }}-${{ github.workflow }}-${{ github.event_name }}
+  cancel-in-progress: true
+
+jobs:
+  test-parse:
+    name: Data Files
+    runs-on: windows-2022
+    env:
+      CONTINUOUS: EndlessSky-win64-continuous.zip
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        repository: 'endless-sky/endless-sky'
+    - name: Download latest continuous
+      run: gh release download -R endless-sky/endless-sky continuous -p ${{ env.CONTINUOUS }}
+    - name: Extract and prepare continuous
+      run: |
+        Expand-Archive ${{ env.CONTINUOUS }} -DestinationPath continuous -Force
+        COPY '.\continuous\Endless Sky.exe' .
+        COPY '.\continuous\*.dll' .
+        mkdir plugins
+        cd .\plugins
+        mkdir endless-sky-high-dpi
+    - uses: actions/checkout@v4
+      with:
+        path: '.\plugins\endless-sky-high-dpi'
+    - name: Parse Datafiles
+      run: .\utils\test_parse.ps1 'Endless Sky.exe'
