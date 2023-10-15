@@ -682,8 +682,8 @@ Files:
 Copyright: Various
 License: Depends
 Comment:
- Taken from unsplash.com and added to the after June 2017. If the pictures were uploaded
- to unsplash.com before June 2017, they were donated and placed in the public domain. If
+ Taken from unsplash.com and added after June 2017. If the pictures were uploaded to
+ unsplash.com before June 2017, they were donated and placed in the public domain. If
  the pictures were uploaded to unsplash.com after June 2017, they are subject to the
  Unsplash License.
 
@@ -1944,10 +1944,10 @@ Files:
 Copyright: Various
 License: Depends
 Comment:
- Taken from unsplash.com, cropped, and added to the after June 2017. If the pictures were
- uploaded to unsplash.com before June 2017, they were donated and placed in the public
- domain. If the pictures were uploaded to unsplash.com after June 2017, they are subject
- to the Unsplash License.
+ Taken from unsplash.com, cropped, and added after June 2017. If the pictures were uploaded
+ to unsplash.com before June 2017, they were donated and placed in the public domain. If the
+ pictures were uploaded to unsplash.com after June 2017, they are subject to the Unsplash
+ License.
 
 Files:
  images/ui/red?alert*
