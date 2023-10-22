@@ -328,6 +328,12 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/ship/waverider*
+Copyright Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Saugia (<https://github.com/Saugia>).
+
+Files:
  images/ship/modified?boxwing*
  images/thumbnail/modified?boxwing*
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
@@ -2188,6 +2194,12 @@ Files:
 Copyright: Dave Flowers
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/ui/red?alert?grayed*
+Copyright: Dave Flowers
+License: CC-BY-SA-4.0
+Comment: grayscale version of images/ui/red alert, by Zitchas (zitchas.jma@gmail.com)
 
 License: Depends
  Taken from unsplash.com. Until June 2017, this was a collection of photographs that had been donated and
