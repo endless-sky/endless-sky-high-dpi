@@ -1638,6 +1638,8 @@ Files:
  images/ship/modified?dromedary*
  images/ship/modified?dromedary?wreck*
  images/ship/*vyrmeid*
+ images/ship/saber*
+ images/ship/scavenger*
  images/ship/*vyuir*
  images/thumbnail/gegno?augen*
  images/thumbnail/gegno?coesite*
@@ -1660,6 +1662,8 @@ Files:
  images/thumbnail/gegno?tridymite*
  images/thumbnail/modified?dromedary*
  images/thumbnail/modified?dromedary?wreck*
+ images/thumbnail/saber*
+ images/thumbnail/scavenger*
  images/thumbnail/vyuir*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
