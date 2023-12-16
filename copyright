@@ -372,6 +372,11 @@ Comment: Derived from works by Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 
 Files:
+ images/outfit/true?unfettered?license*
+Copyright: 1010todd
+License: CC-BY-SA-4.0
+
+Files:
  images/effect/remnant?afterburner/remnant?afterburner*
  images/land/nasa9*
  images/hardpoint/annihilator?turret*
@@ -417,6 +422,7 @@ Files:
  images/outfit/medium?fuel?cell*
  images/outfit/small?fuel?cell*
  images/outfit/tiny?fuel?cell*
+ images/outfit/hai?zephyr*
  images/outfit/huge?shield*
  images/outfit/large?shield*
  images/outfit/medium?shield*
@@ -468,7 +474,10 @@ Files:
  images/scene/penguinscene*
  images/ship/ibis*
  images/ship/ember?waste?node/ember?waste?node*
+ images/ship/hai?sea?dragon*
  images/ship/hai?sea?scorpion*
+ images/ship/hai?shield?beetle?prototype*
+ images/ship/hai?stag?beetle*
  images/ship/mbactriane*
  images/ship/penguin/*
  images/ship/petrel*
@@ -480,7 +489,10 @@ Files:
  images/ship/shooting?star/shooting?star*
  images/thumbnail/ember?waste?node*
  images/thumbnail/ibis*
+ images/thumbnail/hai?sea?dragon*
  images/thumbnail/hai?sea?scorpion*
+ images/thumbnail/hai?shield?beetle?prototype*
+ images/thumbnail/hai?stag?beetle*
  images/thumbnail/penguin*
  images/thumbnail/petrel*
  images/thumbnail/tern*
@@ -1749,16 +1761,19 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Lia Gerty (under the same license).
 
 Files:
+ images/ship/hai?antlion*
  images/ship/kestrel*
  images/ship/kestrele*
  images/ship/kestrels*
  images/ship/kestrelw*
  images/ship/osprey*
+ images/thumbnail/hai?antlion*
  images/thumbnail/kestrel*
  images/thumbnail/kestrele*
  images/thumbnail/kestrels*
  images/thumbnail/kestrelw*
  images/thumbnail/osprey*
+ images/projectiles/ionic?blast*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Anarchist2.
@@ -1845,6 +1860,16 @@ Files: images/land/asteroid0*
 Copyright: Becca Tommaso
 License: CC0 (Creative Commons Zero)/Public-Domain
 Comment: Derived from works by ESA/Rosetta spacecraft (under the same license).
+
+Files:
+ images/outfit/gold?bars*
+Copyright: Red-57 (github.com/Red-57)
+License: CC-BY-SA-4.0
+
+Files:
+ images/scene/chootk?firelode*
+Copyright: RisingLeaf (https://github.com/RisingLeaf)
+License: CC-BY-SA-4.0
 
 Files:
  images/outfit/tripulse?shredder*
