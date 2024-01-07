@@ -1750,11 +1750,13 @@ Comment: Derived from works by Michael Zahniser (under the same license) and Lia
 
 Files:
  images/ship/kestrel*
+ images/ship/kestrelc*
  images/ship/kestrele*
  images/ship/kestrels*
  images/ship/kestrelw*
  images/ship/osprey*
  images/thumbnail/kestrel*
+ images/thumbnail/kestrelc*
  images/thumbnail/kestrele*
  images/thumbnail/kestrels*
  images/thumbnail/kestrelw*
