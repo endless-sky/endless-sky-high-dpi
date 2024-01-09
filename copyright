@@ -1563,6 +1563,7 @@ Files:
  images/hardpoint/firestorm?battery*
  images/hardpoint/ion?torch*
  images/hardpoint/irate*
+ images/hardpoint/tractor?beam*
  images/outfit/acuit*
  images/outfit/acumen*
  images/outfit/ameliorate?cell*
@@ -1593,6 +1594,7 @@ Files:
  images/outfit/skirmish?battery*
  images/outfit/*torch?thruster?vi*
  images/outfit/*torch?thruster?vi*
+ images/outfit/tractor?beam?*
  images/outfit/warforge?battery*
  images/outfit/warzone?core*
  images/planet/*beryl*
@@ -1717,6 +1719,7 @@ Comment: Derived from works by Michael Zahniser (under the same license) and Eva
 Files:
  images/hardpoint/blaze-pike*
  images/hardpoint/korath?inferno*
+ images/hardpoint/mining?laser?turret*
  images/hardpoint/shunt-strike*
  images/icon/firelight*
  images/outfit/blaze-pike*
@@ -1724,6 +1727,8 @@ Files:
  images/outfit/firelight?bank*
  images/outfit/firelight?rack*
  images/outfit/korath?inferno*
+ images/outfit/mining?laser*
+ images/outfit/mining?laser?turret*
  images/outfit/shunt-strike*
  images/planet/station4c*
  images/planet/station5c*
