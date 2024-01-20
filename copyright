@@ -239,6 +239,58 @@ Comment:
  Taken from morgue-file.com, a collection of photographs that have been donated
  and placed in the public domain. (Exceptions noted below.)
 
+Files:
+ images/land/mercury1*
+Copyright: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington
+License: public-domain
+Comment:
+ Taken from https://archive.is/dd4hA. This image is an
+ artist's impression of the surface of Mercury, produced
+ for the MESSENGER mission. Because it was produced for
+ a NASA mission, it is in the public domain.
+
+Files:
+ images/land/sea23*
+Copyright: Dan Stark
+License: public-domain
+Comment:
+ Taken from https://archive.is/qvHPl. This image was
+ uploaded to unsplash.com before June 2017, so it is
+ in the public domain.
+
+Files:
+ images/land/station46*
+Copyright: Bruno Thethe
+License: Unsplash License
+Comment:
+ Taken from https://archive.is/FpG3p. This image was uploaded to
+ unsplash.com after June 2017, so it is subject to the
+ Unsplash License. It was also uploaded after February 2018,
+ so it is subject to an additional restriction limiting the
+ sale of unaltered copies.
+
+Files:
+ images/land/station47*
+Copyright: Adrien Olichon
+License: Unsplash License
+Comment:
+ Taken from https://archive.is/zTEVA. This image was uploaded to
+ unsplash.com after June 2017, so it is subject to the
+ Unsplash License. It was also uploaded after February 2018,
+ so it is subject to an additional restriction limiting the
+ sale of unaltered copies.
+
+Files:
+ images/land/station48*
+Copyright: Miquel Parera
+License: Unsplash License
+Comment:
+ Taken from https://archive.is/UjGht. This image was uploaded to
+ unsplash.com after June 2017, so it is subject to the
+ Unsplash License. It was also uploaded after February 2018,
+ so it is subject to an additional restriction limiting the
+ sale of unaltered copies.
+
 Files: images/land/bwerner*
 Copyright: Berthold Werner (commons.wikimedia.org/wiki/User:Berthold_Werner)
 License: CC-BY-SA-3.0
@@ -1834,6 +1886,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Frederick Goy IV (under the same license).
 
 Files:
+ images/hardpoint/javelin?turret*
  images/planet/station1*
  images/planet/station2*
  images/planet/station3*
@@ -1922,6 +1975,7 @@ Files:
  images/outfit/javelin?mini?pod*
  images/outfit/javelin?pod*
  images/outfit/javelin?storage*
+ images/outfit/javelin?turret*
  images/outfit/torpedo*
  images/outfit/torpedo?launcher*
  images/outfit/torpedo?storage*
@@ -2465,10 +2519,18 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/outfit/gat?turret?hardpoint*
+ images/outfit/gat?turret*
+Copyright: bene_dictator <benstaples8068@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license), detailed by Saugia.
+
+Files:
  images/asteroid/*bioroid*
  images/effect/blink*
  images/effect/bunrodea?flare*
  images/effect/buzzer?am*
+ images/effect/tractor?beam*
  images/effect/yellow?spark*
  images/hardpoint/acuit*
  images/hardpoint/astuit*
@@ -2478,6 +2540,7 @@ Files:
  images/hardpoint/firestorm?battery*
  images/hardpoint/ion?torch*
  images/hardpoint/irate*
+ images/hardpoint/tractor?beam*
  images/outfit/acuit*
  images/outfit/acumen*
  images/outfit/ameliorate?cell*
@@ -2508,9 +2571,13 @@ Files:
  images/outfit/skirmish?battery*
  images/outfit/*torch?thruster?vi*
  images/outfit/*torch?thruster?vi*
+ images/outfit/tractor?beam?*
  images/outfit/warforge?battery*
  images/outfit/warzone?core*
+ images/planet/alvorada*
  images/planet/*beryl*
+ images/planet/mendez*
+ images/planet/station18*
  images/planet/tschyss*
  images/planet/vesvi*
  images/planet/yniu?eiu*
@@ -2527,6 +2594,7 @@ Files:
  images/ship/*astral*
  images/ship/*ayym*
  images/ship/embersylph*
+ images/ship/enforcer*
  images/ship/gegno?augen*
  images/ship/gegno?coesite*
  images/ship/gegno?conglomerate*
@@ -2549,11 +2617,14 @@ Files:
  images/ship/gegno?shale*
  images/ship/gegno?slate*
  images/ship/gegno?tridymite*
+ images/ship/hogshead*
  images/ship/*jje*
  images/ship/modified?dromedary*
  images/ship/modified?dromedary?wreck*
  images/ship/*vyrmeid*
+ images/ship/saber*
  images/ship/*vyuir*
+ images/thumbnail/enforcer*
  images/thumbnail/gegno?augen*
  images/thumbnail/gegno?coesite*
  images/thumbnail/gegno?conglomerate*
@@ -2573,8 +2644,10 @@ Files:
  images/thumbnail/gegno?shale*
  images/thumbnail/gegno?slate*
  images/thumbnail/gegno?tridymite*
+ images/thumbnail/hogshead*
  images/thumbnail/modified?dromedary*
  images/thumbnail/modified?dromedary?wreck*
+ images/thumbnail/saber*
  images/thumbnail/vyuir*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
@@ -2632,6 +2705,7 @@ Comment: Derived from works by Michael Zahniser (under the same license) and Eva
 Files:
  images/hardpoint/blaze-pike*
  images/hardpoint/korath?inferno*
+ images/hardpoint/mining?laser?turret*
  images/hardpoint/shunt-strike*
  images/icon/firelight*
  images/outfit/blaze-pike*
@@ -2639,6 +2713,8 @@ Files:
  images/outfit/firelight?bank*
  images/outfit/firelight?rack*
  images/outfit/korath?inferno*
+ images/outfit/mining?laser*
+ images/outfit/mining?laser?turret*
  images/outfit/shunt-strike*
  images/planet/station4c*
  images/planet/station5c*
@@ -2665,11 +2741,13 @@ Comment: Derived from works by Michael Zahniser (under the same license) and Lia
 
 Files:
  images/ship/kestrel*
+ images/ship/kestrelc*
  images/ship/kestrele*
  images/ship/kestrels*
  images/ship/kestrelw*
  images/ship/osprey*
  images/thumbnail/kestrel*
+ images/thumbnail/kestrelc*
  images/thumbnail/kestrele*
  images/thumbnail/kestrels*
  images/thumbnail/kestrelw*
@@ -2677,6 +2755,18 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Anarchist2.
+
+Files:
+ images/projectile/*tinyflare*
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and Iaz Poolar (under the same license).
+
+Files:
+ images/icon/gat turret*
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Maximilian Korber (under the same license) and Amazinite (under the same license).
 
 Files:
  images/ship/tubfalet*
