@@ -7,6 +7,20 @@ Files: *
 Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
 
+Files: images/land/*
+Copyright: Various
+License: public-domain
+Comment:
+ Taken from morgue-file.com, a collection of photographs that have been donated
+ and placed in the public domain. (Exceptions noted below.)
+
+Files: images/scene/*
+Copyright: Various
+License: public-domain
+Comment:
+ Taken from morguefile.com, a collection of photographs that have been donated
+ and placed in the public domain. (Exceptions noted below.)
+
 Files:
  images/outfit/*battery?hai*
  images/outfit/anti-missile?hai*
@@ -194,13 +208,6 @@ Comment:
  From US NOAA, and therefore in the public domain because it was created by
  government employees while doing work for the government.
 
-Files: images/scene/*
-Copyright: Various
-License: public-domain
-Comment:
- Taken from morguefile.com, a collection of photographs that have been donated
- and placed in the public domain. (Exceptions noted below.)
-
 Files: images/scene/geoscan*
 Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
@@ -231,13 +238,6 @@ License: public-domain
 Comment:
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
-
-Files: images/land/*
-Copyright: Various
-License: public-domain
-Comment:
- Taken from morgue-file.com, a collection of photographs that have been donated
- and placed in the public domain. (Exceptions noted below.)
 
 Files:
  images/land/mercury1*
@@ -2763,7 +2763,7 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and Iaz Poolar (under the same license).
 
 Files:
- images/icon/gat turret*
+ images/icon/gat?turret*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Maximilian Korber (under the same license) and Amazinite (under the same license).
@@ -3163,7 +3163,7 @@ License: Unsplash License
  Unsplash grants you an irrevocable, nonexclusive, worldwide copyright
  license to download, copy, modify, distribute, perform, and use photos
  from Unsplash for free, including for commercial purposes, without
- permission  from or attributing the photographer or Unsplash. This
+ permission from or attributing the photographer or Unsplash. This
  license does not include the right to compile photos from Unsplash to
  replicate a similar or competing service.
 
