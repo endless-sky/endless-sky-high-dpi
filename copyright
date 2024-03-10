@@ -1532,24 +1532,72 @@ License: CC-BY-SA-3.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/effect/atomic?flare/*
+ images/effect/coalition?flare/*
+ images/effect/ion?flare/*
+ images/effect/korath?flare/*
+ images/effect/plasma?flare/*
+ images/effect/tracker?cloud*
+ images/hardpoint/dual?sunbeam?turret*
+ images/hardpoint/moonbeam?turret*
+ images/hardpoint/sunbeam?turret*
+ images/hardpoint/wanderer?anti-missile*
+ images/outfit/afterburner*
+ images/outfit/blue?sun*
+ images/outfit/bright?cloud*
+ images/outfit/caldera?afterburner*
+ images/outfit/dark?storm*
+ images/outfit/double?plasma?core*
+ images/outfit/dual?sunbeam?turret*
+ images/outfit/finisher?maegrolain*
+ images/outfit/moonbeam*
+ images/outfit/moonbeam?turret*
+ images/outfit/plasma?core*
+ images/outfit/red?sun*
  images/outfit/shield?refactor?module*
+ images/outfit/sunbeam*
+ images/outfit/sunbeam?turret*
+ images/outfit/thunderhead?launcher*
+ images/outfit/thunderhead?storage*
+ images/outfit/triple?plasma?core*
+ images/outfit/wanderer?anti-missile*
+ images/outfit/wanderer?heat?sink*
+ images/outfit/white?sun*
+ images/outfit/yellow?sun*
+ images/planet/ringworld*
+ images/planet/ringworld?broken?debris*
+ images/planet/ringworld?broken?debris?small*
+ images/planet/ringworld?broken?left*
+ images/planet/ringworld?broken?right*
+ images/planet/ringworld?left*
+ images/planet/ringworld?right*
  images/ship/auxiliary*
  images/ship/carrier*
  images/ship/combat?drone*
+ images/ship/corvette*
  images/ship/cruiser*
+ images/ship/dagger*
+ images/ship/flivver*
  images/ship/frigate*
  images/ship/gunboat*
  images/ship/lance*
  images/ship/rainmaker*
+ images/ship/raven*
+ images/ship/splinter*
  images/ship/surveillance?drone*
  images/thumbnail/auxiliary*
  images/thumbnail/carrier*
  images/thumbnail/combat?drone*
+ images/thumbnail/corvette*
  images/thumbnail/cruiser*
+ images/thumbnail/dagger*
+ images/thumbnail/flivver*
  images/thumbnail/frigate*
  images/thumbnail/gunboat*
  images/thumbnail/lance*
  images/thumbnail/rainmaker*
+ images/thumbnail/raven*
+ images/thumbnail/splinter*
  images/thumbnail/surveillance?drone*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
