@@ -360,7 +360,6 @@ Files:
  images/planet/station17*
  images/planet/station-bunrodea*
  images/ship/maeri'het*
- images/ship/merganser*
  images/ship/subsidurial*
  images/ship/telis'het*
  images/ship/faes'mar*
@@ -378,7 +377,6 @@ Files:
  images/ship/tanto*
  images/ship/tekkan*
  images/thumbnail/maeri'het*
- images/thumbnail/merganser*
  images/thumbnail/telis'het*
  images/thumbnail/faes'mar*
  images/thumbnail/selii'mar*
@@ -610,6 +608,7 @@ Files:
  images/ship/ember?waste?node/ember?waste?node*
  images/ship/hai?sea?scorpion*
  images/ship/mbactriane*
+ images/ship/merganser*
  images/ship/penguin/*
  images/ship/petrel*
  images/ship/tern*
@@ -620,6 +619,7 @@ Files:
  images/ship/shooting?star/shooting?star*
  images/thumbnail/ibis*
  images/thumbnail/hai?sea?scorpion*
+ images/thumbnail/merganser*
  images/thumbnail/penguin*
  images/thumbnail/petrel*
  images/thumbnail/tern*
@@ -641,7 +641,6 @@ Files:
  images/outfit/fusion?hai*
  images/outfit/heavy?anti-missile?hai*
  images/ship/mfury*
- images/ship/mquicksilver*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
@@ -1070,6 +1069,7 @@ Files:
  images/ship/mfalcon*
  images/thumbnail/mbounder*
  images/thumbnail/mfalcon*
+ images/ship/mquicksilver*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Anarchist2.
