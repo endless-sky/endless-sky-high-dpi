@@ -10,34 +10,16 @@ License: CC-BY-SA-4.0
 Files: images/land/*
 Copyright: Various
 License: public-domain
-Comment:
  Taken from morgue-file.com, a collection of photographs that have been donated
  and placed in the public domain. (Exceptions noted below.)
 
 Files: images/scene/*
 Copyright: Various
 License: public-domain
-Comment:
  Taken from morguefile.com, a collection of photographs that have been donated
  and placed in the public domain. (Exceptions noted below.)
 
 Files:
- images/outfit/*battery?hai*
- images/outfit/anti-missile?hai*
- images/outfit/cooling?ducts?hai*
- images/outfit/dwarf?core?hai*
- images/outfit/fission?hai*
- images/outfit/fusion?hai*
- images/outfit/heavy?anti-missile?hai*
- images/ship/marrow*
- images/ship/mfury*
- images/ship/mquicksilver*
-Copyright: Maximilian Korber
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
-
-Files:
- images/outfit/gat*
  images/outfit/bullet*
  images/scene/sagittarius?a*
  images/ship/hai?solifuge*
@@ -51,23 +33,6 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Christian Rhodes (under the same license).
 
 Files:
- images/ship/pointedstick?vanguard*
-Copyright: Maximilian Korber
-License: CC-BY-SA-4.0
-Comment: Derived from works by Nate Graham (under the same license).
-
-Files:
- images/effect/railspark*
- images/projectile/tinyflare*
- images/outfit/*engines?hai*
- images/outfit/*steering?hai*
- images/outfit/*thruster?hai*
- images/outfit/tiny?ion?engines*
-Copyright: Iaz Poolar
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
-
-Files:
  images/projectile/bullet*
  images/effect/bullet?impact*
 Copyright: Iaz Poolar
@@ -76,7 +41,6 @@ Comment: Derived from works by Amazinite derived from works by Michael Zahniser 
 
 Files:
  images/ship/hai?pond?strider*
- images/ship/barb*
 Copyright: Iaz Poolar
 License: CC-BY-SA-4.0
 
@@ -94,11 +58,8 @@ Comment: Derived from works by Matthew Smestad (under the same license).
 License: CC-BY-SA-4.0
 
 Files:
- images/ship/vanguard*
  images/outfit/luxury?accommodations*
- images/outfit/proton?turret*
  images/hardpoint/proton?turret*
- images/outfit/brig*
 Copyright: Nate Graham <pointedstick@zoho.com>
 License: CC-BY-SA-4.0
 
@@ -164,13 +125,6 @@ License: CC-BY-SA-4.0
 Comment: Incorporating a photo by Aram Dulyan, under the CC-BY-2.0 license.
 
 Files:
- images/outfit/jump?drive?(broken)*
- images/outfit/plasma?repeater*
-Copyright: Darcy Manoel <Darcman00@gmail.com>
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
-
-Files:
  images/scene/plasma?scene*
 Copyright: 1010todd <1010todd3d@gmail>
 License: CC-BY-SA-4.0
@@ -196,7 +150,6 @@ Files:
  images/planet/venus*
 Copyright: NASA
 License: public-domain
-Comment:
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
@@ -222,7 +175,6 @@ Comment:
 Files: images/scene/army*
 Copyright: US Army
 License: public-domain
-Comment:
  From the US Army. Public domain because they are photographs taken by a
  government employee as part of their job.
 
@@ -235,7 +187,6 @@ Files:
  images/scene/engine2*
 Copyright: NASA
 License: public-domain
-Comment:
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
@@ -243,7 +194,6 @@ Files:
  images/land/mercury1*
 Copyright: NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington
 License: public-domain
-Comment:
  Taken from https://archive.is/dd4hA. This image is an
  artist's impression of the surface of Mercury, produced
  for the MESSENGER mission. Because it was produced for
@@ -253,43 +203,9 @@ Files:
  images/land/sea23*
 Copyright: Dan Stark
 License: public-domain
-Comment:
  Taken from https://archive.is/qvHPl. This image was
  uploaded to unsplash.com before June 2017, so it is
  in the public domain.
-
-Files:
- images/land/station46*
-Copyright: Bruno Thethe
-License: Unsplash License
-Comment:
- Taken from https://archive.is/FpG3p. This image was uploaded to
- unsplash.com after June 2017, so it is subject to the
- Unsplash License. It was also uploaded after February 2018,
- so it is subject to an additional restriction limiting the
- sale of unaltered copies.
-
-Files:
- images/land/station47*
-Copyright: Adrien Olichon
-License: Unsplash License
-Comment:
- Taken from https://archive.is/zTEVA. This image was uploaded to
- unsplash.com after June 2017, so it is subject to the
- Unsplash License. It was also uploaded after February 2018,
- so it is subject to an additional restriction limiting the
- sale of unaltered copies.
-
-Files:
- images/land/station48*
-Copyright: Miquel Parera
-License: Unsplash License
-Comment:
- Taken from https://archive.is/UjGht. This image was uploaded to
- unsplash.com after June 2017, so it is subject to the
- Unsplash License. It was also uploaded after February 2018,
- so it is subject to an additional restriction limiting the
- sale of unaltered copies.
 
 Files: images/land/bwerner*
 Copyright: Berthold Werner (commons.wikimedia.org/wiki/User:Berthold_Werner)
@@ -327,17 +243,6 @@ Files: images/land/*-iridium*
 Copyright: @Iridium Ore (blueajp@gmail.com)
 License: CC-BY-SA-4.0
 
-Files: images/land/lava11*
-Copyright: National Archives and Records Administration
-License: public-domain
-Comment: Taken from Wikimedia Commons. Cropped and edited.
-
-Files:
- images/land/station12*
-Copyright: Office of War Information
-License: public-domain
-Comment: Taken from Wikimedia Commons. Cropped and edited.
-
 Files: images/land/*-spfld*
 Copyright: Eric Denni (spfldsatellite@gmail.com)
 License: CC-BY-SA-4.0
@@ -361,7 +266,6 @@ License: CC-BY-SA-4.0
 Files:
  images/outfit/korath?rifle*
  images/outfit/hai?rifle*
- images/outfit/scram?drive*
  images/outfit/korath?fuel?processor*
  images/outfit/remnant?rifle*
  images/ship/hai?centipede*
@@ -370,7 +274,6 @@ Files:
  images/ship/gull*
  images/ship/pelican*
  images/ship/riptide*
- images/ship/auxiliary*
  images/ship/dropship*
  images/ship/heron*
  images/thumbnail/hai?centipede*
@@ -380,7 +283,6 @@ Files:
  images/thumbnail/pelican*
  images/thumbnail/peregrine*
  images/thumbnail/riptide*
- images/thumbnail/auxiliary*
  images/thumbnail/dropship*
  images/outfit/auxiliary?license*
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
@@ -389,7 +291,7 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/ship/waverider*
-Copyright Evan Fluharty (Evanfluharty@gmail.com)
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Saugia (<https://github.com/Saugia>).
 
@@ -411,19 +313,11 @@ Comment:
  they are subject to additional restrictions.
 
 Files:
- images/outfit/quarg?skylance*
- images/hardpoint/quarg?skylance*
-Copyright: Evan Fluharty (Evanfluharty@gmail.com)
-License: CC-BY-SA-4.0
-Comment: Derived and completed from works by Maximilian Korber (Wrzlprnft), @Karirawri, and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
-
-Files:
  images/outfit/quarg*
  images/hardpoint/quarg*
  images/outfit/small?quarg*
  images/outfit/medium?quarg*
  images/outfit/large?quarg*
- images/outfit/enforcer?riot?staff*
  images/outfit/laser?rifle*
  images/outfit/hai?pebble?core*
  images/outfit/hai?boulder*
@@ -432,10 +326,205 @@ Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 
 Files:
+ images/outfit/quarg?skylance*
+ images/hardpoint/quarg?skylance*
+Copyright: Evan Fluharty (Evanfluharty@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived and completed from works by Maximilian Korber (Wrzlprnft), @Karirawri, and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
+
+Files:
  images/outfit/enforcer?riot?staff*
 Copyright: 1010todd
 Comment: Derived from works by Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
+
+Files:
+ images/land/desert0*
+ images/land/earthrise*
+ images/land/nasa*
+ images/land/space*
+ images/land/station1*
+ images/land/station2*
+ images/land/station3*
+Copyright: NASA
+License: public-domain
+ From NASA, and therefore in the public domain because they were created by
+ government employees while doing work for the government.
+
+Files:
+ images/land/station12*
+Copyright: Office of War Information
+License: public-domain
+ Taken from Wikimedia Commons. Cropped and edited.
+
+Files:
+ images/hardpoint/javelin?turret*
+ images/planet/station1*
+ images/planet/station2*
+ images/planet/station3*
+ images/planet/station4*
+ images/planet/station8*
+ images/planet/station9*
+ images/planet/station10*
+ images/planet/station11*
+ images/planet/station12*
+ images/planet/station13*
+ images/planet/station14*
+ images/planet/station15*
+ images/planet/station16*
+ images/planet/station17*
+ images/planet/station-bunrodea*
+ images/ship/maeri'het*
+ images/ship/subsidurial*
+ images/ship/telis'het*
+ images/ship/faes'mar*
+ images/ship/selii'mar*
+ images/ship/vareti'het*
+ images/ship/fetri'sei*
+ images/ship/void?sprite/*
+ images/ship/ember?waste?node/*
+ images/ship/ararebo*
+ images/ship/chigiriki*
+ images/ship/kaiken*
+ images/ship/kama*
+ images/ship/kunai*
+ images/ship/sasumata*
+ images/ship/tanto*
+ images/ship/tekkan*
+ images/thumbnail/maeri'het*
+ images/thumbnail/telis'het*
+ images/thumbnail/faes'mar*
+ images/thumbnail/selii'mar*
+ images/thumbnail/subsidurial*
+ images/thumbnail/ember?waste?node*
+ images/thumbnail/vareti'het*
+ images/thumbnail/fetri'sei*
+ images/thumbnail/void?sprite?adult*
+ images/thumbnail/void?sprite?infant*
+ images/thumbnail/ararebo*
+ images/thumbnail/chigiriki*
+ images/thumbnail/kaiken*
+ images/thumbnail/kama*
+ images/thumbnail/kunai*
+ images/thumbnail/sasumata*
+ images/thumbnail/tanto*
+ images/thumbnail/tekkan*
+ images/effect/ravager?impact*
+ images/hardpoint/buzzer?am*
+ images/hardpoint/locust?turret*
+ images/outfit/ka'het?annihilator?turret*
+ images/outfit/ka'het?annihilator*
+ images/outfit/ka'het?emp?deployer*
+ images/outfit/ka'het?primary?cooling*
+ images/outfit/ka'het?ravager?turret*
+ images/outfit/ka'het?ravager?beam*
+ images/outfit/ka'het?shield?restorer*
+ images/outfit/ka'het?grand?restorer*
+ images/outfit/ka'het?support?cooling*
+ images/outfit/ka'het?mhd?generator*
+ images/outfit/ka'het?reserve?accumulator*
+ images/outfit/ka'het?mhd?deployer*
+ images/outfit/ka'het?nullifier*
+ images/outfit/mouthparts*
+ images/outfit/excavator*
+ images/outfit/fuel?pod*
+ images/outfit/fusion*
+ images/outfit/core*
+ images/outfit/ionic?afterburner*
+ images/outfit/tiny?ion*
+ images/outfit/small?ion*
+ images/outfit/medium?ion*
+ images/outfit/large?ion*
+ images/outfit/huge?ion*
+ images/outfit/tiny?atomic*
+ images/outfit/small?atomic*
+ images/outfit/medium?atomic*
+ images/outfit/large?atomic*
+ images/outfit/huge?atomic*
+ images/outfit/javelin*
+ images/outfit/javelin?mini?pod*
+ images/outfit/javelin?pod*
+ images/outfit/javelin?storage*
+ images/outfit/javelin?turret*
+ images/outfit/torpedo*
+ images/outfit/torpedo?launcher*
+ images/outfit/torpedo?storage*
+ images/outfit/typhoon*
+ images/outfit/typhoon?launcher*
+ images/outfit/typhoon?storage*
+ images/outfit/cooling?ducts*
+ images/outfit/liquid?helium*
+ images/outfit/liquid?nitrogen*
+ images/outfit/water?cooling*
+ images/outfit/large?regenerator*
+ images/outfit/small?regenerator*
+ images/outfit/cargo?scanner*
+ images/outfit/outfit?scanner*
+ images/outfit/outfit?expansion*
+ images/outfit/cargo?expansion*
+ images/outfit/control?transceiver*
+ images/outfit/buzzer*
+ images/outfit/dark?reactor*
+ images/outfit/decoy?plating*
+ images/outfit/electroweak?reactor*
+ images/outfit/quark?reactor*
+ images/outfit/hai?jammer*
+ images/outfit/hai?jammer?overclocked*
+ images/outfit/heliarch?license*
+ images/outfit/hydra?pod*
+ images/outfit/hydra*
+ images/outfit/*nanite?fabricator*
+ images/outfit/*shield?relay*
+ images/outfit/lasher?pistol*
+ images/outfit/locust?blaster*
+ images/outfit/locust?turret*
+ images/outfit/mandible?cannon*
+ images/outfit/nanite?enhancer*
+ images/outfit/nanite?limiter*
+ images/outfit/reactor?overclocker*
+ images/outfit/reactor?limiter*
+ images/outfit/solar?battery*
+ images/outfit/solar?cell*
+ images/outfit/swarm?missile*
+ images/outfit/swarm?pod*
+ images/outfit/swarm?storage*
+ images/outfit/swatter*
+ images/outfit/thorax?cannon*
+ images/outfit/*rift*
+ images/planet/dyson1*
+ images/planet/dyson2*
+ images/planet/dyson3*
+ images/planet/station0*
+ images/planet/station1b*
+ images/planet/station2b*
+ images/planet/station3b*
+ images/planet/station3bd*
+ images/planet/station4b*
+ images/planet/station4bd*
+ images/projectile/annihilator*
+ images/projectile/ravager?beam*
+ images/scene/ringworld?debris*
+ images/scene/remnant?station*
+ images/scene/asteroid?scene*
+Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-4.0
+
+Files:
+ images/projectile/*tinyflare*
+Copyright: Saugia <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license) and Iaz Poolar (under the same license).
+
+Files:
+ images/effect/railspark*
+ images/projectile/tinyflare*
+ images/outfit/*engines?hai*
+ images/outfit/*steering?hai*
+ images/outfit/*thruster?hai*
+ images/outfit/tiny?ion?engines*
+Copyright: Iaz Poolar
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/effect/remnant?afterburner/remnant?afterburner*
@@ -459,7 +548,6 @@ Files:
  images/outfit/void?rifle*
  images/outfit/fragmentation?grenades*
  images/outfit/nerve?gas*
- images/outfit/plasma?repeater*
  images/outfit/catalytic?ramscoop*
  images/outfit/anti-missile*
  images/outfit/blaster?turret*
@@ -471,7 +559,6 @@ Files:
  images/outfit/electron?turret*
  images/outfit/fission*
  images/outfit/flamethrower*
- images/outfit/fuel?pod*
  images/outfit/gat*
  images/outfit/hai?ionic?turret*
  images/outfit/hai?ionic?blaster*
@@ -536,6 +623,7 @@ Files:
  images/ship/ember?waste?node/ember?waste?node*
  images/ship/hai?sea?scorpion*
  images/ship/mbactriane*
+ images/ship/merganser*
  images/ship/penguin/*
  images/ship/petrel*
  images/ship/tern*
@@ -544,9 +632,9 @@ Files:
  images/ship/pug?maboro*
  images/ship/pug?arfecta*
  images/ship/shooting?star/shooting?star*
- images/thumbnail/ember?waste?node*
  images/thumbnail/ibis*
  images/thumbnail/hai?sea?scorpion*
+ images/thumbnail/merganser*
  images/thumbnail/penguin*
  images/thumbnail/petrel*
  images/thumbnail/tern*
@@ -556,6 +644,19 @@ Files:
  images/ship/archon?b*
  images/ship/archon?c*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/outfit/*battery?hai*
+ images/outfit/anti-missile?hai*
+ images/outfit/cooling?ducts?hai*
+ images/outfit/dwarf?core?hai*
+ images/outfit/fission?hai*
+ images/outfit/fusion?hai*
+ images/outfit/heavy?anti-missile?hai*
+ images/ship/mfury*
+Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
@@ -654,7 +755,7 @@ Comment:
 Files:
  images/land/badlands2*
 Copyright: Koen van Gilst
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/Syt9W. This image was uploaded to
  unsplash.com in June 2017, so it is subject to the Unsplash
@@ -664,7 +765,7 @@ Comment:
 Files:
  images/land/badlands6*
 Copyright: John Fowler
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/u0tLY. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -690,7 +791,7 @@ Comment:
 Files:
  images/land/city2*
 Copyright: timJ
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/Wqo8m. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -707,7 +808,7 @@ Comment:
 Files:
  images/land/city7*
 Copyright: Jason Wong
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/AmgC4. This image was uploaded to
  unsplash.com in June 2017, so it is subject to the Unsplash
@@ -717,7 +818,7 @@ Comment:
 Files:
  images/land/city11*
 Copyright: Bon Bahar
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/fWfhb. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -734,7 +835,7 @@ Comment:
 Files:
  images/land/city12*
 Copyright: Steven Pahel
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/xYdxk. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -760,7 +861,7 @@ Comment:
 Files:
  images/land/fog1*
 Copyright: Peter Hammer
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/eh77M. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -786,7 +887,7 @@ Comment:
 Files:
  images/land/hills0*
 Copyright: Baptist Standaert
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/bT412. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -812,7 +913,7 @@ Comment:
 Files:
  images/land/sea5*
 Copyright: Johannes Plenio
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/WHmJC. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -830,7 +931,7 @@ Comment:
 Files:
  images/land/sky4*
 Copyright: Sergey Pesterev
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/psGa3. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1206,7 +1307,7 @@ License: public-domain
 Files:
  images/land/snow19*
 Copyright: Greg Garnhart
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/0OrPsR. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1217,7 +1318,7 @@ Comment:
 Files:
  images/land/snow20*
 Copyright: Sergey Pesterev
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/c1OSCD. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1228,7 +1329,7 @@ Comment:
 Files:
  images/land/snow21*
 Copyright: Clement Rothen
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/KeSiag. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1240,7 +1341,7 @@ Comment:
 Files:
  images/land/station4*
 Copyright: Alek Kalinowski
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/1KOJWH. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1251,7 +1352,7 @@ Comment:
 Files:
  images/land/station6*
 Copyright: Alvaro Pinot
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/y1EpTp. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1262,7 +1363,7 @@ Comment:
 Files:
  images/land/station9*
 Copyright: Tony Dinh
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/pXq8qu. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1274,7 +1375,7 @@ Comment:
 Files:
  images/land/station10*
 Copyright: Upal Patel
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/ygdRgt. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1285,7 +1386,7 @@ Comment:
 Files:
  images/land/station11*
 Copyright: Aurelien Thomas
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/na9xh2. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1296,7 +1397,7 @@ Comment:
 Files:
  images/land/station13*
 Copyright: Brayden Law
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/yebPUH. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1318,7 +1419,7 @@ Comment:
 Files:
  images/land/station16*
 Copyright: Aron Yigin
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/GaWoev. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1329,7 +1430,7 @@ Comment:
 Files:
  images/land/station17*
 Copyright: Upal Patel
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/tytto4. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1340,7 +1441,7 @@ Comment:
 Files:
  images/land/station18*
 Copyright: Will Dunkley
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/cNuQAc. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1350,7 +1451,7 @@ Comment:
 Files:
  images/land/station19*
 Copyright: Bradley Jasper Ybanez
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/PiFcGV. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1361,7 +1462,7 @@ Comment:
 Files:
  images/land/station20*
 Copyright: Dan Asaki
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/UD2WMf. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1372,7 +1473,7 @@ Comment:
 Files:
  images/land/station21*
 Copyright: Ryan Tang
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/EqroPb. This image was uploaded to
  unsplash.com in June 2017, so it is subject to the Unsplash
@@ -1382,7 +1483,7 @@ Comment:
 Files:
  images/land/station22*
 Copyright: Jonathan Gallegos
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/cNuQAc. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1392,7 +1493,7 @@ Comment:
 Files:
  images/land/station23*
 Copyright: Patrick Robert Doyle
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/cNuQAc. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1425,7 +1526,7 @@ Comment:
 Files:
  images/land/station26*
 Copyright: Graphic Node
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/4eWjjk. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -1443,7 +1544,7 @@ Comment:
 Files:
  images/land/station30*
 Copyright: Bradley Dunn
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/3exZC. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1454,7 +1555,7 @@ Comment:
 Files:
  images/land/station31*
 Copyright: Andra Taylor
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/tLH4b. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1465,7 +1566,7 @@ Comment:
 Files:
  images/land/station32*
 Copyright: Liam Drinan
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/Bvx01. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1476,7 +1577,7 @@ Comment:
 Files:
  images/land/station33*
 Copyright: Miguel Bruna
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/wqILb. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1496,7 +1597,7 @@ Comment:
 Files:
  images/land/station35*
 Copyright: Willian Justen de Vasconcellos
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/7WLG3. This image was uploaded
  to unsplash.com after June 2017, so it is subject to the
@@ -1507,7 +1608,7 @@ Comment:
 Files:
  images/land/station36*
 Copyright: Anderson Djumin
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/Vo35D. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1518,7 +1619,7 @@ Comment:
 Files:
  images/land/station37*
 Copyright: Alexandra Nicolae
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/iMtE1. This image was uploaded
  to unsplash.com after June 2017, so it is subject to the
@@ -1528,7 +1629,7 @@ Comment:
 Files:
  images/land/station38*
 Copyright: Clare Whiting
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/yZ5u2. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1548,7 +1649,7 @@ Comment:
 Files:
  images/land/station40*
 Copyright: Ussama Azam
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/WEOdx. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1559,7 +1660,7 @@ Comment:
 Files:
  images/land/station41*
 Copyright: Angelika Yakymenko
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/BDkIW. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1570,7 +1671,7 @@ Comment:
 Files:
  images/land/station42*
 Copyright: Gil Ribeiro
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/80u48. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1588,7 +1689,7 @@ Comment:
 Files:
  images/land/station44*
 Copyright: Alvaro Pinot
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/3TUmc. This image was uploaded
  to unsplash.com after June 2017, so it is subject to the
@@ -1598,7 +1699,7 @@ Comment:
 Files:
  images/land/station45*
 Copyright: Maxime Lebrun
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/oK8z4. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1609,7 +1710,7 @@ Comment:
 Files:
  images/land/water12*
 Copyright: Steve Adams
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://archive.is/Qa3Ws. This image was
  uploaded to unsplash.com after June 2017, so it is subject
@@ -1627,25 +1728,48 @@ Comment:
  domain.
 
 Files:
+ images/land/station46*
+Copyright: Bruno Thethe
+License: Unsplash
+Comment:
+ Taken from https://archive.is/FpG3p. This image was uploaded to
+ unsplash.com after June 2017, so it is subject to the
+ Unsplash License. It was also uploaded after February 2018,
+ so it is subject to an additional restriction limiting the
+ sale of unaltered copies.
+
+Files:
+ images/land/station47*
+Copyright: Adrien Olichon
+License: Unsplash
+Comment:
+ Taken from https://archive.is/zTEVA. This image was uploaded to
+ unsplash.com after June 2017, so it is subject to the
+ Unsplash License. It was also uploaded after February 2018,
+ so it is subject to an additional restriction limiting the
+ sale of unaltered copies.
+
+Files:
+ images/land/station48*
+Copyright: Miquel Parera
+License: Unsplash
+Comment:
+ Taken from https://archive.is/UjGht. This image was uploaded to
+ unsplash.com after June 2017, so it is subject to the
+ Unsplash License. It was also uploaded after February 2018,
+ so it is subject to an additional restriction limiting the
+ sale of unaltered copies.
+
+Files: images/land/lava11*
+Copyright: National Archives and Records Administration
+License: public-domain
+ Taken from Wikimedia Commons. Cropped and edited.
+
+Files:
  images/land/lava0*
 Copyright: USGS
 License: public-domain
-Comment:
  From the USGS, and therefore in the public domain because they were created by
- government employees while doing work for the government.
-
-Files:
- images/land/desert0*
- images/land/earthrise*
- images/land/nasa*
- images/land/space*
- images/land/station1*
- images/land/station2*
- images/land/station3*
-Copyright: NASA
-License: public-domain
-Comment:
- From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
 Files:
@@ -1845,6 +1969,7 @@ Files:
  images/ship/mfalcon*
  images/thumbnail/mbounder*
  images/thumbnail/mfalcon*
+ images/ship/mquicksilver*
 Copyright: Maximilian Korber
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Anarchist2.
@@ -1868,160 +1993,6 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Frederick Goy IV (under the same license).
 
 Files:
- images/hardpoint/javelin?turret*
- images/planet/station1*
- images/planet/station2*
- images/planet/station3*
- images/planet/station4*
- images/planet/station8*
- images/planet/station9*
- images/planet/station10*
- images/planet/station11*
- images/planet/station12*
- images/planet/station13*
- images/planet/station14*
- images/planet/station15*
- images/planet/station16*
- images/planet/station17*
- images/planet/station-bunrodea*
- images/ship/maeri'het*
- images/ship/merganser*
- images/ship/subsidurial*
- images/ship/telis'het*
- images/ship/faes'mar*
- images/ship/selii'mar*
- images/ship/vareti'het*
- images/ship/fetri'sei*
- images/ship/void?sprite/*
- images/ship/ember?waste?node/*
- images/ship/ararebo*
- images/ship/chigiriki*
- images/ship/kaiken*
- images/ship/kama*
- images/ship/kunai*
- images/ship/sasumata*
- images/ship/tanto*
- images/ship/tekkan*
- images/thumbnail/maeri'het*
- images/thumbnail/merganser*
- images/thumbnail/telis'het*
- images/thumbnail/faes'mar*
- images/thumbnail/selii'mar*
- images/thumbnail/subsidurial*
- images/thumbnail/ember?waste?node*
- images/thumbnail/vareti'het*
- images/thumbnail/fetri'sei*
- images/thumbnail/void?sprite?adult*
- images/thumbnail/void?sprite?infant*
- images/thumbnail/ararebo*
- images/thumbnail/chigiriki*
- images/thumbnail/kaiken*
- images/thumbnail/kama*
- images/thumbnail/kunai*
- images/thumbnail/sasumata*
- images/thumbnail/tanto*
- images/thumbnail/tekkan*
- images/effect/ravager?impact*
- images/hardpoint/buzzer?am*
- images/hardpoint/locust?turret*
- images/outfit/ka'het?annihilator?turret*
- images/outfit/ka'het?annihilator*
- images/outfit/ka'het?emp?deployer*
- images/outfit/ka'het?primary?cooling*
- images/outfit/ka'het?ravager?turret*
- images/outfit/ka'het?ravager?beam*
- images/outfit/ka'het?shield?restorer*
- images/outfit/ka'het?grand?restorer*
- images/outfit/ka'het?support?cooling*
- images/outfit/ka'het?mhd?generator*
- images/outfit/ka'het?reserve?accumulator*
- images/outfit/ka'het?mhd?deployer*
- images/outfit/ka'het?nullifier*
- images/outfit/mouthparts*
- images/outfit/excavator*
- images/outfit/fuel?pod*
- images/outfit/fusion*
- images/outfit/core*
- images/outfit/ionic?afterburner*
- images/outfit/tiny?ion*
- images/outfit/small?ion*
- images/outfit/medium?ion*
- images/outfit/large?ion*
- images/outfit/huge?ion*
- images/outfit/tiny?atomic*
- images/outfit/small?atomic*
- images/outfit/medium?atomic*
- images/outfit/large?atomic*
- images/outfit/huge?atomic*
- images/outfit/javelin*
- images/outfit/javelin?mini?pod*
- images/outfit/javelin?pod*
- images/outfit/javelin?storage*
- images/outfit/javelin?turret*
- images/outfit/torpedo*
- images/outfit/torpedo?launcher*
- images/outfit/torpedo?storage*
- images/outfit/typhoon*
- images/outfit/typhoon?launcher*
- images/outfit/typhoon?storage*
- images/outfit/cooling?ducts*
- images/outfit/liquid?helium*
- images/outfit/liquid?nitrogen*
- images/outfit/water?cooling*
- images/outfit/large?regenerator*
- images/outfit/small?regenerator*
- images/outfit/cargo?scanner*
- images/outfit/outfit?scanner*
- images/outfit/outfit?expansion*
- images/outfit/cargo?expansion*
- images/outfit/control?transceiver*
- images/outfit/buzzer*
- images/outfit/dark?reactor*
- images/outfit/decoy?plating*
- images/outfit/electroweak?reactor*
- images/outfit/quark?reactor*
- images/outfit/hai?jammer*
- images/outfit/hai?jammer?overclocked*
- images/outfit/heliarch?license*
- images/outfit/hydra?pod*
- images/outfit/hydra*
- images/outfit/*nanite?fabricator*
- images/outfit/*shield?relay*
- images/outfit/lasher?pistol*
- images/outfit/locust?blaster*
- images/outfit/locust?turret*
- images/outfit/mandible?cannon*
- images/outfit/nanite?enhancer*
- images/outfit/nanite?limiter*
- images/outfit/reactor?overclocker*
- images/outfit/reactor?limiter*
- images/outfit/solar?battery*
- images/outfit/solar?cell*
- images/outfit/swarm?missile*
- images/outfit/swarm?pod*
- images/outfit/swarm?storage*
- images/outfit/swatter*
- images/outfit/thorax?cannon*
- images/outfit/*rift*
- images/planet/dyson1*
- images/planet/dyson2*
- images/planet/dyson3*
- images/planet/station0*
- images/planet/station1b*
- images/planet/station2b*
- images/planet/station3b*
- images/planet/station3bd*
- images/planet/station4b*
- images/planet/station4bd*
- images/projectile/annihilator*
- images/projectile/ravager?beam*
- images/scene/ringworld?debris*
- images/scene/remnant?station*
- images/scene/asteroid?scene*
-Copyright: Becca Tommaso (tommasobecca03@gmail.com)
-License: CC-BY-SA-4.0
-
-Files:
  images/outfit/enforcer?confrontation?gear*
 Copyright: Becca Tommaso (tommasobecca03@gmail.com)
 License: CC-BY-SA-4.0
@@ -2043,7 +2014,8 @@ Comment: Derived from works by Michael Zahniser (under the same license)
 Files:
  images/effect/firestorm?ring*
 Copyright: NomadicVolcano (NomadicVolcano@gmail.com).
-License: CC0 (Creative Commons Zero)/Public-Domain
+License: CC0 or public-domain
+ Previous licensing information was unclear whether CC0 or public-domain should be used.
 
 Files:
  images/hardpoint/grab-strike*
@@ -2187,9 +2159,9 @@ Files:
  images/projectile/shunt-strike*
  images/ship/kas-ik?tek?7*
  images/thumbnail/kas-ik?tek?7*
-Copyright: None (CC0 Public Domain)
-License: N/A (CC0 Public Domain)
-Comment: Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja
+Copyright: Nomadic Volcano (NomadicVolcano@gmail.com)
+License: CC0 or public-domain
+ Work by Nomadic Volcano (NomadicVolcano@gmail.com) based on textures from texture.ninja
 
 Files:
  images/hardpoint/digger?turret*
@@ -2435,18 +2407,6 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser and Maximilian Korber (under the same license).
 
 Files:
- images/projectile/fire-lance*
-Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license).
-
-Files:
- images/projectile/korath?inferno*
-Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
-License: CC-BY-SA-4.0
-Comment: Derived from works by Nomadic Volcano (under the same license).
-
-Files:
  images/outfit/korath?bow?drive*
  images/outfit/tiny?korath?engine*
 Copyright: Ejo Thims <https://github.com/EjoThims>
@@ -2478,7 +2438,6 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  images/outfit/shield?refactor?module*
- images/ship/auxiliary*
  images/ship/carrier*
  images/ship/combat?drone*
  images/ship/cruiser*
@@ -2487,7 +2446,6 @@ Files:
  images/ship/lance*
  images/ship/rainmaker*
  images/ship/surveillance?drone*
- images/thumbnail/auxiliary*
  images/thumbnail/carrier*
  images/thumbnail/combat?drone*
  images/thumbnail/cruiser*
@@ -2499,6 +2457,13 @@ Files:
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/ship/auxiliary*
+ images/thumbnail/auxiliary*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from works by Evan Fluharty (under the same license).
 
 Files:
  images/outfit/gat?turret?hardpoint*
@@ -2551,7 +2516,6 @@ Files:
  images/outfit/*plasma?engines?scin*
  images/outfit/scrap?cell*
  images/outfit/skirmish?battery*
- images/outfit/*torch?thruster?vi*
  images/outfit/*torch?thruster?vi*
  images/outfit/tractor?beam?*
  images/outfit/warforge?battery*
@@ -2641,10 +2605,7 @@ Files:
  images/outfit/emp?torpedo?ii?pod*
  images/planet/gas3-c*
  images/ship/aerie*
- images/ship/arch-carrack*
  images/ship/bactrian*
- images/ship/charm-shallop*
- images/ship/echo-galleon*
  images/ship/hailstone*
  images/ship/heavy?gust*
  images/ship/mining?drone*
@@ -2653,10 +2614,7 @@ Files:
  images/ship/sunder*
  images/ship/swan*
  images/thumbnail/aerie*
- images/thumbnail/arch-carrack*
  images/thumbnail/bactrian*
- images/thumbnail/charm-shallop*
- images/thumbnail/echo-galleon*
  images/thumbnail/hailstone*
  images/thumbnail/heavy?gust*
  images/thumbnail/mining?drone*
@@ -2739,12 +2697,6 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license) and detailed by Anarchist2.
 
 Files:
- images/projectile/*tinyflare*
-Copyright: Saugia <https://github.com/Saugia>
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license) and Iaz Poolar (under the same license).
-
-Files:
  images/icon/gat?turret*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
@@ -2776,12 +2728,6 @@ Files:
  images/outfit/microbot?defense?station*
 Copyright: Saugia <https://github.com/Saugia>
 Comment: Derived from work by Griffin Schutte (theronepic@gmail.com) (under same license).
-License: CC-BY-SA-4.0
-
-Files:
- images/outfit/liquid?sodium*
-Copyright: Saugia <https://github.com/Saugia>
-Comment: Derived from works by NomadicVolcano (public domain).
 License: CC-BY-SA-4.0
 
 Files:
@@ -2830,8 +2776,8 @@ License: CC-BY-SA-4.0
 
 Files: images/land/asteroid0*
 Copyright: Becca Tommaso
-License: CC0 (Creative Commons Zero)/Public-Domain
-Comment: Derived from works by ESA/Rosetta spacecraft (under the same license).
+License: CC0 or public-domain
+ Derived from works by ESA/Rosetta spacecraft (under the same license).
 
 Files:
  images/outfit/tripulse?shredder*
@@ -2862,16 +2808,8 @@ Files:
  images/thumbnail/smew*
  images/ship/smew*
 Copyright: Dschiltt
-License: CC0 (Creative Commons Zero)/Public-Domain
-Comment: Derived from works by MZ (under the same license), and contributions by Zoura, Kitteh, Ejo Thims, and Saugia
-
-Files:
- images/ship/modified?dromedary*
- images/ship/modified?dromedary?wreck*
- images/thumbnail/modified?dromedary*
- images/thumbnail/modified?dromedary?wreck*
-Copyright: Saugia (https://github.com/Saugia)
-License: CC-BY-SA-4.0
+License: CC0 or public-domain
+ Derived from works by MZ (under the same license), and contributions by Zoura, Kitteh, Ejo Thims, and Saugia
 
 Files:
  images/ship/modified?dromedary?ghost*
@@ -2893,9 +2831,9 @@ Files:
  images/ship/hai?ladybug*
  images/thumbnail/hai?ladybug*
  images/planet/station?hai?eight?geocoris*
-Copyright: None (CC0: Public Domain)
-License: CC0: Public Domain
-Comment: Made by Nomadic Volcano with textures from texture.ninja.
+Copyright: Nomadic Volcano
+License: CC0 or public-domain
+ Made by Nomadic Volcano with textures from texture.ninja.
 
 Files:
  images/planet/wormhole-syndicate-ad*
@@ -2912,7 +2850,7 @@ Comment: rotate, flip, scale the "images/thumbnail/hai geocoris@2x.png" by Micha
 Files:
  images/land/badlands13*
 Copyright: Sasha Sashina
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/KY8t7u. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -2923,7 +2861,7 @@ Comment:
 Files:
  images/land/beach15*
 Copyright: Chris Meads
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/6R5O8c. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -2934,7 +2872,7 @@ Comment:
 Files:
  images/land/city19*
 Copyright: Chan Yuki
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/2gvcvX. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -2945,7 +2883,7 @@ Comment:
 Files:
  images/land/city20*
 Copyright: JC Gellidon
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/SZnSPc. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -2967,7 +2905,7 @@ Comment:
 Files:
  images/land/city22*
 Copyright: Wong Zihoo
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/rNSK4u. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -2978,7 +2916,7 @@ Comment:
 Files:
  images/land/city23*
 Copyright: Juan Pablo Ahumada
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/sUBZeC. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -2989,7 +2927,7 @@ Comment:
 Files:
  images/land/city24*
 Copyright: Samuel Charron
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/OtUVYr. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3001,7 +2939,7 @@ Comment:
 Files:
  images/land/city25*
 Copyright: Jules Marvin Eguilos
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/9f9TgT. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3012,7 +2950,7 @@ Comment:
 Files:
  images/land/desert14*
 Copyright: E Mens
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/onBBQH. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3023,7 +2961,7 @@ Comment:
 Files:
  images/land/desert15*
 Copyright: Juli Kosolapova
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/hfZfsF. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3042,7 +2980,7 @@ Comment:
 Files:
  images/land/mountain27*
 Copyright: Marek Piwnicki
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/huqRe2. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3053,7 +2991,7 @@ Comment:
 Files:
  images/land/mountain28*
 Copyright: Luca Bravo
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/hl74gr. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3063,7 +3001,7 @@ Comment:
 Files:
  images/land/mountain29*
 Copyright: Marek Piwnicki
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/VYqbjm. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3074,7 +3012,7 @@ Comment:
 Files:
  images/land/mountain30*
 Copyright: Mike Liao
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/yoaA59. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3084,7 +3022,7 @@ Comment:
 Files:
  images/land/sea22*
 Copyright: Martin Bennie
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/VFft36. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3095,7 +3033,7 @@ Comment:
 Files:
  images/land/snow22*
 Copyright: Paston Woelber
-License: Unsplash License
+License: Unsplash
 Comment:
  Taken from https://v.gd/rYJdMa. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
@@ -3141,30 +3079,13 @@ License: Depends
  to Unsplash after February 2018 cannot be sold without making "significant alterations" as they are subject
  to more restrictive terms and conditions.
 
-License: Unsplash License
+License: Unsplash
  Unsplash grants you an irrevocable, nonexclusive, worldwide copyright
  license to download, copy, modify, distribute, perform, and use photos
  from Unsplash for free, including for commercial purposes, without
  permission from or attributing the photographer or Unsplash. This
  license does not include the right to compile photos from Unsplash to
  replicate a similar or competing service.
-
-License: GPL-3+
- This program is free software: you can redistribute it and/or modify
- it under the terms of the GNU General Public License as published by
- the Free Software Foundation; either version 3 of the License, or
- (at your option) any later version.
- .
- This program is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
- .
- You should have received a copy of the GNU General Public License
- along with this program.  If not, see <http://www.gnu.org/licenses/>.
- .
- On Debian systems, the complete text of the GNU General Public
- License version 3 can be found in "/usr/share/common-licenses/GPL-3".
 
 License: CC-BY-SA-4.0
  By exercising the Licensed Rights (defined below), You accept and agree
@@ -4173,3 +4094,85 @@ License: CC-BY-SA-3.0
  additional rights are deemed to be included in the License; this
  License is not intended to restrict the license of any rights under
  applicable law.
+
+License: CC0
+ The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner") of an original work of authorship and/or a database (each, a "Work").
+ .
+ Certain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works ("Commons") that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.
+ .
+ For these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the "Affirmer"), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights.
+ .
+ 1. Copyright and Related Rights. A Work made available under CC0 may be protected by copyright and related or neighboring rights ("Copyright and Related Rights"). Copyright and Related Rights include, but are not limited to, the following:
+ .
+ the right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;
+ moral rights retained by the original author(s) and/or performer(s);
+ publicity and privacy rights pertaining to a person's image or likeness depicted in a Work;
+ rights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;
+ rights protecting the extraction, dissemination, use and reuse of data in a Work;
+ database rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and
+ other similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.
+ .
+ 2. Waiver. To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer's Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer's heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer's express Statement of Purpose.
+ .
+ 3. Public License Fallback. Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer's express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer's Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "License"). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer's express Statement of Purpose.
+ .
+ 4. Limitations and Disclaimers.
+ .
+ No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.
+ Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
+ Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
+ Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
+
+License: CC-BY-2.0
+ THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+ .
+ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+ .
+ 1. Definitions
+ .
+ "Collective Work" means a work, such as a periodical issue, anthology or encyclopedia, in which the Work in its entirety in unmodified form, along with a number of other contributions, constituting separate and independent works in themselves, are assembled into a collective whole. A work that constitutes a Collective Work will not be considered a Derivative Work (as defined below) for the purposes of this License.
+ "Derivative Work" means a work based upon the Work or upon the Work and other pre-existing works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which the Work may be recast, transformed, or adapted, except that a work that constitutes a Collective Work will not be considered a Derivative Work for the purpose of this License. For the avoidance of doubt, where the Work is a musical composition or sound recording, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered a Derivative Work for the purpose of this License.
+ "Licensor" means the individual or entity that offers the Work under the terms of this License.
+ "Original Author" means the individual or entity who created the Work.
+ "Work" means the copyrightable work of authorship offered under the terms of this License.
+ "You" means an individual or entity exercising rights under this License who has not previously violated the terms of this License with respect to the Work, or who has received express permission from the Licensor to exercise rights under this License despite a previous violation.
+ .
+ 2. Fair Use Rights. Nothing in this license is intended to reduce, limit, or restrict any rights arising from fair use, first sale or other limitations on the exclusive rights of the copyright owner under copyright law or other applicable laws.
+ .
+ 3. License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to exercise the rights in the Work as stated below:
+ .
+ to reproduce the Work, to incorporate the Work into one or more Collective Works, and to reproduce the Work as incorporated in the Collective Works;
+ to create and reproduce Derivative Works;
+ to distribute copies or phonorecords of, display publicly, perform publicly, and perform publicly by means of a digital audio transmission the Work including as incorporated in Collective Works;
+ to distribute copies or phonorecords of, display publicly, perform publicly, and perform publicly by means of a digital audio transmission Derivative Works.
+ .
+ For the avoidance of doubt, where the work is a musical composition:
+ Performance Royalties Under Blanket Licenses. Licensor waives the exclusive right to collect, whether individually or via a performance rights society (e.g. ASCAP, BMI, SESAC), royalties for the public performance or public digital performance (e.g. webcast) of the Work.
+ Mechanical Rights and Statutory Royalties. Licensor waives the exclusive right to collect, whether individually or via a music rights agency or designated agent (e.g. Harry Fox Agency), royalties for any phonorecord You create from the Work ("cover version") and distribute, subject to the compulsory license created by 17 USC Section 115 of the US Copyright Act (or the equivalent in other jurisdictions).
+ Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where the Work is a sound recording, Licensor waives the exclusive right to collect, whether individually or via a performance-rights society (e.g. SoundExchange), royalties for the public digital performance (e.g. webcast) of the Work, subject to the compulsory license created by 17 USC Section 114 of the US Copyright Act (or the equivalent in other jurisdictions).
+ .
+ The above rights may be exercised in all media and formats whether now known or hereafter devised. The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats. All rights not expressly granted by Licensor are hereby reserved.
+ .
+ 4. Restrictions.The license granted in Section 3 above is expressly made subject to and limited by the following restrictions:
+ .
+ You may distribute, publicly display, publicly perform, or publicly digitally perform the Work only under the terms of this License, and You must include a copy of, or the Uniform Resource Identifier for, this License with every copy or phonorecord of the Work You distribute, publicly display, publicly perform, or publicly digitally perform. You may not offer or impose any terms on the Work that alter or restrict the terms of this License or the recipients' exercise of the rights granted hereunder. You may not sublicense the Work. You must keep intact all notices that refer to this License and to the disclaimer of warranties. You may not distribute, publicly display, publicly perform, or publicly digitally perform the Work with any technological measures that control access or use of the Work in a manner inconsistent with the terms of this License Agreement. The above applies to the Work as incorporated in a Collective Work, but this does not require the Collective Work apart from the Work itself to be made subject to the terms of this License. If You create a Collective Work, upon notice from any Licensor You must, to the extent practicable, remove from the Collective Work any reference to such Licensor or the Original Author, as requested. If You create a Derivative Work, upon notice from any Licensor You must, to the extent practicable, remove from the Derivative Work any reference to such Licensor or the Original Author, as requested.
+ If you distribute, publicly display, publicly perform, or publicly digitally perform the Work or any Derivative Works or Collective Works, You must keep intact all copyright notices for the Work and give the Original Author credit reasonable to the medium or means You are utilizing by conveying the name (or pseudonym if applicable) of the Original Author if supplied; the title of the Work if supplied; to the extent reasonably practicable, the Uniform Resource Identifier, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work; and in the case of a Derivative Work, a credit identifying the use of the Work in the Derivative Work (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author"). Such credit may be implemented in any reasonable manner; provided, however, that in the case of a Derivative Work or Collective Work, at a minimum such credit will appear where any other comparable authorship credit appears and in a manner at least as prominent as such other comparable authorship credit.
+ .
+ 5. Representations, Warranties and Disclaimer
+ .
+ UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
+ .
+ 6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ .
+ 7. Termination
+ .
+ This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have received Derivative Works or Collective Works from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will survive any termination of this License.
+ Subject to the above terms and conditions, the license granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding the above, Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.
+ .
+ 8. Miscellaneous
+ .
+ Each time You distribute or publicly digitally perform the Work or a Collective Work, the Licensor offers to the recipient a license to the Work on the same terms and conditions as the license granted to You under this License.
+ Each time You distribute or publicly digitally perform a Derivative Work, Licensor offers to the recipient a license to the original Work on the same terms and conditions as the license granted to You under this License.
+ If any provision of this License is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this License, and without further action by the parties to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+ No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
+ This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This License may not be modified without the mutual written agreement of the Licensor and You.
