@@ -70,7 +70,6 @@ Files:
  images/land/canyon9*
 Copyright: Emily Mell <hasmidas@gmail.com>
 License: public-domain
-Comment:
  Based on images taken from unsplash.com before June 2017, when all images
  uploaded to that site were donated to the public domain.
 
@@ -153,14 +152,6 @@ License: public-domain
  From NASA, and therefore in the public domain because they were created by
  government employees while doing work for the government.
 
-Files:
- images/land/snow15*
-Copyright: US NOAA
-License: public-domain
-Comment:
- From US NOAA, and therefore in the public domain because it was created by
- government employees while doing work for the government.
-
 Files: images/scene/geoscan*
 Copyright: Michael Zahniser <mzahniser@gmail.com>
 License: CC-BY-SA-4.0
@@ -168,7 +159,6 @@ License: CC-BY-SA-4.0
 Files: images/scene/loc*
 Copyright: Library of Congress
 License: public-domain
-Comment:
  From the Library of Congress. Public domain because they are photographs taken
  by a government employee as part of their job.
 
@@ -713,7 +703,6 @@ Files:
  images/land/lava1*
  images/land/lava2*
  images/land/lava6*
- images/land/mountain0*
  images/land/mountain1*
  images/land/mountain3*
  images/land/mountain4*
@@ -740,7 +729,6 @@ Files:
  images/land/water8*
 Copyright: Various
 License: public-domain
-Comment:
  Taken from unsplash.com and added before June 2017, when it was a collection
  of photographs that had been donated and placed in the public domain.
 
@@ -748,7 +736,6 @@ Files:
  images/land/badlands1*
 Copyright: Jason Thompson
 License: public-domain
-Comment:
  Taken from https://archive.is/arYCs. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -776,7 +763,6 @@ Files:
  images/land/canyon1*
 Copyright: Ana Filipa Neves
 License: public-domain
-Comment:
  Taken from https://archive.is/cFMrt. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -784,7 +770,6 @@ Files:
  images/land/canyon8*
 Copyright: Benjaimn Esteves
 License: public-domain
-Comment:
  Taken from https://archive.is/uHKHC. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -846,7 +831,6 @@ Files:
  images/land/dune1*
 Copyright: Wilson Ye
 License: public-domain
-Comment:
  Taken from https://archive.is/qmRn7. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -854,7 +838,6 @@ Files:
  images/land/fields3*
 Copyright: Doan Tuan
 License: public-domain
-Comment:
  Taken from https://archive.is/yH9tF. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -872,7 +855,6 @@ Files:
  images/land/fog6*
 Copyright: Michael Dam
 License: public-domain
-Comment:
  Taken from https://archive.is/vhrne. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -880,7 +862,6 @@ Files:
  images/land/forest5*
 Copyright: Wei Pan
 License: public-domain
-Comment:
  Taken from https://archive.is/zr5p0. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -898,7 +879,6 @@ Files:
  images/land/mountain0*
 Copyright: Karsten Wurth
 License: public-domain
-Comment:
  Taken from https://archive.is/QroFs. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -906,7 +886,6 @@ Files:
  images/land/sea1*
 Copyright: Christian Joudrey
 License: public-domain
-Comment:
  Taken from https://archive.is/uYIiS. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -924,7 +903,6 @@ Files:
  images/land/sea7*
 Copyright: Johannes Plenio
 License: public-domain
-Comment:
  Taken from https://archive.is/Ab1ml. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -1412,7 +1390,6 @@ Files:
  images/land/station14*
 Copyright: Ferdinand Stohr
 License: public-domain
-Comment:
  Taken from https://v.gd/vYAJDQ. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -1511,7 +1488,6 @@ Files:
  images/land/station24*
 Copyright: Tomasz Frankowski
 License: public-domain
-Comment:
  Taken from https://v.gd/Utf1Ww. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -1519,7 +1495,6 @@ Files:
  images/land/station25*
 Copyright: Claudia Soraya
 License: public-domain
-Comment:
  Taken from https://v.gd/JFrWEQ. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
@@ -1589,7 +1564,6 @@ Files:
  images/land/station34*
 Copyright: Monty Lov
 License: public-domain
-Comment:
  Taken from https://archive.is/c1AWT. This image was uploaded
  to unsplash.com before June 2017, so it is in the public
  domain.
@@ -1641,7 +1615,6 @@ Files:
  images/land/station39*
 Copyright: Silvio Kundt
 License: public-domain
-Comment:
  Taken from https://archive.is/OCfcl. This image was uploaded
  to unsplash.com before June 2017, so it is in the public
  domain.
@@ -1722,7 +1695,6 @@ Files:
  images/land/water13*
 Copyright: JuniperPhoton
 License: public-domain
-Comment:
  Taken from https://archive.is/mvzhX. This image was uploaded
  to unsplash.com before June 2017, so it is in the public
  domain.
@@ -1770,6 +1742,13 @@ Files:
 Copyright: USGS
 License: public-domain
  From the USGS, and therefore in the public domain because they were created by
+ government employees while doing work for the government.
+
+Files:
+ images/land/snow15*
+Copyright: US NOAA
+License: public-domain
+ From US NOAA, and therefore in the public domain because it was created by
  government employees while doing work for the government.
 
 Files:
@@ -2895,7 +2874,6 @@ Files:
  images/land/city21*
 Copyright: Jesse Collins
 License: public-domain
-Comment:
  Taken from https://v.gd/M4UpJT. This image was uploaded to
  unsplash.com after June 2017, so it is subject to the
  Unsplash License. It was also uploaded after February 2018,
@@ -2973,7 +2951,6 @@ Files:
  images/land/forest10*
 Copyright: Sarah Humer
 License: public-domain
-Comment:
  Taken from https://v.gd/teEyvJ. This image was uploaded to
  unsplash.com before June 2017, so it is in the public domain.
 
