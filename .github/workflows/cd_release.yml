@@ -6,6 +6,7 @@ on:
       release_version:
         required: true
         type: string
+        description: The version of the release pushed
 
 jobs:
   release_plugin_zip:
