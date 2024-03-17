@@ -1,3 +1,5 @@
+name: Release CD
+
 on:
   workflow_dispatch:
     inputs:
