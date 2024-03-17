@@ -1,0 +1,32 @@
+name: Release CD
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_version:
+        required: true
+        type: string
+        description: The version of the release pushed
+
+jobs:
+  release_plugin_zip:
+    name: Create release archive
+    runs-on: ubuntu-latest
+    env:
+      OUTPUT: High DPI.zip
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          show-progress: false
+      - name: Create archive
+        uses: thedoctor0/zip-release@0.7.5
+        with:
+          type: 'zip'
+          filename: 'High DPI.zip'
+          exclusions: '*.git*'
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.OUTPUT }}
+          path: ${{ env.OUTPUT }}
