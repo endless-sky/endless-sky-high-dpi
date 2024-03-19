@@ -324,10 +324,16 @@ Comment: Derived from works by Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 
 Files:
+ images/land/moon0*
+Copyright: NASA/GSFC/Arizona State University
+License: public-domain
+ From NASA, and therefore in the public domain because they were created by
+ government employees while doing work for the government.
+
+Files:
  images/land/desert0*
  images/land/earthrise*
  images/land/nasa*
- images/land/moon0*
  images/land/moon1*
  images/land/space*
  images/land/station1*
