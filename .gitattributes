@@ -1,0 +1,3 @@
+# Don't export certain files via `git archive` (e.g. via "Download ZIP")
+.gitattributes export-ignore
+.github export-ignore
