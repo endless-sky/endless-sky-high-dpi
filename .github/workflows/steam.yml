@@ -2,6 +2,7 @@ name: Steam depot
 
 on:
   workflow_dispatch
+  push
 
 jobs:
   create_depot:
