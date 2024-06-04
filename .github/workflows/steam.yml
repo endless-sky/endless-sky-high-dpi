@@ -1,0 +1,21 @@
+name: Steam depot
+
+on:
+  workflow_dispatch
+
+jobs:
+  create_depot:
+    name: Create Steam depot
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create directory structure
+        run: mkdir plugins
+      - uses: actions/checkout@v4
+        with:
+          show-progress: false
+          path: ./plugins
+      - name: Upload to Steam depot
+        uses: actions/upload-artifact@v4
+        with:
+          name: hdpi
+          path: .
