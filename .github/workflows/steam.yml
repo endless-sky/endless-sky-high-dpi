@@ -21,7 +21,7 @@ jobs:
         run: |
           cd repository
           git archive --format=tar HEAD | (cd ../plugins/high-dpi && tar xf -)
-          cd ..
+          cd ../..
           rm -rf repository
       - name: Upload to Steam depot
         uses: actions/upload-artifact@v4
