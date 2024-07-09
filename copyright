@@ -625,6 +625,7 @@ Files:
  images/scene/penguinscene*
  images/ship/ibis*
  images/ship/ember?waste?node/ember?waste?node*
+ images/ship/hai?anomalocaris*
  images/ship/hai?sea?scorpion*
  images/ship/mbactriane*
  images/ship/merganser*
@@ -637,6 +638,7 @@ Files:
  images/ship/pug?arfecta*
  images/ship/shooting?star/shooting?star*
  images/thumbnail/ibis*
+ images/thumbnail/hai?anomalocaris*
  images/thumbnail/hai?sea?scorpion*
  images/thumbnail/merganser*
  images/thumbnail/penguin*
@@ -3083,6 +3085,18 @@ Files:
  images/star/proto-planetary-disk*
 Copyright: RisingLeaf (https://github.com/RisingLeaf)
 License: CC-BY-SA-4.0
+
+Files:
+ images/scene/emerging?ladybug*
+Copyright: RisingLeaf (https://github.com/RisingLeaf)
+License: CC-BY-SA-4.0
+Comment: Derived from public domain works previously submitted to Endless Sky
+
+Files:
+ images/scene/cave?scene*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Derived from work by Becca Tommaso (under the same license)
 
 Files:
  images/ui/sales?key*
