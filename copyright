@@ -3207,16 +3207,17 @@ License: Unsplash
  the sale of unaltered copies.
 
 Files:
- images/effect/successor?flare/*
  images/effect/bimodal?impact*
  images/effect/bimodal?switch?impact*
  images/effect/drag?cannon?impact*
  images/effect/overcharged?pulse?laser?impact*
+ images/effect/successor?flare/*
  images/effect/successor?pulse?laser?impact*
  images/effect/void?spark*
  images/hardpoint/bimodal?turret*
+ images/hardpoint/overcharged?pulse?laser?turret*
+ images/hardpoint/successor?pulse?laser?turret*
  images/icon/hv?spike*
- images/label/successors*
  images/outfit/bimodal?coilgun?turret*
  images/outfit/bimodal?coilgun*
  images/outfit/drag?cannon*
