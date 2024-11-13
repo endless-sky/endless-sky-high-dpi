@@ -124,6 +124,11 @@ License: CC-BY-SA-4.0
 Comment: Incorporating a photo by Aram Dulyan, under the CC-BY-2.0 license.
 
 Files:
+ images/outfit/cloud?piercer*
+Copyright: 1010todd
+License: CC-BY-SA-4.0
+
+Files:
  images/scene/plasma?scene*
 Copyright: 1010todd <1010todd3d@gmail>
 License: CC-BY-SA-4.0
@@ -965,12 +970,10 @@ License: public-domain
 
 Files:
  images/land/water4*
-Copyright: N/A (CC0 Public Domain)
-License: CC0
+Copyright: Unknown
+License: Depends
 Comment:
- Taken from https://pixabay.com/photos/macedonia-sunset-dusk-lake-water-260851, resized,
- cropped, and adjusted gamma. According to Section 3 of the Pixabay Terms of Service,
- all images with a "published date" earlier than January 9, 2019 have the CC0 license.
+ Cannot source. The image was probably removed from unsplash.
 
 Files:
  images/land/badlands10*
@@ -2323,6 +2326,22 @@ Copyright: Matteo "Lead" M.
 License: CC-BY-SA-4.0
 
 Files:
+ images/planet/pontes*
+ images/ship/cirrus*
+ images/ship/gero*
+ images/ship/nimbus*
+ images/ship/silent?harvester*
+ images/ship/stratus*
+ images/ship/venta*
+ images/thumbnail/cirrus*
+ images/thumbnail/gero*
+ images/thumbnail/nimbus*
+ images/thumbnail/stratus*
+ images/thumbnail/venta*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+
+Files:
  images/asteroid/livecrystal/livecrystal*
  images/effect/burning?spark*
  images/effect/corrosion?spark*
@@ -2476,6 +2495,41 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+ images/_menu/haze-dark-nebula*
+ images/effect/incipias?flare/*
+ images/effect/horizon?grappler*
+ images/effect/plasma?exhaust*
+ images/effect/plasma?particle*
+ images/effect/stagnation?beam?impact*
+ images/effect/star?tail*
+ images/hardpoint/horizon?grappler*
+ images/hardpoint/stagnation?beam*
+ images/outfit/gas?class?shield*
+ images/outfit/horizon?grappler*
+ images/outfit/liquid?class?shield*
+ images/outfit/metallic?hydrogen?cell*
+ images/outfit/mh?*
+ images/outfit/plasma?discharger*
+ images/outfit/stagnation?beamx*
+ images/outfit/star?tail?*
+ images/planet/aera*
+ images/planet/gliese*
+ images/planet/redias*
+ images/planet/treser*
+ images/planet/vulpa*
+ images/projectile/ionic?turret*
+ images/projectile/plasma?discharge*
+ images/projectile/stagnation?beam*
+ images/projectile/star?tail*
+ images/projectile/strange?ray*
+ images/scene/incipias?message*
+ images/star/a-eater*
+ images/star/neutron-small*
+ images/star/proto-planetary-disk*
+Copyright: RisingLeaf (https://github.com/RisingLeaf)
+License: CC-BY-SA-4.0
+
+Files:
  images/ship/auxiliary*
  images/thumbnail/auxiliary*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
@@ -2582,6 +2636,7 @@ Files:
  images/ship/gegno?kyanite*
  images/ship/gegno?mica*
  images/ship/gegno?protolith*
+ images/ship/gegno?rhyolite*
  images/ship/gegno?schist*
  images/ship/gegno?shale*
  images/ship/gegno?slate*
@@ -2609,6 +2664,8 @@ Files:
  images/thumbnail/gegno?halite*
  images/thumbnail/gegno?kyanite*
  images/thumbnail/gegno?mica*
+ images/thumbnail/gegno?protolith*
+ images/thumbnail/gegno?rhyolite*
  images/thumbnail/gegno?schist*
  images/thumbnail/gegno?shale*
  images/thumbnail/gegno?slate*
@@ -2630,6 +2687,7 @@ Files:
  images/ship/aerie*
  images/ship/bactrian*
  images/ship/hailstone*
+ images/ship/hauler?vi*
  images/ship/heavy?gust*
  images/ship/mining?drone*
  images/ship/mule*
@@ -2639,6 +2697,7 @@ Files:
  images/thumbnail/aerie*
  images/thumbnail/bactrian*
  images/thumbnail/hailstone*
+ images/thumbnail/hauler?vi*
  images/thumbnail/heavy?gust*
  images/thumbnail/mining?drone*
  images/thumbnail/mule*
@@ -2842,6 +2901,7 @@ License: CC-BY-SA-4.0
 Comment: Transparent materials by scrinarii1337.
 
 Files:
+ images/icon/swarm*
  images/outfit/twin?blaster*
  images/outfit/twin?mod?blaster*
  images/outfit/repeater*
@@ -3052,6 +3112,31 @@ Comment:
  sale of unaltered copies.
 
 Files:
+ images/land/city26*
+ images/land/city27*
+ images/land/city28*
+ images/land/clouds9*
+ images/land/clouds10*
+ images/land/fields28*
+ images/land/fields29*
+ images/land/forest11*
+ images/land/forest12*
+ images/land/path1*
+ images/land/path2*
+ images/land/path3*
+ images/land/path4*
+ images/land/sea24*
+ images/land/sky12*
+ images/land/sky13*
+ images/land/water21*
+ images/land/water22*
+ images/land/water23*
+ images/land/water24*
+ images/land/water25*
+Copyright: DAK (4robits@gmail.com)
+License: CC-BY-SA-4.0
+
+Files:
  images/land/snow22*
 Copyright: Paston Woelber
 License: Unsplash
@@ -3142,6 +3227,128 @@ License: Unsplash
  to the Unsplash License. It was also uploaded after February
  2018, so it is subject to an additional restriction limiting
  the sale of unaltered copies.
+
+Files:
+ images/effect/bimodal?impact*
+ images/effect/bimodal?switch?impact*
+ images/effect/drag?cannon?impact*
+ images/effect/overcharged?pulse?laser?impact*
+ images/effect/successor?flare/*
+ images/effect/successor?pulse?laser?impact*
+ images/effect/void?spark*
+ images/hardpoint/bimodal?turret*
+ images/hardpoint/overcharged?pulse?laser?turret*
+ images/hardpoint/successor?pulse?laser?turret*
+ images/icon/hv?spike*
+ images/outfit/bimodal?coilgun?turret*
+ images/outfit/bimodal?coilgun*
+ images/outfit/drag?cannon*
+ images/outfit/fuel?sail*
+ images/outfit/hv?spike?rack*
+ images/outfit/hv?spike*
+ images/outfit/large?betavoltaic*
+ images/outfit/large?successor?battery*
+ images/outfit/large?successor?reactor*
+ images/outfit/large?successor?reverse*
+ images/outfit/large?successor?shield*
+ images/outfit/large?successor?steering*
+ images/outfit/large?successor?thruster*
+ images/outfit/medium?betavoltaic*
+ images/outfit/medium?successor?reactor*
+ images/outfit/medium?successor?repair*
+ images/outfit/medium?successor?reverse*
+ images/outfit/medium?successor?shield*
+ images/outfit/medium?successor?steering*
+ images/outfit/medium?successor?thruster*
+ images/outfit/overcharged?betavoltaic*
+ images/outfit/overcharged?pulse?laser?turret*
+ images/outfit/overcharged?pulse?laser*
+ images/outfit/railgun?h2h*
+ images/outfit/shield?cortex?interface*
+ images/outfit/sjeja?kinetic?lance*
+ images/outfit/small?betavoltaic*
+ images/outfit/small?successor?battery*
+ images/outfit/small?successor?reactor*
+ images/outfit/small?successor?repair*
+ images/outfit/small?successor?reverse*
+ images/outfit/small?successor?shield*
+ images/outfit/small?successor?steering*
+ images/outfit/small?successor?thruster*
+ images/outfit/successor?armor*
+ images/outfit/successor?cooling*
+ images/outfit/successor?engines?tiny*
+ images/outfit/successor?license*
+ images/outfit/successor?pulse?laser?turret*
+ images/outfit/successor?pulse?laser*
+ images/outfit/tiny?successor?shield*
+ images/outfit/tuur?scanning?suite*
+ images/outfit/veldt?combat?scanner*
+ images/planet/station?successor*
+ images/projectile/bimodal?switch*
+ images/projectile/bimodal*
+ images/projectile/drag?cannon*
+ images/projectile/sjeja?kinetic?lance*
+ images/projectile/successor?pulse?laser*
+ images/ship/aaulqra*
+ images/ship/ejniisde*
+ images/ship/kaskhorade*
+ images/ship/kvelqde-khora*
+ images/ship/kvelqde*
+ images/ship/myaede*
+ images/ship/nnesaarau*
+ images/ship/ojde*
+ images/ship/seiitej*
+ images/ship/stolsaqra*
+ images/ship/veusade*
+ images/ship/vujlet*
+ images/thumbnail/aaulqra*
+ images/thumbnail/ejniisde*
+ images/thumbnail/kaskhorade*
+ images/thumbnail/kvelqde-khora*
+ images/thumbnail/kvelqde*
+ images/thumbnail/myaede*
+ images/thumbnail/nnesaarau*
+ images/thumbnail/ojde*
+ images/thumbnail/seiitej*
+ images/thumbnail/stolsaqra*
+ images/thumbnail/veusade*
+ images/thumbnail/vujlet*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+
+Files:
+ images/_menu/haze-tear*
+ images/star/void-scar*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC0
+Comment: Derived from works by NASA in the public domain.
+
+Files:
+ images/land/fog12*
+Copyright: US National Park Service
+License: public-domain
+ From the US National Park Service, and therefore in the public domain
+ because it was created by government employees while doing work for the government.
+
+Files:
+ images/land/snow24*
+Copyright: NPS Photo / Kent Miller
+License: public-domain
+ From the US National Park Service, and therefore in the public domain
+ because it was created by government employees while doing work for the government.
+
+Files:
+ images/land/snow25*
+Copyright: DCheretovich
+License: CC0
+Comment: Taken from https://commons.wikimedia.org/wiki/File:Vatnajökull_glacier.jpg and cropped.
+
+Files:
+ images/land/lava14*
+Copyright: USGS
+License: public-domain
+ From the USGS, and therefore in the public domain because it was created by
+ government employees while doing work for the government.
 
 License: Depends
  Taken from unsplash.com. Until June 2017, this was a collection of photographs that had been donated and
