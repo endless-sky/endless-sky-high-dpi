@@ -610,6 +610,8 @@ Files:
  images/effect/avgi?flare/fusion*
  images/effect/avgi?flare/remass*
  images/effect/avgi?flare/rcs*
+ images/effect/blue?optical?laser?glare*
+ images/effect/green?optical?laser?glare*
  images/effect/flotsam?integral?wood*
  images/effect/flotsam?voidfish*
  images/icon/nettle*
@@ -2628,6 +2630,7 @@ Files:
  images/ship/battleship*
  images/star/coal-black-hole*
  images/star/neutron*
+ images/star/twilight-black-hole*
  images/thumbnail/battleship*
 Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
 License: CC-BY-SA-4.0
