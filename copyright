@@ -3170,6 +3170,15 @@ Copyright: Zitchas (zitchas.jma@gmail.com)
 License: CC-BY-SA-4.0
 
 Files:
+ images/ui/tactical/crew*
+ images/ui/tactical/energy*
+ images/ui/tactical/fuel*
+ images/ui/tactical/thermal*
+Copyright: Michael Zahniser <mzahniser@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Cropped and split into four new files by Zitchas (zitchas.jma@gmail.com)
+
+Files:
  images/ui/sales?key*
 Copyright: Dave Flowers
 License: CC-BY-SA-4.0
