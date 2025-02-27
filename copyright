@@ -2421,7 +2421,6 @@ Files:
  images/effect/pwtflare*
  images/effect/nuke*
  images/effect/ranseur*
- images/effect/ribault*
  images/icon/dragonflame*
  images/icon/shard*
  images/outfit/dragonflame*
@@ -2441,6 +2440,7 @@ Files:
  images/projectile/shardactive*
  images/projectile/shardinactive*
  images/projectile/ionball*
+ images/projectile/ribault*
  images/scene/emeraldswordderelict*
  images/ship/emeraldsword*
  images/ship/blackdiamond*
