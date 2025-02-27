@@ -125,6 +125,16 @@ Comment: Incorporating a photo by Aram Dulyan, under the CC-BY-2.0 license.
 
 Files:
  images/outfit/cloud?piercer*
+ images/ship/quarg?guivre*
+ images/ship/quarg?hydra*
+ images/ship/quarg?lindwyrm*
+ images/ship/quarg?wardragon*
+ images/ship/quarg?wyvern*
+ images/thumbnail/quarg?guivre*
+ images/thumbnail/quarg?hydra*
+ images/thumbnail/quarg?lindwyrm*
+ images/thumbnail/quarg?wardragon*
+ images/thumbnail/quarg?wyvern*
 Copyright: 1010todd
 License: CC-BY-SA-4.0
 
@@ -327,11 +337,20 @@ Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 
 Files:
+ images/outfit/quarg?culverin*
+ images/outfit/quarg?ranseur*
+ images/outfit/quarg?skydagger*
  images/outfit/quarg?skylance*
  images/hardpoint/quarg?skylance*
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived and completed from works by Maximilian Korber (Wrzlprnft), @Karirawri, and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
+
+Files:
+ images/outfit/quarg?ribault*
+Copyright: <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived and completed from works by Evan Fluharty, Maximilian Korber (Wrzlprnft), @Karirawri, and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
 
 Files:
  images/outfit/enforcer?riot?staff*
@@ -2401,6 +2420,8 @@ Files:
  images/effect/fissionflare*
  images/effect/pwtflare*
  images/effect/nuke*
+ images/effect/ranseur*
+ images/effect/ribault*
  images/icon/dragonflame*
  images/icon/shard*
  images/outfit/dragonflame*
