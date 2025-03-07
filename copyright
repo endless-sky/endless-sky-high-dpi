@@ -804,6 +804,11 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by the National Nuclear Security Administration.
 
 Files:
+ images/effect/graviton?flare/*
+Copyright: JimmyFiryh (https://github.com/JimmyFiryh)
+License: CC-BY-SA-4.0
+
+Files:
  images/projectile/*tinyflare*
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
