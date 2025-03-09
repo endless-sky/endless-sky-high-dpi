@@ -125,6 +125,16 @@ Comment: Incorporating a photo by Aram Dulyan, under the CC-BY-2.0 license.
 
 Files:
  images/outfit/cloud?piercer*
+ images/ship/quarg?guivre*
+ images/ship/quarg?hydra*
+ images/ship/quarg?lindwyrm*
+ images/ship/quarg?wardragon*
+ images/ship/quarg?wyvern*
+ images/thumbnail/quarg?guivre*
+ images/thumbnail/quarg?hydra*
+ images/thumbnail/quarg?lindwyrm*
+ images/thumbnail/quarg?wardragon*
+ images/thumbnail/quarg?wyvern*
 Copyright: 1010todd
 License: CC-BY-SA-4.0
 
@@ -332,6 +342,13 @@ Files:
 Copyright: Evan Fluharty (Evanfluharty@gmail.com)
 License: CC-BY-SA-4.0
 Comment: Derived and completed from works by Maximilian Korber (Wrzlprnft), @Karirawri, and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
+
+Files:
+ images/hardpoint/quarg?ribault*
+ images/outfit/quarg?ribault*
+Copyright: <https://github.com/Saugia>
+License: CC-BY-SA-4.0
+Comment: Derived and completed from works by Evan Fluharty, Maximilian Korber (Wrzlprnft), @Karirawri, and originally drawn up by Tommy Thach (Bladewood) (all under the same license)
 
 Files:
  images/outfit/enforcer?riot?staff*
@@ -785,6 +802,11 @@ Files:
 Copyright: Azure
 License: CC-BY-SA-4.0
 Comment: Derived from works by the National Nuclear Security Administration.
+
+Files:
+ images/effect/graviton?flare/*
+Copyright: Jack George
+License: CC-BY-SA-4.0
 
 Files:
  images/projectile/*tinyflare*
@@ -2401,6 +2423,7 @@ Files:
  images/effect/fissionflare*
  images/effect/pwtflare*
  images/effect/nuke*
+ images/effect/ranseur*
  images/icon/dragonflame*
  images/icon/shard*
  images/outfit/dragonflame*
@@ -2420,6 +2443,7 @@ Files:
  images/projectile/shardactive*
  images/projectile/shardinactive*
  images/projectile/ionball*
+ images/projectile/ribault*
  images/scene/emeraldswordderelict*
  images/ship/emeraldsword*
  images/ship/blackdiamond*
@@ -2629,6 +2653,7 @@ Files:
  images/projectile/korath?inferno*
  images/projectile/missile-0*
  images/projectile/missile-1*
+ images/projectile/slipstream?projector*
  images/ship/battleship*
  images/star/coal-black-hole*
  images/star/neutron*
@@ -2973,6 +2998,13 @@ Files:
 Copyright: Saugia <https://github.com/Saugia>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/ship/quarg?drake*
+ images/thumbnail/quarg?drake*
+Copyright: Saugia (https://github.com/Saugia)
+License: CC-BY-SA-4.0
+Comment: Derived from works by 1010todd, under the same license.
 
 Files:
  images/ship/pirate?valkyrie*
