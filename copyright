@@ -125,6 +125,7 @@ Comment: Incorporating a photo by Aram Dulyan, under the CC-BY-2.0 license.
 
 Files:
  images/outfit/cloud?piercer*
+ iamges/outfit/heavy?blaster*
  images/ship/quarg?guivre*
  images/ship/quarg?hydra*
  images/ship/quarg?lindwyrm*
@@ -2830,6 +2831,8 @@ Comment: Derived from works by Evan Fluharty (under the same license).
 Files:
  images/outfit/gat?turret?hardpoint*
  images/outfit/gat?turret*
+ images/ship/jackal*
+ images/thumbnail/jackal*
 Copyright: bene_dictator <benstaples8068@gmail.com>
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license), detailed by Saugia.
@@ -2981,6 +2984,7 @@ Files:
  images/ship/hauler?vi*
  images/ship/heavy?gust*
  images/ship/mining?drone*
+ images/ship/monitor*
  images/ship/mule*
  images/ship/squall*
  images/ship/sunder*
@@ -2991,6 +2995,7 @@ Files:
  images/thumbnail/hauler?vi*
  images/thumbnail/heavy?gust*
  images/thumbnail/mining?drone*
+ images/thumbnail/monitor*
  images/thumbnail/mule*
  images/thumbnail/squall*
  images/thumbnail/sunder*
