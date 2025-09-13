@@ -3194,6 +3194,13 @@ License: CC0
  Taken from https://archive.md/RVDAB. Cropped.
 
 Files:
+ images/ship/racing?flivver*
+ images/scene/flivver?crash*
+ images/thumbnail/racing?flivver*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+
+Files:
  images/effect/bimodal?impact*
  images/effect/bimodal?switch?impact*
  images/effect/drag?cannon?impact*
@@ -3314,6 +3321,20 @@ Copyright: USGS
 License: public-domain
  From the USGS, and therefore in the public domain because it was created by
  government employees while doing work for the government.
+
+Files:
+ images/scene/iceplains2*
+Copyright: Teddy Kelley
+License: CC0
+Comment:
+ Taken from https://archive.md/SLxh7.
+
+Files:
+ images/scene/sunset*
+Copyright: JJ Skys the Limit
+License: CC0
+Comment:
+ Taken from https://archive.md/35hYy. Cropped.
 
 Files:
  images/ui/paused*
