@@ -423,6 +423,7 @@ Files:
  images/ship/selii'mar*
  images/ship/vareti'het*
  images/ship/fetri'sei*
+ images/ship/builder?satellite*
  images/ship/ember?waste?node/*
  images/ship/void?sprite/*
  images/ship/ararebo*
@@ -631,6 +632,19 @@ Files:
  images/ship/aberrant?trip*
  images/ship/aberrant?triplet*
  images/ship/aberrant?whiskers*
+ images/thumbnail/aberrant?chomper*
+ images/thumbnail/aberrant?dancer*
+ images/thumbnail/aberrant?hugger*
+ images/thumbnail/aberrant?junior*
+ images/thumbnail/aberrant?latte*
+ images/thumbnail/aberrant?longfellow*
+ images/thumbnail/aberrant?mole*
+ images/thumbnail/aberrant?pike*
+ images/thumbnail/aberrant?pileup*
+ images/thumbnail/aberrant?traincar*
+ images/thumbnail/aberrant?trip*
+ images/thumbnail/aberrant?triplet*
+ images/thumbnail/aberrant?whiskers*
  images/ship/bluejacket*
  images/ship/pollen*
  images/ship/windjammer*
@@ -642,12 +656,15 @@ License: CC-BY-SA-4.0
 Files:
  images/effect/avgi?flare/antimatter*
  images/effect/avgi?flare/fusion*
+ images/effect/avgi?flare/ntr*
  images/effect/avgi?flare/remass*
  images/effect/avgi?flare/rcs*
  images/effect/blue?optical?laser?glare*
  images/effect/green?optical?laser?glare*
+ images/effect/uv?excimer?laser?glare*
  images/effect/flotsam?integral?wood*
  images/effect/flotsam?voidfish*
+ images/hardpoint/ureb?turret*
  images/icon/nettle*
  images/icon/orchid*
  images/outfit/concentrating?solar?array*
@@ -663,6 +680,7 @@ Files:
  images/outfit/orchid?missile*
  images/outfit/remass?injector*
  images/outfit/trefoil?board*
+ images/outfit/ureb?turret*
  images/outfit/voidfish*
  images/planet/aviskir*
  images/planet/nebula1*
@@ -685,13 +703,15 @@ Files:
  images/hardpoint/green?optical?laser*
  images/hardpoint/plasmadyne?scoop*
  images/hardpoint/speckle?turret*
+ images/hardpoint/tiny?vls*
+ images/hardpoint/small?vls*
  images/hardpoint/medium?vls*
  images/outfit/anomalous?shield?restorer*
  images/outfit/antimatter?power?cell*
  images/outfit/arc?fusion?torch*
  images/outfit/blue?optical?laser*
  images/outfit/green?optical?laser*
- images/outfit/beam?antimatter?torch*
+ images/outfit/beam?antimatter?drive*
  images/outfit/concealment?lamina*
  images/outfit/deuterium?slush?tank*
  images/outfit/diffuse?deflector*
@@ -700,6 +720,7 @@ Files:
  images/outfit/heatsink?partition*
  images/outfit/inductive?extractor*
  images/outfit/lantern?fission?core*
+ images/outfit/vapor?nuclear?rocket*
  images/outfit/magnetic?scoop*
  images/outfit/magnetoplasma?drive*
  images/outfit/multispectral?scanner*
@@ -721,6 +742,8 @@ Files:
  images/outfit/telescopic?antimissile*
  images/outfit/ultracapacitor?bank*
  images/outfit/ultracapacitor?cell*
+ images/outfit/tiny?vls*
+ images/outfit/small?vls*
  images/outfit/medium?vls*
  images/outfit/zap?fusion?torch*
  images/effect/flotsam?telescopic?antimissile*
@@ -3181,6 +3204,13 @@ License: CC0
  Taken from https://archive.md/RVDAB. Cropped.
 
 Files:
+ images/ship/racing?flivver*
+ images/scene/flivver?crash*
+ images/thumbnail/racing?flivver*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+
+Files:
  images/effect/bimodal?impact*
  images/effect/bimodal?switch?impact*
  images/effect/drag?cannon?impact*
@@ -3301,6 +3331,20 @@ Copyright: USGS
 License: public-domain
  From the USGS, and therefore in the public domain because it was created by
  government employees while doing work for the government.
+
+Files:
+ images/scene/iceplains2*
+Copyright: Teddy Kelley
+License: CC0
+Comment:
+ Taken from https://archive.md/SLxh7.
+
+Files:
+ images/scene/sunset*
+Copyright: JJ Skys the Limit
+License: CC0
+Comment:
+ Taken from https://archive.md/35hYy. Cropped.
 
 Files:
  images/ui/paused*
