@@ -1,0 +1,31 @@
+name: Steam depot
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create_depot:
+    name: Create Steam depot
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create directory structure
+        run: |
+          mkdir plugins
+          mkdir plugins/endless-sky-high-dpi
+          mkdir repository
+      - uses: actions/checkout@v4
+        with:
+          show-progress: false
+          path: ./repository
+      - name: Export git artifact
+        run: |
+          cd repository
+          git archive --format=tar HEAD | (cd ../plugins/endless-sky-high-dpi && tar xf -)
+          cd ..
+          rm -rf repository
+      - name: Upload to Steam depot
+        uses: actions/upload-artifact@v4
+        with:
+          name: hdpi
+          path: .
+          compression-level: 9
