@@ -2408,6 +2408,7 @@ Files:
  images/effect/corrosion?spark*
  images/effect/efreti?flare/*
  images/effect/explosion/pug/*
+ images/effect/explosion/quarg/*
  images/effect/finisher?impact*
  images/effect/plasma?cloud*
  images/effect/plasma?fire*
