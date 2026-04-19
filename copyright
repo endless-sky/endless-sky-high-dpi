@@ -2410,6 +2410,7 @@ Files:
  images/effect/corrosion?spark*
  images/effect/efreti?flare/*
  images/effect/explosion/pug/*
+ images/effect/explosion/quarg/*
  images/effect/finisher?impact*
  images/effect/plasma?cloud*
  images/effect/plasma?fire*
@@ -2991,22 +2992,9 @@ Comment: Derived from works by Becca Tommaso and Michael Zahniser (under the sam
 Files:
  images/ship/hai?ladybug*
  images/thumbnail/hai?ladybug*
- images/planet/station?hai?eight?geocoris*
 Copyright: Nomadic Volcano
 License: CC0 or public-domain
  Made by Nomadic Volcano with textures from texture.ninja.
-
-Files:
- images/planet/wormhole-syndicate-ad*
-Copyright: NomadicVolcano (NomadicVolcano@gmail.com)
-License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser (under the same license)
-
-Files:
- images/planet/station?hai?geocoris*
-Copyright: Nomadic Volcano (NomadicVolcano@gmail.com)
-License: CC-BY-SA-4.0
-Comment: rotate, flip, scale the "images/thumbnail/hai geocoris@2x.png" by Michael Zahniser (under the same license)
 
 Files:
  images/land/badlands13*
@@ -3221,6 +3209,7 @@ Copyright: Daeridanii (https://github.com/Daeridanii1)
 License: CC-BY-SA-4.0
 
 Files:
+ images/_menu/haze-tear*
  images/effect/bimodal?impact*
  images/effect/bimodal?switch?impact*
  images/effect/drag?cannon?impact*
@@ -3309,7 +3298,6 @@ Copyright: Daeridanii (https://github.com/Daeridanii1)
 License: CC-BY-SA-4.0
 
 Files:
- images/_menu/haze-tear*
  images/star/void-scar*
 Copyright: Daeridanii (https://github.com/Daeridanii1)
 License: CC0
@@ -3360,6 +3348,26 @@ Files:
  images/ui/paused*
 Copyright: David Stark (zarkonnen@gmail.com)
 License: CC-BY-SA-4.0
+
+Files:
+ images/scene/icy?opening*
+Copyright: Magmacathie
+License: CC-BY-SA-4.0
+Comment: Taken from https://commons.wikimedia.org/wiki/File:Cave_in_Winter.jpg and cropped.
+
+Files:
+ images/scene/reception*
+Copyright: Anarchist2
+License: CC-BY-SA-4.0
+ Derived from the works of Jean-Etienne Minh-Duy Poirrier from
+ https://commons.wikimedia.org/wiki/File:Reception_desk_@_CHU_Li%C3%A8ge.jpg,
+ originally licensed under CC-BY-SA-2.0.
+
+Files:
+ images/scene/train*
+Copyright: Max Bender
+License: CC0
+Comment: Taken from https://stocksnap.io/photo/architecture-building-Z7GFI7P264 and edited.
 
 Files:
  images/land/beach18*

@@ -1,2 +1,2 @@
 name "Endless Sky High DPI"
-about `This plugin contains double resolution graphics, which are only used if you have a high-dpi monitor or if you set the zoom level above 100%. This will roughly double the amount of memory used by the game.`
+about `This plugin contains double resolution graphics. This will roughly double the amount of memory used by the game.`
